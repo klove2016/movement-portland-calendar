@@ -1,0 +1,34 @@
+name: Update Movement Calendar
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - run: playwright install chromium
+
+      - run: python scrape.py
+
+      - name: Commit updated ICS
+        run: |
+          git config user.name "calendar-bot"
+          git config user.email "calendar-bot@example.com"
+          git add movement_portland.ics
+          git commit -m "Update Movement calendar" || exit 0
+          git push
