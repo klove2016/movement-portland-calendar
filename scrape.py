@@ -35,7 +35,7 @@ def main():
 
         browser.close()
 
-    for index, calendar_group in data.items():
+    for index, calendar_group in enumerate(data):
         category = config[int(index)]["label"]
 
         # Optional skips:
