@@ -23,6 +23,64 @@ def stable_uid(item, category, feed_slug):
     raw = f"{feed_slug}|{category}|{item.get('title')}|{item.get('startLocal')}|{item.get('endLocal')}|{item.get('link')}"
     return hashlib.sha256(raw.encode("utf-8")).hexdigest() + f"@movement-portland-{feed_slug}"
 
+def get_event_times(item):
+    start = datetime.fromisoformat(item["startLocal"])
+    end = datetime.fromisoformat(item["endLocal"])
+
+    # Movement sometimes exposes multi-day endLocal values for courses.
+    # Google Calendar renders those as multi-day blocks, so normalize them
+    # to the start date while preserving the exposed end time.
+    if end.date() != start.date():
+        end = start.replace(
+            hour=end.hour,
+            minute=end.minute,
+            second=end.second,
+            microsecond=end.microsecond,
+        )
+
+        if end <= start:
+            end = start + timedelta(hours=1)
+
+    return start.isoformat(), end.isoformat()
+
+def is_multiday_event(item):
+    start = datetime.fromisoformat(item["startLocal"])
+    end = datetime.fromisoformat(item["endLocal"])
+    return end.date() != start.date()
+
+def build_normal_event_starts(data, config):
+    normal_starts = {}
+
+    for index, calendar_group in enumerate(data):
+        category = config[index]["label"]
+        normal_starts.setdefault(category, [])
+
+        for item in calendar_group.get("data", []):
+            start_raw = item.get("startLocal")
+            end_raw = item.get("endLocal")
+
+            if not start_raw or not end_raw:
+                continue
+
+            start = datetime.fromisoformat(start_raw)
+            end = datetime.fromisoformat(end_raw)
+
+            if end.date() == start.date():
+                normal_starts[category].append(start)
+
+    return normal_starts
+
+def has_individual_sessions_in_range(item, category, normal_starts):
+    start = datetime.fromisoformat(item["startLocal"])
+    end = datetime.fromisoformat(item["endLocal"])
+
+    matches = [
+        dt for dt in normal_starts.get(category, [])
+        if start <= dt <= end
+    ]
+
+    return len(matches) >= 2
+
 def build_event(item, category, feed_slug, include_category_in_title=True):
     title = item.get("title", "Untitled")
     instructor = item.get("instructor", "")
@@ -31,8 +89,7 @@ def build_event(item, category, feed_slug, include_category_in_title=True):
 
     event = Event()
     event.name = f"{category}: {title}" if include_category_in_title else title
-    event.begin = item["startLocal"]
-    event.end = item["endLocal"]
+    event.begin, event.end = get_event_times(item)
     event.location = LOCATION
     event.uid = stable_uid(item, category, feed_slug)
     event.transparent = True
@@ -69,6 +126,8 @@ def main():
 
         browser.close()
 
+    normal_starts = build_normal_event_starts(data, config)
+
     for index, calendar_group in enumerate(data):
         category = config[index]["label"]
 
@@ -91,6 +150,11 @@ def main():
             start_dt = datetime.fromisoformat(start_raw)
 
             if start_dt < now or start_dt > max_date:
+                continue
+
+            # If a multi-day parent/course event already has individual
+            # same-day sessions listed inside its range, skip the parent.
+            if is_multiday_event(item) and has_individual_sessions_in_range(item, category, normal_starts):
                 continue
 
             calendars["all"].events.add(
