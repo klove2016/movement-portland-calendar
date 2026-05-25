@@ -2,6 +2,7 @@ from playwright.sync_api import sync_playwright
 from ics import Calendar, Event
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
+from urllib.parse import urlparse, parse_qs
 import hashlib
 import re
 
@@ -18,6 +19,17 @@ def clean_html(text):
 
 def slugify(text):
     return re.sub(r"[^a-z0-9]+", "_", text.lower()).strip("_")
+
+def get_date_from_link(item):
+    link = item.get("link", "")
+    try:
+        query = parse_qs(urlparse(link).query)
+        date_value = query.get("date", [None])[0]
+        if date_value:
+            return datetime.fromisoformat(date_value).date()
+    except Exception:
+        pass
+    return None
 
 def stable_uid(item, category, feed_slug, begin, end):
     raw = f"{feed_slug}|{category}|{item.get('title')}|{begin}|{end}|{item.get('link')}"
@@ -56,6 +68,14 @@ def build_normal_event_starts(data, config):
 def has_individual_sessions_in_range(item, category, normal_starts):
     start = datetime.fromisoformat(item["startLocal"])
     end = datetime.fromisoformat(item["endLocal"])
+    link_date = get_date_from_link(item)
+
+    if link_date:
+        start = start.replace(
+            year=link_date.year,
+            month=link_date.month,
+            day=link_date.day,
+        )
 
     matches = [
         dt for dt in normal_starts.get(category, [])
@@ -71,30 +91,45 @@ def get_event_time_pairs(item):
     if end.date() == start.date():
         return [(start.isoformat(), end.isoformat())]
 
-    start_day_end = start.replace(
+    link_date = get_date_from_link(item)
+
+    if link_date:
+        first_start = start.replace(
+            year=link_date.year,
+            month=link_date.month,
+            day=link_date.day,
+        )
+
+        pairs = []
+        current_start = first_start
+
+        while current_start.date() <= end.date():
+            current_end = current_start.replace(
+                hour=end.hour,
+                minute=end.minute,
+                second=end.second,
+                microsecond=end.microsecond,
+            )
+
+            if current_end <= current_start:
+                current_end = current_start + timedelta(hours=1)
+
+            pairs.append((current_start.isoformat(), current_end.isoformat()))
+            current_start += timedelta(days=7)
+
+        return pairs
+
+    same_day_end = start.replace(
         hour=end.hour,
         minute=end.minute,
         second=end.second,
         microsecond=end.microsecond,
     )
 
-    if start_day_end <= start:
-        start_day_end = start + timedelta(hours=1)
+    if same_day_end <= start:
+        same_day_end = start + timedelta(hours=1)
 
-    end_day_start = end.replace(
-        hour=start.hour,
-        minute=start.minute,
-        second=start.second,
-        microsecond=start.microsecond,
-    )
-
-    if end_day_start.date() == start.date():
-        return [(start.isoformat(), start_day_end.isoformat())]
-
-    return [
-        (start.isoformat(), start_day_end.isoformat()),
-        (end_day_start.isoformat(), end.isoformat()),
-    ]
+    return [(start.isoformat(), same_day_end.isoformat())]
 
 def build_event(item, category, feed_slug, begin, end, include_category_in_title=True):
     title = item.get("title", "Untitled")
@@ -163,15 +198,28 @@ def main():
             if not start_raw or not end_raw:
                 continue
 
-            start_dt = datetime.fromisoformat(start_raw)
+            first_start = datetime.fromisoformat(start_raw)
+            link_date = get_date_from_link(item)
 
-            if start_dt < now or start_dt > max_date:
+            if link_date:
+                first_start = first_start.replace(
+                    year=link_date.year,
+                    month=link_date.month,
+                    day=link_date.day,
+                )
+
+            if first_start > max_date:
                 continue
 
             if is_multiday_event(item) and has_individual_sessions_in_range(item, category, normal_starts):
                 continue
 
             for begin, end in get_event_time_pairs(item):
+                begin_dt = datetime.fromisoformat(begin)
+
+                if begin_dt < now or begin_dt > max_date:
+                    continue
+
                 calendars["all"].events.add(
                     build_event(item, category, "all", begin, end, include_category_in_title=True)
                 )
