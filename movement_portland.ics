@@ -254,15 +254,6 @@ UID:c8a99f26bd6758e59255d730b5ef7c98379474af7899e029f61867d4c55489fe@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-06-18
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-05-25
-DTEND:20260525T183001Z
-LOCATION:Movement Portland
-DTSTART:20260525T173000Z
-SUMMARY:Climbing: Introduction to Rope Climbing
-UID:07ff218c640bec3c5506881a5cb5a5c1bcdf40faeb1c2f942abadacbf16bb56f@movement-portland
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-05-25
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-01
 DTEND:20260702T020000Z
 LOCATION:Movement Portland
@@ -423,6 +414,15 @@ DTSTART:20260616T133000Z
 SUMMARY:Fitness: Strength
 UID:0a0ca0e5a30398a5ae5ec2134d1296a5c92f2f62962ffdb35a601a2719fbd6c6@movement-portland
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-06-16
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-05-27
+DTEND:20260528T010000Z
+LOCATION:Movement Portland
+DTSTART:20260528T000000Z
+SUMMARY:Climbing: Introduction to Rope Climbing
+UID:7be33de538ad70974ccc9667329cc550af69e169b16413e693c3bb2db0dc45e5@movement-portland
+URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-05-27
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-07-14
