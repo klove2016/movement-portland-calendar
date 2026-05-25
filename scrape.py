@@ -19,34 +19,17 @@ def clean_html(text):
 def slugify(text):
     return re.sub(r"[^a-z0-9]+", "_", text.lower()).strip("_")
 
-def stable_uid(item, category, feed_slug):
-    raw = f"{feed_slug}|{category}|{item.get('title')}|{item.get('startLocal')}|{item.get('endLocal')}|{item.get('link')}"
+def stable_uid(item, category, feed_slug, begin, end):
+    raw = f"{feed_slug}|{category}|{item.get('title')}|{begin}|{end}|{item.get('link')}"
     return hashlib.sha256(raw.encode("utf-8")).hexdigest() + f"@movement-portland-{feed_slug}"
-
-def get_event_times(item):
-    start = datetime.fromisoformat(item["startLocal"])
-    end = datetime.fromisoformat(item["endLocal"])
-
-    # Movement sometimes exposes multi-day endLocal values for courses.
-    # Google Calendar renders those as multi-day blocks, so normalize them
-    # to the start date while preserving the exposed end time.
-    if end.date() != start.date():
-        end = start.replace(
-            hour=end.hour,
-            minute=end.minute,
-            second=end.second,
-            microsecond=end.microsecond,
-        )
-
-        if end <= start:
-            end = start + timedelta(hours=1)
-
-    return start.isoformat(), end.isoformat()
 
 def is_multiday_event(item):
     start = datetime.fromisoformat(item["startLocal"])
     end = datetime.fromisoformat(item["endLocal"])
     return end.date() != start.date()
+
+def same_time(a, b):
+    return a.hour == b.hour and a.minute == b.minute
 
 def build_normal_event_starts(data, config):
     normal_starts = {}
@@ -76,12 +59,44 @@ def has_individual_sessions_in_range(item, category, normal_starts):
 
     matches = [
         dt for dt in normal_starts.get(category, [])
-        if start <= dt <= end
+        if start <= dt <= end and same_time(dt, start)
     ]
 
-    return len(matches) >= 2
+    return len(matches) >= 1
 
-def build_event(item, category, feed_slug, include_category_in_title=True):
+def get_event_time_pairs(item):
+    start = datetime.fromisoformat(item["startLocal"])
+    end = datetime.fromisoformat(item["endLocal"])
+
+    if end.date() == start.date():
+        return [(start.isoformat(), end.isoformat())]
+
+    start_day_end = start.replace(
+        hour=end.hour,
+        minute=end.minute,
+        second=end.second,
+        microsecond=end.microsecond,
+    )
+
+    if start_day_end <= start:
+        start_day_end = start + timedelta(hours=1)
+
+    end_day_start = end.replace(
+        hour=start.hour,
+        minute=start.minute,
+        second=start.second,
+        microsecond=start.microsecond,
+    )
+
+    if end_day_start.date() == start.date():
+        return [(start.isoformat(), start_day_end.isoformat())]
+
+    return [
+        (start.isoformat(), start_day_end.isoformat()),
+        (end_day_start.isoformat(), end.isoformat()),
+    ]
+
+def build_event(item, category, feed_slug, begin, end, include_category_in_title=True):
     title = item.get("title", "Untitled")
     instructor = item.get("instructor", "")
     description = clean_html(item.get("description", ""))
@@ -89,9 +104,10 @@ def build_event(item, category, feed_slug, include_category_in_title=True):
 
     event = Event()
     event.name = f"{category}: {title}" if include_category_in_title else title
-    event.begin, event.end = get_event_times(item)
+    event.begin = begin
+    event.end = end
     event.location = LOCATION
-    event.uid = stable_uid(item, category, feed_slug)
+    event.uid = stable_uid(item, category, feed_slug, begin, end)
     event.transparent = True
 
     event.description = "\n".join(
@@ -152,18 +168,17 @@ def main():
             if start_dt < now or start_dt > max_date:
                 continue
 
-            # If a multi-day parent/course event already has individual
-            # same-day sessions listed inside its range, skip the parent.
             if is_multiday_event(item) and has_individual_sessions_in_range(item, category, normal_starts):
                 continue
 
-            calendars["all"].events.add(
-                build_event(item, category, "all", include_category_in_title=True)
-            )
+            for begin, end in get_event_time_pairs(item):
+                calendars["all"].events.add(
+                    build_event(item, category, "all", begin, end, include_category_in_title=True)
+                )
 
-            calendars[slug].events.add(
-                build_event(item, category, slug, include_category_in_title=False)
-            )
+                calendars[slug].events.add(
+                    build_event(item, category, slug, begin, end, include_category_in_title=False)
+                )
 
     for slug, cal in calendars.items():
         output_file = f"movement_portland_{slug}.ics"
