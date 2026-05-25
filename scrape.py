@@ -8,7 +8,7 @@ import re
 
 URL = "https://movementgyms.com/portland/calendar/#activity=yoga&location=portland"
 LOCATION = "Movement Portland"
-DAYS_AHEAD = 60
+DAYS_AHEAD = 90
 
 SKIP_CATEGORIES = {"Youth Programs", "First Visit"}
 
@@ -40,8 +40,33 @@ def is_multiday_event(item):
     end = datetime.fromisoformat(item["endLocal"])
     return end.date() != start.date()
 
+def is_series_parent(item):
+    text = " ".join([
+        item.get("title", ""),
+        clean_html(item.get("description", "")),
+    ]).lower()
+
+    return (
+        "series" in text
+        or "over the course" in text
+        or re.search(r"\b\d+\s+classes\b", text) is not None
+    )
+
 def same_time(a, b):
     return a.hour == b.hour and a.minute == b.minute
+
+def get_actual_start(item):
+    start = datetime.fromisoformat(item["startLocal"])
+    link_date = get_date_from_link(item)
+
+    if link_date:
+        start = start.replace(
+            year=link_date.year,
+            month=link_date.month,
+            day=link_date.day,
+        )
+
+    return start
 
 def build_normal_event_starts(data, config):
     normal_starts = {}
@@ -57,25 +82,17 @@ def build_normal_event_starts(data, config):
             if not start_raw or not end_raw:
                 continue
 
-            start = datetime.fromisoformat(start_raw)
+            start = get_actual_start(item)
             end = datetime.fromisoformat(end_raw)
 
-            if end.date() == start.date():
+            if end.date() == datetime.fromisoformat(start_raw).date():
                 normal_starts[category].append(start)
 
     return normal_starts
 
 def has_individual_sessions_in_range(item, category, normal_starts):
-    start = datetime.fromisoformat(item["startLocal"])
+    start = get_actual_start(item)
     end = datetime.fromisoformat(item["endLocal"])
-    link_date = get_date_from_link(item)
-
-    if link_date:
-        start = start.replace(
-            year=link_date.year,
-            month=link_date.month,
-            day=link_date.day,
-        )
 
     matches = [
         dt for dt in normal_starts.get(category, [])
@@ -85,51 +102,20 @@ def has_individual_sessions_in_range(item, category, normal_starts):
     return len(matches) >= 1
 
 def get_event_time_pairs(item):
-    start = datetime.fromisoformat(item["startLocal"])
-    end = datetime.fromisoformat(item["endLocal"])
+    start = get_actual_start(item)
+    raw_end = datetime.fromisoformat(item["endLocal"])
 
-    if end.date() == start.date():
-        return [(start.isoformat(), end.isoformat())]
-
-    link_date = get_date_from_link(item)
-
-    if link_date:
-        first_start = start.replace(
-            year=link_date.year,
-            month=link_date.month,
-            day=link_date.day,
-        )
-
-        pairs = []
-        current_start = first_start
-
-        while current_start.date() <= end.date():
-            current_end = current_start.replace(
-                hour=end.hour,
-                minute=end.minute,
-                second=end.second,
-                microsecond=end.microsecond,
-            )
-
-            if current_end <= current_start:
-                current_end = current_start + timedelta(hours=1)
-
-            pairs.append((current_start.isoformat(), current_end.isoformat()))
-            current_start += timedelta(days=7)
-
-        return pairs
-
-    same_day_end = start.replace(
-        hour=end.hour,
-        minute=end.minute,
-        second=end.second,
-        microsecond=end.microsecond,
+    end = start.replace(
+        hour=raw_end.hour,
+        minute=raw_end.minute,
+        second=raw_end.second,
+        microsecond=raw_end.microsecond,
     )
 
-    if same_day_end <= start:
-        same_day_end = start + timedelta(hours=1)
+    if end <= start:
+        end = start + timedelta(hours=1)
 
-    return [(start.isoformat(), same_day_end.isoformat())]
+    return [(start.isoformat(), end.isoformat())]
 
 def build_event(item, category, feed_slug, begin, end, include_category_in_title=True):
     title = item.get("title", "Untitled")
@@ -192,34 +178,28 @@ def main():
             calendars[slug].creator = f"Movement Portland {category} Calendar Sync"
 
         for item in calendar_group.get("data", []):
+            if item.get("isAvailable") is False:
+                continue
+
             start_raw = item.get("startLocal")
             end_raw = item.get("endLocal")
 
             if not start_raw or not end_raw:
                 continue
 
-            first_start = datetime.fromisoformat(start_raw)
-            link_date = get_date_from_link(item)
+            actual_start = get_actual_start(item)
 
-            if link_date:
-                first_start = first_start.replace(
-                    year=link_date.year,
-                    month=link_date.month,
-                    day=link_date.day,
-                )
-
-            if first_start > max_date:
+            if actual_start < now or actual_start > max_date:
                 continue
 
-            if is_multiday_event(item) and has_individual_sessions_in_range(item, category, normal_starts):
+            if (
+                is_multiday_event(item)
+                and is_series_parent(item)
+                and has_individual_sessions_in_range(item, category, normal_starts)
+            ):
                 continue
 
             for begin, end in get_event_time_pairs(item):
-                begin_dt = datetime.fromisoformat(begin)
-
-                if begin_dt < now or begin_dt > max_date:
-                    continue
-
                 calendars["all"].events.add(
                     build_event(item, category, "all", begin, end, include_category_in_title=True)
                 )
