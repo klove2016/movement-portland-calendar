@@ -3,27 +3,61 @@ from ics import Calendar, Event
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
 import hashlib
+import copy
+import re
 
 URL = "https://movementgyms.com/portland/calendar/#activity=yoga&location=portland"
-OUTPUT_FILE = "movement_portland.ics"
 LOCATION = "Movement Portland"
 DAYS_AHEAD = 60
+
+SKIP_CATEGORIES = {"Youth Programs", "First Visit"}
 
 def clean_html(text):
     if not text:
         return ""
     return BeautifulSoup(text, "html.parser").get_text(" ", strip=True)
 
+def slugify(text):
+    return re.sub(r"[^a-z0-9]+", "_", text.lower()).strip("_")
+
 def stable_uid(item, category):
     raw = f"{category}|{item.get('title')}|{item.get('startLocal')}|{item.get('endLocal')}|{item.get('link')}"
     return hashlib.sha256(raw.encode("utf-8")).hexdigest() + "@movement-portland"
+
+def build_event(item, category, include_category_in_title=True):
+    title = item.get("title", "Untitled")
+    instructor = item.get("instructor", "")
+    description = clean_html(item.get("description", ""))
+    link = item.get("link", "")
+
+    event = Event()
+    event.name = f"{category}: {title}" if include_category_in_title else title
+    event.begin = item["startLocal"]
+    event.end = item["endLocal"]
+    event.location = LOCATION
+    event.uid = stable_uid(item, category)
+
+    event.description = "\n".join(
+        part for part in [
+            f"Category: {category}",
+            f"Instructor: {instructor}" if instructor else "",
+            description,
+            link,
+        ]
+        if part
+    )
+
+    if link:
+        event.url = link
+
+    return event
 
 def main():
     now = datetime.now(timezone.utc)
     max_date = now + timedelta(days=DAYS_AHEAD)
 
-    cal = Calendar()
-    cal.creator = "Movement Portland Calendar Sync"
+    calendars = {"all": Calendar()}
+    calendars["all"].creator = "Movement Portland Calendar Sync"
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -36,11 +70,16 @@ def main():
         browser.close()
 
     for index, calendar_group in enumerate(data):
-        category = config[int(index)]["label"]
+        category = config[index]["label"]
 
-        # Optional skips:
-        if category in ["Youth Programs", "First Visit"]:
+        if category in SKIP_CATEGORIES:
             continue
+
+        slug = slugify(category)
+
+        if slug not in calendars:
+            calendars[slug] = Calendar()
+            calendars[slug].creator = f"Movement Portland {category} Calendar Sync"
 
         for item in calendar_group.get("data", []):
             start_raw = item.get("startLocal")
@@ -53,37 +92,19 @@ def main():
             if start_dt < now or start_dt > max_date:
                 continue
 
-            title = item.get("title", "Untitled")
-            instructor = item.get("instructor", "")
-            description = clean_html(item.get("description", ""))
-            link = item.get("link", "")
+            all_event = build_event(item, category, include_category_in_title=True)
+            category_event = build_event(item, category, include_category_in_title=False)
 
-            event = Event()
-            event.name = f"{category}: {title}"
-            event.begin = start_raw
-            event.end = end_raw
-            event.location = LOCATION
-            event.uid = stable_uid(item, category)
+            calendars["all"].events.add(all_event)
+            calendars[slug].events.add(category_event)
 
-            event.description = "\n".join(
-                part for part in [
-                    f"Category: {category}",
-                    f"Instructor: {instructor}" if instructor else "",
-                    description,
-                    link,
-                ]
-                if part
-            )
+    for slug, cal in calendars.items():
+        output_file = f"movement_portland_{slug}.ics"
 
-            if link:
-                event.url = link
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.writelines(cal)
 
-            cal.events.add(event)
-
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.writelines(cal)
-
-    print(f"Wrote {len(cal.events)} events to {OUTPUT_FILE}")
+        print(f"Wrote {len(cal.events)} events to {output_file}")
 
 if __name__ == "__main__":
     main()
