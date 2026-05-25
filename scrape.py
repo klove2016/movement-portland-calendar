@@ -19,11 +19,11 @@ def clean_html(text):
 def slugify(text):
     return re.sub(r"[^a-z0-9]+", "_", text.lower()).strip("_")
 
-def stable_uid(item, category):
-    raw = f"{category}|{item.get('title')}|{item.get('startLocal')}|{item.get('endLocal')}|{item.get('link')}"
-    return hashlib.sha256(raw.encode("utf-8")).hexdigest() + "@movement-portland"
+def stable_uid(item, category, feed_slug):
+    raw = f"{feed_slug}|{category}|{item.get('title')}|{item.get('startLocal')}|{item.get('endLocal')}|{item.get('link')}"
+    return hashlib.sha256(raw.encode("utf-8")).hexdigest() + f"@movement-portland-{feed_slug}"
 
-def build_event(item, category, include_category_in_title=True):
+def build_event(item, category, feed_slug, include_category_in_title=True):
     title = item.get("title", "Untitled")
     instructor = item.get("instructor", "")
     description = clean_html(item.get("description", ""))
@@ -34,8 +34,8 @@ def build_event(item, category, include_category_in_title=True):
     event.begin = item["startLocal"]
     event.end = item["endLocal"]
     event.location = LOCATION
-    event.uid = stable_uid(item, category)
-    event.transparent = True  # Marks event as Free instead of Busy
+    event.uid = stable_uid(item, category, feed_slug)
+    event.transparent = True
 
     event.description = "\n".join(
         part for part in [
@@ -94,11 +94,11 @@ def main():
                 continue
 
             calendars["all"].events.add(
-                build_event(item, category, include_category_in_title=True)
+                build_event(item, category, "all", include_category_in_title=True)
             )
 
             calendars[slug].events.add(
-                build_event(item, category, include_category_in_title=False)
+                build_event(item, category, slug, include_category_in_title=False)
             )
 
     for slug, cal in calendars.items():
