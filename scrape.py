@@ -3,7 +3,6 @@ from ics import Calendar, Event
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
 import hashlib
-import copy
 import re
 
 URL = "https://movementgyms.com/portland/calendar/#activity=yoga&location=portland"
@@ -36,6 +35,7 @@ def build_event(item, category, include_category_in_title=True):
     event.end = item["endLocal"]
     event.location = LOCATION
     event.uid = stable_uid(item, category)
+    event.transparent = True  # Marks event as Free instead of Busy
 
     event.description = "\n".join(
         part for part in [
@@ -89,14 +89,17 @@ def main():
                 continue
 
             start_dt = datetime.fromisoformat(start_raw)
+
             if start_dt < now or start_dt > max_date:
                 continue
 
-            all_event = build_event(item, category, include_category_in_title=True)
-            category_event = build_event(item, category, include_category_in_title=False)
+            calendars["all"].events.add(
+                build_event(item, category, include_category_in_title=True)
+            )
 
-            calendars["all"].events.add(all_event)
-            calendars[slug].events.add(category_event)
+            calendars[slug].events.add(
+                build_event(item, category, include_category_in_title=False)
+            )
 
     for slug, cal in calendars.items():
         output_file = f"movement_portland_{slug}.ics"
