@@ -25,10 +25,10 @@ jobs:
 
       - run: python scrape.py
 
-      - name: Commit updated ICS
+      - name: Commit updated ICS files
         run: |
           git config user.name "calendar-bot"
           git config user.email "calendar-bot@example.com"
-          git add movement_portland.ics
-          git commit -m "Update Movement calendar" || exit 0
+          git add movement_portland_*.ics
+          git commit -m "Update Movement calendars" || exit 0
           git push
