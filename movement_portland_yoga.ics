@@ -1622,16 +1622,6 @@ UID:33da895445ecbf4736b0d2b1a7cc66fbfd701c8deb7d12c24bdbc4734f509dca@movement-po
 URL:https://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-07-26
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-05-27
-DTEND:20260528T033000Z
-LOCATION:Movement Portland
-DTSTART:20260528T021500Z
-SUMMARY:Deep Stretch
-TRANSP:TRANSPARENT
-UID:4e31867a655203cc4ab09ac664f5353ea36db8467934c79f40a6a5f2d6c03922@movement-portland-yoga
-URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-05-27
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-26
 DTEND:20260726T183000Z
 LOCATION:Movement Portland
@@ -1642,16 +1632,6 @@ UID:b73dafeada8c85cfde4754551093335a8800c51237e1ecb6327770f38e599b0d@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-26
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Bryan F.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-06-11
-DTEND:20260612T020000Z
-LOCATION:Movement Portland
-DTSTART:20260612T010000Z
-SUMMARY:Power Vinyasa
-TRANSP:TRANSPARENT
-UID:4f37f5c4dcbb090d528bde4477e29e943d4a583359f99757d042bae60495f65b@movement-portland-yoga
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-06-11
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-07-23
 DTEND:20260723T143000Z
 LOCATION:Movement Portland
@@ -1660,6 +1640,16 @@ SUMMARY:Hatha Yoga
 TRANSP:TRANSPARENT
 UID:9efb0bc1dab74b3629cbdf1e2094f0b76058a0d5b9bd9f4b9c56b8e429a82c5e@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-07-23
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Bryan F.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-06-11
+DTEND:20260612T020000Z
+LOCATION:Movement Portland
+DTSTART:20260612T010000Z
+SUMMARY:Power Vinyasa
+TRANSP:TRANSPARENT
+UID:4f37f5c4dcbb090d528bde4477e29e943d4a583359f99757d042bae60495f65b@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-06-11
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-06-01

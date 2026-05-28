@@ -612,16 +612,6 @@ UID:f37d363b4dd75fe1c8c025d964c368074c0d4a929414773ee362ce72be8d4f33@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-06-26
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-05-27
-DTEND:20260528T033000Z
-LOCATION:Movement Portland
-DTSTART:20260528T021500Z
-SUMMARY:Yoga: Deep Stretch
-TRANSP:TRANSPARENT
-UID:869c2ce4ce588cf3cd1dfdbf0c6cd2a12f4422616a16652cbda573ddf040e6e0@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-05-27
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Paige G.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-08-15
 DTEND:20260815T170000Z
 LOCATION:Movement Portland
@@ -4152,16 +4142,6 @@ UID:187ee741a6f988a7b6b383ab2dadb2f37249f2614c8ffeb21d4c0e8f6353a146@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-06-23
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Events\nQueer Climb Nights are events designed to unite the LGBTQIA+ community through climbing. These gatherings offer a supportive environment for climbers to connect\, share experiences and enjoy the sport together. Event is hosted by Queer Mountaineers on the last Wednesday of each month.\nhttps://portal.movementgyms.com/portland/programs/queer-climb-night-pdx?course=U2Vzc2lvbjoyMzg1MjgzMTE=&date=2026-05-27
-DTEND:20260528T040000Z
-LOCATION:Movement Portland
-DTSTART:20260528T020000Z
-SUMMARY:Events: Queer Climb Night
-TRANSP:TRANSPARENT
-UID:7206ffe2b7d670a3e8464b7ba6b4e02d2efb2a700258047f435878ad18be1cd5@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/queer-climb-night-pdx?course=U2Vzc2lvbjoyMzg1MjgzMTE=&date=2026-05-27
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-07-30
 DTEND:20260731T021500Z
 LOCATION:Movement Portland
@@ -4590,16 +4570,6 @@ SUMMARY:Fitness: Mat Pilates
 TRANSP:TRANSPARENT
 UID:916fd56261e2811dc36693e52cde934aff405fdf34ca76ae5364013615d74fa9@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-07-18
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nInstructor: Claire R.\nIt’s trivia on the wall! Grab your harness and thinking cap!\nA team-based event where you'll rope up\, retrieve trivia questions from the wall\, and work together to lock in answers.\nAll questions are general knowledge\, so you don’t need to be a trivia pro - just come ready to have a great time! The night is hosted by our very own trivia royalty\, Claire\, who’s bringing the questions\, the banter\, and the vibes.\nhttps://portal.movementgyms.com/portland/programs/game-night?course=U2Vzc2lvbjoxNzU1OTA4Mzg=&date=2026-05-27
-DTEND:20260528T030000Z
-LOCATION:Movement Portland
-DTSTART:20260528T010000Z
-SUMMARY:Events: Trivia Night
-TRANSP:TRANSPARENT
-UID:eafcb49ebb0ce1061c55f010ebf4d4dff3b1a214c2796c1061c6ce2ec1191a99@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/game-night?course=U2Vzc2lvbjoxNzU1OTA4Mzg=&date=2026-05-27
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-06-01
