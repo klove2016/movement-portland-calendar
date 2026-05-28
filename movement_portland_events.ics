@@ -192,6 +192,16 @@ UID:26c82ad17859bff1f7eec7f55741cd3df0be9b01280f98fc7eb9e7f63a453fa7@movement-po
 URL:https://portal.movementgyms.com/portland/programs/ladies-climbing-coalition-meet-up?course=U2Vzc2lvbjoxOTA5NDI2NjQ=&date=2026-08-06
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nDiseñado para hispanohablantes con poca o ninguna experiencia en escalada. En este curso aprenderás las habilidades necesarias para escalar de forma segura en un gimnasio.\nhttps://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2026-08-19
+DTEND:20260820T033000Z
+LOCATION:Movement Portland
+DTSTART:20260820T013000Z
+SUMMARY:Loco por la Aventura
+TRANSP:TRANSPARENT
+UID:7554daf4589202827cccb92a069beb6726e24decca27db21c84f7d7ae65fb3f0@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2026-08-19
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nDiseñado para hispanohablantes con poca o ninguna experiencia en escalada. En este curso aprenderás las habilidades necesarias para escalar de forma segura en un gimnasio.\nhttps://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2026-07-15
 DTEND:20260716T033000Z
 LOCATION:Movement Portland

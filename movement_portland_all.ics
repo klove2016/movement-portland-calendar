@@ -122,6 +122,16 @@ UID:ff3eae6efef1e71859c2c7535f022ea6e1190311b82e7c271bfb2750f0f4acf6@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-06-17
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-19
+DTEND:20260820T010000Z
+LOCATION:Movement Portland
+DTSTART:20260820T000000Z
+SUMMARY:Climbing: Introduction to Rope Climbing
+TRANSP:TRANSPARENT
+UID:ca850fceb5db3e525aba83b85e9c4aeafaad3ac79d925eef543f1c5e4e5f0e9b@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-19
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-06-14
 DTEND:20260614T183000Z
 LOCATION:Movement Portland
@@ -1012,6 +1022,16 @@ UID:8bd755e49e5c3d7761fe416725aa9a6871bc141e4b5f3c0f0895ee6392e0cd0c@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-05-28
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-08-19
+DTEND:20260819T143000Z
+LOCATION:Movement Portland
+DTSTART:20260819T133000Z
+SUMMARY:Fitness: Strength
+TRANSP:TRANSPARENT
+UID:6043ea932adda293642dc15329638fb90286572cd7ac9a6b96f610111db79940@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-08-19
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lorenzo D.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-31
 DTEND:20260801T014500Z
 LOCATION:Movement Portland
@@ -1612,6 +1632,26 @@ UID:fb0afc5b6268f1adf5c53f5cd0183b458cca3be20f3048f8b48bd8f08f05e178@movement-po
 URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-07-19
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-19
+DTEND:20260819T200000Z
+LOCATION:Movement Portland
+DTSTART:20260819T190000Z
+SUMMARY:Yoga: Power Vinyasa
+TRANSP:TRANSPARENT
+UID:62f0c3c1612aadb6aae88683049efabe9f2f9a6723eb44863d5557452ba36688@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-19
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-19
+DTEND:20260820T033000Z
+LOCATION:Movement Portland
+DTSTART:20260820T021500Z
+SUMMARY:Yoga: Deep Stretch
+TRANSP:TRANSPARENT
+UID:e4534a5f8f74166b0a76d927163613e65cba3f9fc92f75b529e918e5b3c4974c@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-19
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-06-17
 DTEND:20260618T020000Z
 LOCATION:Movement Portland
@@ -1900,6 +1940,16 @@ SUMMARY:Fitness: Alpine Fit
 TRANSP:TRANSPARENT
 UID:927f4ff5e2f6649e0c87d54c244d5aa3490beccfa4555797d7fd9a8ff34ec117@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-08-07
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-08-19
+DTEND:20260820T003000Z
+LOCATION:Movement Portland
+DTSTART:20260819T233000Z
+SUMMARY:Fitness: Mat Pilates
+TRANSP:TRANSPARENT
+UID:7d8aced851de315f74ea11c89df1b5ae2aa176ac47602862bfea2ef92a154654@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-08-19
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-06-28
@@ -2260,6 +2310,16 @@ SUMMARY:Fitness: Strength/Cardio
 TRANSP:TRANSPARENT
 UID:31862550124e51aec85df3590fced3f3f7ed6997596eec74bd8609a926327045@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-07-16
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Events\nDiseñado para hispanohablantes con poca o ninguna experiencia en escalada. En este curso aprenderás las habilidades necesarias para escalar de forma segura en un gimnasio.\nhttps://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2026-08-19
+DTEND:20260820T033000Z
+LOCATION:Movement Portland
+DTSTART:20260820T013000Z
+SUMMARY:Events: Loco por la Aventura
+TRANSP:TRANSPARENT
+UID:8458e8229ff80c47cde17864cdbf77257fbbc543b27807f0da16e8dc51e3a5f4@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2026-08-19
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-06-17
@@ -3242,6 +3302,16 @@ UID:c7c173793b89e138b424f61ff41fd6ba688c86a41ce770fad61975cee413d599@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-07-20
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-19
+DTEND:20260820T020000Z
+LOCATION:Movement Portland
+DTSTART:20260820T004500Z
+SUMMARY:Yoga: Power Vinyasa
+TRANSP:TRANSPARENT
+UID:1f4ec6741bcad07bc14416a26654fca2dc0102ac89ef3dd54d01c35e2e568ea7@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-19
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-06-29
 DTEND:20260630T031500Z
 LOCATION:Movement Portland
@@ -4202,6 +4272,16 @@ UID:e38ea2de6b30bd2deaf353e398d8da650d830e06f4ddf150933090bc8d72f255@movement-po
 URL:https://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-06-18
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nLearn how to use heel rotation to drive powerful hip movement\, maintain foot tension and precise placement to keep your feet from slipping\, and master heel and toe hooks for better control. Through targeted drills and direct coaching\, you'll gain new purpose and awareness in your footwork.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-heel-and-toe-hooks?course=U2Vzc2lvbjoxMDA1MjU1OTI=&date=2026-08-19
+DTEND:20260820T023000Z
+LOCATION:Movement Portland
+DTSTART:20260820T010000Z
+SUMMARY:Climbing: Intermediate Technique: Heel and Toe Hooks
+TRANSP:TRANSPARENT
+UID:b4ea1ed89ec8853553a1bcbb57bb664c194dc81e0da87270355e1d7dce755687@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/intermediate-technique-heel-and-toe-hooks?course=U2Vzc2lvbjoxMDA1MjU1OTI=&date=2026-08-19
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-06-30
 DTEND:20260630T143000Z
 LOCATION:Movement Portland
@@ -4450,6 +4530,16 @@ SUMMARY:Climbing: Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:0a1a60200c3fbf7668eb8eda16624cb4dc9a2de3d48aea86e3cf9de85eefe4d2@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-07-10
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-19
+DTEND:20260820T020000Z
+LOCATION:Movement Portland
+DTSTART:20260820T010000Z
+SUMMARY:Fitness: Total Body Fit
+TRANSP:TRANSPARENT
+UID:808aa3127fabaf690b7fbd871fced2b0329f7b1019ce51f1b8cf6c14cb17a321@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-19
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-08-03
