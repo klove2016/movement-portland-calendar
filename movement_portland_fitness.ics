@@ -1102,6 +1102,16 @@ UID:8c90fffab7f01e8a1affd64ef48cb2e7c67ec754c60d505295f897e72aad2ad4@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-07-22
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-08-21
+DTEND:20260821T200000Z
+LOCATION:Movement Portland
+DTSTART:20260821T190000Z
+SUMMARY:Alpine Fit
+TRANSP:TRANSPARENT
+UID:e08bb1e86776b3a9cd560ac9fbc1aee53f3d3a4df36287fc614d13b1aaba1e95@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-08-21
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Paige G.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-06-06
 DTEND:20260606T170000Z
 LOCATION:Movement Portland
