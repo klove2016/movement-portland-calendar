@@ -972,6 +972,16 @@ UID:665c3837c3f6118d243e2c6c21d468e98c540571c56bf1bbbfce2f3adca49194@movement-po
 URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-07-04
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-24
+DTEND:20260825T033000Z
+LOCATION:Movement Portland
+DTSTART:20260825T021500Z
+SUMMARY:Deep Stretch
+TRANSP:TRANSPARENT
+UID:b19b34401707597a7d11f70c88f86dacac38e789c9e91101dc5182727a12aa51@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-24
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Danny M.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-08-20
 DTEND:20260821T033000Z
 LOCATION:Movement Portland
@@ -1432,14 +1442,14 @@ UID:8cc458f682b990ca5a0bff793604ee54d8d48f05c9828f13835cfb71509d5f98@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-06-24
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-07-14
-DTEND:20260714T143000Z
+DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-24
+DTEND:20260825T020000Z
 LOCATION:Movement Portland
-DTSTART:20260714T133000Z
-SUMMARY:Hatha Yoga
+DTSTART:20260825T004500Z
+SUMMARY:Power Vinyasa
 TRANSP:TRANSPARENT
-UID:bc9633d96bdde399b7f6874a52914c218aa0ad0b9203aa1b022484a36addd563@movement-portland-yoga
-URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-07-14
+UID:5bd84d96c23796b8aed5fbf444923c609f695a8d543922e6b8708c8b258e5271@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-24
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-19
@@ -1460,6 +1470,16 @@ SUMMARY:Hatha Yoga
 TRANSP:TRANSPARENT
 UID:b68e30727acb39ec182000a980144e6c7e0fb3e89eaf77d5381bd3d9e0cbedff@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-06-26
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-07-14
+DTEND:20260714T143000Z
+LOCATION:Movement Portland
+DTSTART:20260714T133000Z
+SUMMARY:Hatha Yoga
+TRANSP:TRANSPARENT
+UID:bc9633d96bdde399b7f6874a52914c218aa0ad0b9203aa1b022484a36addd563@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-07-14
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-06-25
@@ -1710,6 +1730,16 @@ SUMMARY:Hatha Yoga
 TRANSP:TRANSPARENT
 UID:f1dbd8aed9b31969331a0ad02f783ce5081676bfaf45d95e078f4320c80d47ab@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-08-18
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-24
+DTEND:20260824T200000Z
+LOCATION:Movement Portland
+DTSTART:20260824T190000Z
+SUMMARY:Power Vinyasa
+TRANSP:TRANSPARENT
+UID:0c0b4f255c205ae353870f560d748ddd8bf00d6171597cab3ebd0a311ae0f532@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-24
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-20

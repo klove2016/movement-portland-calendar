@@ -1042,6 +1042,16 @@ UID:accf68d90c14490aee44b22db39584f2e9ad50ac4ac7ba70a833293d79d8694f@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-06-03
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-24
+DTEND:20260825T020000Z
+LOCATION:Movement Portland
+DTSTART:20260825T010000Z
+SUMMARY:Total Body Fit
+TRANSP:TRANSPARENT
+UID:b623b6bc98cdf78026d775d5212dd0a75ce03a0a1337d36ee96748c2b2113e15@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-24
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-07-31
 DTEND:20260731T200000Z
 LOCATION:Movement Portland
@@ -1070,6 +1080,16 @@ SUMMARY:Strength
 TRANSP:TRANSPARENT
 UID:f47122b73c596daaf92fe53166c808c4726351e77b81efb7500693668a43e22f@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-08-10
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-08-24
+DTEND:20260824T143000Z
+LOCATION:Movement Portland
+DTSTART:20260824T133000Z
+SUMMARY:Strength
+TRANSP:TRANSPARENT
+UID:b898a243621f194dc19e3449ca57e9e7c93e62cd0f1ce432476e2579b24469c5@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-08-24
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-07-08
