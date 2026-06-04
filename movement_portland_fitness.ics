@@ -632,16 +632,6 @@ UID:84fc260f0d7fc7423d3ad5120668da692a857321c02324313a4b65603020f7d9@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-07-14
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-06-03
-DTEND:20260604T003000Z
-LOCATION:Movement Portland
-DTSTART:20260603T233000Z
-SUMMARY:Mat Pilates
-TRANSP:TRANSPARENT
-UID:30a012951e81ef81dfb6bc0e5e29d73f3294f330b38af1451b9b3e68fea1e7ac@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-06-03
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-08-04
 DTEND:20260804T143000Z
 LOCATION:Movement Portland
@@ -1030,16 +1020,6 @@ SUMMARY:Alpine Fit
 TRANSP:TRANSPARENT
 UID:23450dbd583451e91da6768f49ba864f2fb8eff90146e603171a465c81c24bed@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-07-10
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-06-03
-DTEND:20260604T020000Z
-LOCATION:Movement Portland
-DTSTART:20260604T010000Z
-SUMMARY:Total Body Fit
-TRANSP:TRANSPARENT
-UID:accf68d90c14490aee44b22db39584f2e9ad50ac4ac7ba70a833293d79d8694f@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-24
