@@ -1022,6 +1022,16 @@ UID:dcc5c0f6c4289d8022f26e8ed412de2512a23dce2f0b88d0551916f69238cb13@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-07-22
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-08-28
+DTEND:20260828T200000Z
+LOCATION:Movement Portland
+DTSTART:20260828T190000Z
+SUMMARY:Alpine Fit
+TRANSP:TRANSPARENT
+UID:72926185d67d02a776f902043e063c7d7d3fd3309468d51fa46b0dd77cc16986@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-08-28
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-06-10
 DTEND:20260610T143000Z
 LOCATION:Movement Portland
