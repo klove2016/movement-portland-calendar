@@ -32,16 +32,6 @@ UID:9c44cff861313fa9fae1870373f27cde708a0d2ca72fc01a5775a24231254288@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-06-26
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-06-15
-DTEND:20260616T033000Z
-LOCATION:Movement Portland
-DTSTART:20260616T010000Z
-SUMMARY:Learn to Lead
-TRANSP:TRANSPARENT
-UID:66aa7ef7076592fcc1661653f08ea0ac136cea5039e8aaaa18a744ffc5532807@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-06-15
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-30
 DTEND:20260830T220000Z
 LOCATION:Movement Portland
@@ -500,16 +490,6 @@ SUMMARY:Introduction to Bouldering
 TRANSP:TRANSPARENT
 UID:aa5879ed87ab9ef3b2ad225a7aa7773e2a7149ac90fe867ee61d98e5163abbdf@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-07-27
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-06-15
-DTEND:20260616T010000Z
-LOCATION:Movement Portland
-DTSTART:20260616T000000Z
-SUMMARY:Introduction to Rope Climbing
-TRANSP:TRANSPARENT
-UID:97f90694911303b0c0ef56733f4f811cbcd7e2e3e5c9db1be5fee60fbca9b87c@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-06-15
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn how to use flagging to stay balanced and generate power\, engage body tension at the right moments\, and execute deadpoints\, a dynamic movement technique that helps you extend your reach with control. Through focused drills and direct coaching\, you'll develop a stronger awareness of your center of gravity.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-flags-and-deadpoints?course=U2Vzc2lvbjoxMDA1MjU2NzM=&date=2026-08-05
