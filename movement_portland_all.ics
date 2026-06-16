@@ -262,16 +262,6 @@ UID:9d663624962dcb9852253f540c226fade383a28fa6d9d2c55a941b93d3b51020@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-08-24
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-06-15
-DTEND:20260616T033000Z
-LOCATION:Movement Portland
-DTSTART:20260616T021500Z
-SUMMARY:Yoga: Deep Stretch
-TRANSP:TRANSPARENT
-UID:aff9b42ad155775fe04f9d02b3fbe5790cec54c26f3e8497bf705b2fc4dbb4f1@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-06-15
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Shannon L.\nSlow your nervous system down. Props\, rather than your muscles\, are used to support your body in only five or six poses\, allowing you to relax and rest completely. May incorporate meditation and breathing exercises. Perfect when you're feeling drained or stressed.\nhttps://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-07-07
 DTEND:20260708T033000Z
 LOCATION:Movement Portland
@@ -2992,16 +2982,6 @@ UID:89175981768bfb736b5015c4ff2c4e36d5b84cde776dd61c3f908d26b012fe90@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-07-25
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-06-15
-DTEND:20260616T031500Z
-LOCATION:Movement Portland
-DTSTART:20260616T021500Z
-SUMMARY:Climbing: Introduction to Bouldering
-TRANSP:TRANSPARENT
-UID:609e7e228830717db6a48d03528ac222e13e5e8ccab7ec8f3ab0498e3fc5b585@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-06-15
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-02
 DTEND:20260903T010000Z
 LOCATION:Movement Portland
@@ -5130,6 +5110,16 @@ SUMMARY:Fitness: Strength
 TRANSP:TRANSPARENT
 UID:2e3d01bbd1e77a234f3cf7a024cf9ad936f9ddd11ec48172cbb2dfc95d02e97f@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-01
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-07
+DTEND:20260908T010000Z
+LOCATION:Movement Portland
+DTSTART:20260908T000000Z
+SUMMARY:Climbing: Introduction to Rope Climbing
+TRANSP:TRANSPARENT
+UID:a292f12a0fc956b93a5632ef53553424a06bc6978146ff795dbfbb54b1520c45@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-07
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn how to use flagging to stay balanced and generate power\, engage body tension at the right moments\, and execute deadpoints\, a dynamic movement technique that helps you extend your reach with control. Through focused drills and direct coaching\, you'll develop a stronger awareness of your center of gravity.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-flags-and-deadpoints?course=U2Vzc2lvbjoxMDA1MjU2NzM=&date=2026-08-05
