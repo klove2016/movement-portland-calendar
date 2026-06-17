@@ -592,16 +592,6 @@ UID:bb1b5e3db7509648d635dc0d0f4b2610caf3aa94ea09deaf13277620b66b8f7a@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-03
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Events\nInstructor: Britt R.\nAnyone can come and pay what they like from 7pm-10pm every first Friday! These evenings are meant to help alleviate barriers to the sport. We encourage everyone\, regardless of experience level\, to join us. Rentals Included.\nhttps://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-07-01
-DTEND:20260701T150000Z
-LOCATION:Movement Portland
-DTSTART:20260701T143000Z
-SUMMARY:Events: Community Night : Pay What you Want
-TRANSP:TRANSPARENT
-UID:3ae105f3cdc67e2f9b0820667c6e032e5b68f2973634c338b2a1e8b39c17551a@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-07-01
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-31
 DTEND:20260901T010000Z
 LOCATION:Movement Portland
@@ -2062,14 +2052,14 @@ UID:52932ea2a643380332ca29c821591b7737f54036cb6b801d65874cf2cfffa1da@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-07-30
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-06-17
-DTEND:20260617T143000Z
+DESCRIPTION:Category: Events\nRock climbing is a passion. It’s a sport that can provide incredible physical and mental challenge. It forces you to solve problems\, push yourself physically\, and overcome mental hurdles. It can also provide entryway to some of the most beautiful landscapes in the world\, and into a community filled with intelligent\, caring\, and supportive individuals.\nBreaking into climbing can sometimes be intimidating\, and so climbing with other women can help alleviate some of the intimidation. It also just changes the experience of climbing. Hanging out\, especially in nature\, with a group of women is powerful\, and we strive to show all women their own power.\nLadies Climbing Coalition ambassadors host ladies meet-ups in gyms across the nation\, and we coordinate and facilitate low-cost climbing trips around the country for all women and non-binary people who are comfortable in spaces that center the experiences of women. We strive to be a presence in the climbing community and in our efforts\, are always looking to expand our impact\, so if you’re interested in getting involved or collaborating\, please reach out!\nFinancial assistance is available to those who need it - just let someone at the front desk know when checking in what you can pay and we will adjust the price accordingly. We're excited to climb together!\nhttps://portal.movementgyms.com/portland/programs/ladies-climbing-coalition-meet-up?course=U2Vzc2lvbjoxOTA5NDI2NjQ=&date=2026-09-03
+DTEND:20260904T033000Z
 LOCATION:Movement Portland
-DTSTART:20260617T133000Z
-SUMMARY:Fitness: Strength
+DTSTART:20260904T013000Z
+SUMMARY:Events: Ladies Climbing Coalition Meet Up
 TRANSP:TRANSPARENT
-UID:3b1fbe3b07cc6a9db2276c37d1800a9b31c03397092229c9f7baddb8443359b4@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-06-17
+UID:641ff49f72bfa0c74c0ad04223730068c20079f02166de9899e830c4a07ec55d@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/ladies-climbing-coalition-meet-up?course=U2Vzc2lvbjoxOTA5NDI2NjQ=&date=2026-09-03
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lex B.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-02
@@ -2080,16 +2070,6 @@ SUMMARY:Yoga: Power Vinyasa
 TRANSP:TRANSPARENT
 UID:5b07d5d84cda51431e00e627e8c68cafeaa052f3dc3d399d735ed0e5f385dc43@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-02
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nRock climbing is a passion. It’s a sport that can provide incredible physical and mental challenge. It forces you to solve problems\, push yourself physically\, and overcome mental hurdles. It can also provide entryway to some of the most beautiful landscapes in the world\, and into a community filled with intelligent\, caring\, and supportive individuals.\nBreaking into climbing can sometimes be intimidating\, and so climbing with other women can help alleviate some of the intimidation. It also just changes the experience of climbing. Hanging out\, especially in nature\, with a group of women is powerful\, and we strive to show all women their own power.\nLadies Climbing Coalition ambassadors host ladies meet-ups in gyms across the nation\, and we coordinate and facilitate low-cost climbing trips around the country for all women and non-binary people who are comfortable in spaces that center the experiences of women. We strive to be a presence in the climbing community and in our efforts\, are always looking to expand our impact\, so if you’re interested in getting involved or collaborating\, please reach out!\nFinancial assistance is available to those who need it - just let someone at the front desk know when checking in what you can pay and we will adjust the price accordingly. We're excited to climb together!\nhttps://portal.movementgyms.com/portland/programs/ladies-climbing-coalition-meet-up?course=U2Vzc2lvbjoxOTA5NDI2NjQ=&date=2026-09-03
-DTEND:20260904T033000Z
-LOCATION:Movement Portland
-DTSTART:20260904T013000Z
-SUMMARY:Events: Ladies Climbing Coalition Meet Up
-TRANSP:TRANSPARENT
-UID:641ff49f72bfa0c74c0ad04223730068c20079f02166de9899e830c4a07ec55d@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/ladies-climbing-coalition-meet-up?course=U2Vzc2lvbjoxOTA5NDI2NjQ=&date=2026-09-03
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-27
@@ -2290,16 +2270,6 @@ SUMMARY:Yoga: Power Vinyasa
 TRANSP:TRANSPARENT
 UID:b18e2b5e61224ca305cb055bf0a8cf4ad3ebcef6a7686c15ff185b237a2887db@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-17
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nInstructor: Traci M.\nAnyone can come and pay what they like from 7pm-10pm every first Friday! These evenings are meant to help alleviate barriers to the sport. We encourage everyone\, regardless of experience level\, to join us. Rentals Included.\nhttps://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-07-02
-DTEND:20260703T020000Z
-LOCATION:Movement Portland
-DTSTART:20260703T010000Z
-SUMMARY:Events: Community Night : Pay What you Want
-TRANSP:TRANSPARENT
-UID:3c63fd1d209e216e15617e457455ca85665225377aa26b033f422b6ea18009f5@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-07-02
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-21
@@ -2582,16 +2552,6 @@ UID:260c8f555d54c125ece3d4cbf4f2cd42e993f19d2d059bc2a85da713fc60d56f@movement-po
 URL:https://portal.movementgyms.com/portland/programs/pdx-climbers-of-color?course=U2Vzc2lvbjoyMzc5NjMyNTU=&date=2026-06-25
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Events\nInstructor: Britt R.\nAnyone can come and pay what they like from 7pm-10pm every first Friday! These evenings are meant to help alleviate barriers to the sport. We encourage everyone\, regardless of experience level\, to join us. Rentals Included.\nhttps://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-06-29
-DTEND:20260629T150000Z
-LOCATION:Movement Portland
-DTSTART:20260629T143000Z
-SUMMARY:Events: Community Night : Pay What you Want
-TRANSP:TRANSPARENT
-UID:5359cd6fea5a8fe78584f09cde1343e3cea8ece3de05f591fbc72daf09953f29@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-06-29
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-12
 DTEND:20260712T183000Z
 LOCATION:Movement Portland
@@ -2750,16 +2710,6 @@ SUMMARY:Fitness: Alpine Fit
 TRANSP:TRANSPARENT
 UID:286bb7ba6c17f232a26db86ebb034bfc19bab5cd92c6819522fe487f182429af@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-06-26
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nInstructor: Shelby S.\nAnyone can come and pay what they like from 7pm-10pm every first Friday! These evenings are meant to help alleviate barriers to the sport. We encourage everyone\, regardless of experience level\, to join us. Rentals Included.\nhttps://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-07-01
-DTEND:20260702T020000Z
-LOCATION:Movement Portland
-DTSTART:20260702T010000Z
-SUMMARY:Events: Community Night : Pay What you Want
-TRANSP:TRANSPARENT
-UID:d128ef636c7458b7215417547042cc2be64915f1c6bfb3e24c409cf79d409fdd@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-07-01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-31
@@ -3860,16 +3810,6 @@ SUMMARY:Fitness: Alpine Fit
 TRANSP:TRANSPARENT
 UID:07b3894f28035c0dd2b5e677eb6d40bed9e0c64e2d0a71f0d936bfc3e63ad8d1@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-07-10
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nInstructor: Kirby K.\nAnyone can come and pay what they like from 7pm-10pm every first Friday! These evenings are meant to help alleviate barriers to the sport. We encourage everyone\, regardless of experience level\, to join us. Rentals Included.\nhttps://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-06-30
-DTEND:20260630T150000Z
-LOCATION:Movement Portland
-DTSTART:20260630T143000Z
-SUMMARY:Events: Community Night : Pay What you Want
-TRANSP:TRANSPARENT
-UID:5fec22336ef2c1acaf216f45e9b59dad76f08974552f8ed0b43f3014091cc1ef@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-06-30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-07-31
