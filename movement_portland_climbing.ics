@@ -262,6 +262,16 @@ UID:4d18118b3d9bc6e437e2af797d5335cd88a92c6a7a4f01a0ed18789b06368c39@movement-po
 URL:https://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-08-10
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-09
+DTEND:20260910T010000Z
+LOCATION:Movement Portland
+DTSTART:20260910T000000Z
+SUMMARY:Introduction to Rope Climbing
+TRANSP:TRANSPARENT
+UID:03d9a6d80cbad0e645f70a54a66bea3977e13021051e6d5c7ba87462bb6a4cd5@movement-portland-climbing
+URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-09
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-06-20
 DTEND:20260620T190000Z
 LOCATION:Movement Portland
@@ -900,6 +910,16 @@ SUMMARY:Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:0e8ac2d44efbb2cbd02a1dd4f948b3c15652d83d220ee60fa568735f6675050b@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-06-21
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nLearn how to use heel rotation to drive powerful hip movement\, maintain foot tension and precise placement to keep your feet from slipping\, and master heel and toe hooks for better control. Through targeted drills and direct coaching\, you'll gain new purpose and awareness in your footwork.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-heel-and-toe-hooks?course=U2Vzc2lvbjoxMDA1MjU1OTI=&date=2026-09-09
+DTEND:20260910T023000Z
+LOCATION:Movement Portland
+DTSTART:20260910T010000Z
+SUMMARY:Intermediate Technique: Heel and Toe Hooks
+TRANSP:TRANSPARENT
+UID:533b534919c51752869297f7bbea3e93331df8f30516522769b747d6acd0d19a@movement-portland-climbing
+URL:https://portal.movementgyms.com/portland/programs/intermediate-technique-heel-and-toe-hooks?course=U2Vzc2lvbjoxMDA1MjU1OTI=&date=2026-09-09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-07-03

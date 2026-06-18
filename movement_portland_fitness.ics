@@ -342,6 +342,16 @@ UID:15c0872d1d75a77fecd908c532d64e8d98f614a587f567cfc629395497322b5f@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-06-29
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-09
+DTEND:20260909T143000Z
+LOCATION:Movement Portland
+DTSTART:20260909T133000Z
+SUMMARY:Strength
+TRANSP:TRANSPARENT
+UID:ac69e3cda58b8fb5b52e97bbd1e78dbafb3053f6cf0298e61767c7ad429af78f@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-09
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-08-05
 DTEND:20260806T003000Z
 LOCATION:Movement Portland
@@ -760,6 +770,16 @@ SUMMARY:Alpine Fit
 TRANSP:TRANSPARENT
 UID:1d4fd9d8fffe1a38ca322b0883e173e2bf903b44b40832e0f7030d48bdb544a0@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-08-14
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-09-09
+DTEND:20260910T003000Z
+LOCATION:Movement Portland
+DTSTART:20260909T233000Z
+SUMMARY:Mat Pilates
+TRANSP:TRANSPARENT
+UID:ff108fe476c7db85a8c373e0f5955f516ab704ffcc6871277b9a4fcfc84ab69f@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-09-09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-08-12
@@ -1210,6 +1230,16 @@ SUMMARY:Strength/Cardio
 TRANSP:TRANSPARENT
 UID:7d9b7d6940b7850ee7902505ee92925b98cee74e0c57cc0569126a638a4debfe@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-08-27
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-09-09
+DTEND:20260910T020000Z
+LOCATION:Movement Portland
+DTSTART:20260910T010000Z
+SUMMARY:Total Body Fit
+TRANSP:TRANSPARENT
+UID:484c989b80f9003b9d244bc0ba5203f8f5f0128024a8285b07d770d082a613f9@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-09-09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-07-08
