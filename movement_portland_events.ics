@@ -32,6 +32,16 @@ UID:06f082a4bb9b1fd79d2a3d502b65bbf371de2353b40e4ec10237a18faf5a8c88@movement-po
 URL:https://portal.movementgyms.com/portland/programs/bring-friend-day?course=U2Vzc2lvbjoxNjAzOTg2NzQ=&date=2026-08-07
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nInstructor: Kirby K.\nLifting Socials are casual fitness area meetups hosted by a rotating cast of Movement team members. Each meetup is inspired by the host's favorite things and may include themed music\, snacks\, lift recommendations\, and other fun surprises.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-07-21
+DTEND:20260722T020000Z
+LOCATION:Movement Portland
+DTSTART:20260722T010000Z
+SUMMARY:Summer Swolestice | Lifting Social
+TRANSP:TRANSPARENT
+UID:2a4ced9d2bb2383f5b7f83603a293b004aef45d4c8879d78e0cb44f8c0c1f4c4@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-07-21
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nInstructor: Benjamin J.\nAdaptive Climb PDX is an inclusive and supportive climbing group focused on creating space for differently abled individuals to get up the wall! All ability and experience levels are welcome. We also welcome anyone interested in engaging with the adaptive community to volunteer to belay for us!\nhttps://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-07-16
 DTEND:20260717T030000Z
 LOCATION:Movement Portland
@@ -40,16 +50,6 @@ SUMMARY:Adaptive Climb PDX
 TRANSP:TRANSPARENT
 UID:7bf45e113f02512af1456c7bfba6b312143531e9e7321b5997ebd4cb87f4b80b@movement-portland-events
 URL:https://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-07-16
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nInstructor: Benjamin J.\nAdaptive Climb PDX is an inclusive and supportive climbing group focused on creating space for differently abled individuals to get up the wall! All ability and experience levels are welcome. We also welcome anyone interested in engaging with the adaptive community to volunteer to belay for us!\nhttps://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-06-18
-DTEND:20260619T030000Z
-LOCATION:Movement Portland
-DTSTART:20260619T010000Z
-SUMMARY:Adaptive Climb PDX
-TRANSP:TRANSPARENT
-UID:d289f6bb7314d549af9a13a6fe23bb27867118a11595299a0384521e368f8a47@movement-portland-events
-URL:https://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-06-18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Events\nQueer Climb Nights are events designed to unite the LGBTQIA+ community through climbing. These gatherings offer a supportive environment for climbers to connect\, share experiences and enjoy the sport together. Event is hosted by Queer Mountaineers on the last Wednesday of each month.\nhttps://portal.movementgyms.com/portland/programs/queer-climb-night-pdx?course=U2Vzc2lvbjoyMzg1MjgzMTE=&date=2026-06-24
@@ -82,6 +82,16 @@ UID:b8064c89154866a2e296c4985954167c9345e9fc229bf67537453acfe67abf45@movement-po
 URL:https://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-07-16
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nInstructor: Traci M.\nSummer Swolestice is here! Join us for a Lifting Evaluation to set your baseline\, receive coaching and form feedback from our fitness instructors\, and record your results so you have a benchmark to measure against at the end of the challenge.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-07-02
+DTEND:20260703T020000Z
+LOCATION:Movement Portland
+DTSTART:20260703T010000Z
+SUMMARY:Summer Swolestice | Lifting Evaluation
+TRANSP:TRANSPARENT
+UID:ca8fc71cff2b313c75f9c4693f1451fd06c8544f60bf9e8abe1e11f080f94ce2@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-07-02
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nThis group is a low-pressure talk space for climbers to share about our shared mental health journey. We chat. We climb. We connect. Led by Jonathan Morell\, LPC associate\, AMGA guide\, and Movement community member. For climbers 18+.\nhttps://portal.movementgyms.com/portland/programs/mental-health-talk-space?course=U2Vzc2lvbjoyNDI4ODg2NTI=&date=2026-07-06
 DTEND:20260707T040000Z
 LOCATION:Movement Portland
@@ -110,6 +120,16 @@ SUMMARY:Ladies Climbing Coalition Meet Up
 TRANSP:TRANSPARENT
 UID:6c0a13be58218694c5f859d446086cb92ebfca29daf34d4bfb992cf38499b600@movement-portland-events
 URL:https://portal.movementgyms.com/portland/programs/ladies-climbing-coalition-meet-up?course=U2Vzc2lvbjoxOTA5NDI2NjQ=&date=2026-07-02
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Events\nInstructor: Britt R.\nSummer Swolestice is here! Join us for a Lifting Evaluation to set your baseline\, receive coaching and form feedback from our fitness instructors\, and record your results so you have a benchmark to measure against at the end of the challenge.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-07-01
+DTEND:20260701T150000Z
+LOCATION:Movement Portland
+DTSTART:20260701T143000Z
+SUMMARY:Summer Swolestice | Lifting Evaluation
+TRANSP:TRANSPARENT
+UID:120c8b9657f1d6c0b59ddf9ff1e7a7b5c70f27a5dd2581a80a497009dc36da59@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-07-01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Events\nRock climbing is a passion. It’s a sport that can provide incredible physical and mental challenge. It forces you to solve problems\, push yourself physically\, and overcome mental hurdles. It can also provide entryway to some of the most beautiful landscapes in the world\, and into a community filled with intelligent\, caring\, and supportive individuals.\nBreaking into climbing can sometimes be intimidating\, and so climbing with other women can help alleviate some of the intimidation. It also just changes the experience of climbing. Hanging out\, especially in nature\, with a group of women is powerful\, and we strive to show all women their own power.\nLadies Climbing Coalition ambassadors host ladies meet-ups in gyms across the nation\, and we coordinate and facilitate low-cost climbing trips around the country for all women and non-binary people who are comfortable in spaces that center the experiences of women. We strive to be a presence in the climbing community and in our efforts\, are always looking to expand our impact\, so if you’re interested in getting involved or collaborating\, please reach out!\nFinancial assistance is available to those who need it - just let someone at the front desk know when checking in what you can pay and we will adjust the price accordingly. We're excited to climb together!\nhttps://portal.movementgyms.com/portland/programs/ladies-climbing-coalition-meet-up?course=U2Vzc2lvbjoxOTA5NDI2NjQ=&date=2026-09-03
@@ -160,6 +180,26 @@ SUMMARY:Adaptive Climb PDX
 TRANSP:TRANSPARENT
 UID:b93e6fc287e63f0636ea32312e685a291c31bde0855c986d8645f480537df0f2@movement-portland-events
 URL:https://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-09-03
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Events\nInstructor: Kirby K.\nSummer Swolestice is here! Join us for a Lifting Evaluation to set your baseline\, receive coaching and form feedback from our fitness instructors\, and record your results so you have a benchmark to measure against at the end of the challenge.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-06-30
+DTEND:20260630T150000Z
+LOCATION:Movement Portland
+DTSTART:20260630T143000Z
+SUMMARY:Summer Swolestice | Lifting Evaluation
+TRANSP:TRANSPARENT
+UID:28f3786b27971133440a2b257c349cd8e853ac52ca3efd2262e4654d123fc33b@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-06-30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Events\nInstructor: Shelby S.\nSummer Swolestice is here! Join us for a Lifting Evaluation to set your baseline\, receive coaching and form feedback from our fitness instructors\, and record your results so you have a benchmark to measure against at the end of the challenge.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-06-30
+DTEND:20260701T020000Z
+LOCATION:Movement Portland
+DTSTART:20260701T010000Z
+SUMMARY:Summer Swolestice | Lifting Evaluation
+TRANSP:TRANSPARENT
+UID:5e57cc2cc26df04b4da7b23c1e2e1914ae3bf992d8da3aaaa49c593a4fbd2556@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-06-30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Events\nThis group is a low-pressure talk space for climbers to share about our shared mental health journey. We chat. We climb. We connect. Led by Jonathan Morell\, LPC associate\, AMGA guide\, and Movement community member. For climbers 18+.\nhttps://portal.movementgyms.com/portland/programs/mental-health-talk-space?course=U2Vzc2lvbjoyNDI4ODg2NTI=&date=2026-08-03
@@ -240,6 +280,16 @@ SUMMARY:Loco por la Aventura
 TRANSP:TRANSPARENT
 UID:2168a661af656993e2fb9bd9be38c536a74ca9a0f99b9a3fe5aaf80d98430075@movement-portland-events
 URL:https://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2026-07-15
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Events\nInstructor: Britt R.\nSummer Swolestice is here! Join us for a Lifting Evaluation to set your baseline\, receive coaching and form feedback from our fitness instructors\, and record your results so you have a benchmark to measure against at the end of the challenge.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-06-29
+DTEND:20260629T150000Z
+LOCATION:Movement Portland
+DTSTART:20260629T143000Z
+SUMMARY:Summer Swolestice | Lifting Evaluation
+TRANSP:TRANSPARENT
+UID:2a91a8746403843cbd8739bfe4644af36e6ffaa9f2694107c326d80a3c916700@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-06-29
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Events\nCome join us every 3rd Thursday of the month at 7pm!\n \nOur goal is to create safe spaces for queer\, trans and nonbinary climbers of color. These climb nights are run by queer people of color for queer people of color.\nhttps://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-06-18
