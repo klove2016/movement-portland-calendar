@@ -2312,14 +2312,14 @@ UID:6f4df51539a53121fee9ada14f34ddc9d90377f76f9dbda2ffbc94e32b22dda6@movement-po
 URL:https://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-08-20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-06-19
-DTEND:20260620T011500Z
+DESCRIPTION:Category: Events\nInstructor: Britt R.\nSummer Swolestice is here! Join us for a Lifting Evaluation to set your baseline\, receive coaching and form feedback from our fitness instructors\, and record your results so you have a benchmark to measure against at the end of the challenge.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-07-01
+DTEND:20260701T150000Z
 LOCATION:Movement Portland
-DTSTART:20260620T001500Z
-SUMMARY:Climbing: Introduction to Rope Climbing
+DTSTART:20260701T143000Z
+SUMMARY:Events: Summer Swolestice | Lifting Evaluation
 TRANSP:TRANSPARENT
-UID:864c301b3cbf43dc2b6093d334d4b039bfd6597f7deca1acce156ccc55bd97ac@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-06-19
+UID:352fb1dfee7fbd90e37780a3b9966eabd55fb8506114a0cd89c13c8bf95e11cb@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-07-01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-07-21
@@ -2330,16 +2330,6 @@ SUMMARY:Fitness: Strength/Cardio
 TRANSP:TRANSPARENT
 UID:be83d652a06e05772c9e07e55384b4a58637d003a1422d9ecdf71d3d4fd7868d@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-07-21
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nInstructor: Britt R.\nSummer Swolestice is here! Join us for a Lifting Evaluation to set your baseline\, receive coaching and form feedback from our fitness instructors\, and record your results so you have a benchmark to measure against at the end of the challenge.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-07-01
-DTEND:20260701T150000Z
-LOCATION:Movement Portland
-DTSTART:20260701T143000Z
-SUMMARY:Events: Summer Swolestice | Lifting Evaluation
-TRANSP:TRANSPARENT
-UID:352fb1dfee7fbd90e37780a3b9966eabd55fb8506114a0cd89c13c8bf95e11cb@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-07-01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Aimée M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-07-11
@@ -2530,16 +2520,6 @@ SUMMARY:Yoga: Power Vinyasa
 TRANSP:TRANSPARENT
 UID:77102f8c5d4aca236160b0e1c5649a7a6774cb5bc5352f6b3fa2084d45b9e5c9@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-12
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Lorenzo D.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-06-19
-DTEND:20260620T014500Z
-LOCATION:Movement Portland
-DTSTART:20260620T004500Z
-SUMMARY:Yoga: Power Vinyasa
-TRANSP:TRANSPARENT
-UID:d31a717dcb5d758b3a16577c6ef5e7c9ee9af4f88e4ab4f57977d4d5dd0258c5@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-06-19
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-07-15
@@ -4442,16 +4422,6 @@ UID:329248b49b7ee3188759143091509d2e5d37c59d61b64fff2f92ce99dee64d88@movement-po
 URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-06-30
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-06-19
-DTEND:20260619T200000Z
-LOCATION:Movement Portland
-DTSTART:20260619T190000Z
-SUMMARY:Yoga: Hatha Yoga
-TRANSP:TRANSPARENT
-UID:d8091b7c889543bd478b81ad3006a56d6849ada7345fc9062e77e97ff2f7a34a@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-06-19
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-07-14
 DTEND:20260714T143000Z
 LOCATION:Movement Portland
@@ -5290,16 +5260,6 @@ SUMMARY:Climbing: Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:12a94985dbe56ce576fdb4a27e39ce2ce131279bd480164344b23a3989a6da59@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-15
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-06-19
-DTEND:20260619T200000Z
-LOCATION:Movement Portland
-DTSTART:20260619T190000Z
-SUMMARY:Fitness: Alpine Fit
-TRANSP:TRANSPARENT
-UID:8bc7458c413aca7a3f592d3140dba7f04ee5924c2538df543a33a5ee9c8c5790@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-06-19
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-07-03
