@@ -42,16 +42,6 @@ UID:d48acf8bc3f1d870b6edb496d77a79493fb6af9d6963eed5a2eae76ce589c1b2@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-09
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-06-22
-DTEND:20260623T020000Z
-LOCATION:Movement Portland
-DTSTART:20260623T004500Z
-SUMMARY:Yoga: Power Vinyasa
-TRANSP:TRANSPARENT
-UID:38e9f698e344a77eae879ad071f6ce69b452b181a002ec466cf97a4310952d17@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-06-22
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-12
 DTEND:20260813T033000Z
 LOCATION:Movement Portland
@@ -3672,16 +3662,6 @@ UID:956a5c7446c94279d0cf7d306fccafdbbc910295d75d7434a3cda4dcbd245955@movement-po
 URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-07-06
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-06-22
-DTEND:20260623T010000Z
-LOCATION:Movement Portland
-DTSTART:20260623T000000Z
-SUMMARY:Climbing: Introduction to Rope Climbing
-TRANSP:TRANSPARENT
-UID:4473afd81c2d769148bd580b28c87b007e1891fa4d943685b9eba7526aa36105@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-06-22
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Events\nThis group is a low-pressure talk space for climbers to share about our shared mental health journey. We chat. We climb. We connect. Led by Jonathan Morell\, LPC associate\, AMGA guide\, and Movement community member. For climbers 18+.\nhttps://portal.movementgyms.com/portland/programs/mental-health-talk-space?course=U2Vzc2lvbjoyNDI4ODg2NTI=&date=2026-07-06
 DTEND:20260707T040000Z
 LOCATION:Movement Portland
@@ -4562,7 +4542,7 @@ UID:2c22507860c56a279400992aa5c9bc8afb6c1596ab23a60a0c7721935d30d26b@movement-po
 URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-31
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Danny M.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-07-30
+DESCRIPTION:Category: Yoga\nInstructor: Alix N.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-07-30
 DTEND:20260731T033000Z
 LOCATION:Movement Portland
 DTSTART:20260731T023000Z
