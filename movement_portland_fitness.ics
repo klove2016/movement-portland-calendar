@@ -122,6 +122,16 @@ UID:f3b7f7017cb4b07e6918fdf1a1516b1318c9534eafb37ac12b0dfa88ffbb6d69@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-07-22
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-09-15
+DTEND:20260915T200000Z
+LOCATION:Movement Portland
+DTSTART:20260915T190000Z
+SUMMARY:Strength/Cardio
+TRANSP:TRANSPARENT
+UID:b370718050f6513a0c18a5b0171261bafbf1f30131d0707b0bd33e1bcf4dea61@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-09-15
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Paige G.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-09-12
 DTEND:20260912T170000Z
 LOCATION:Movement Portland
@@ -410,6 +420,16 @@ SUMMARY:Summer Swolestice | multi-week strength challenge
 TRANSP:TRANSPARENT
 UID:ff42e27c4cf148a96093eb16257344640b231bb35508e5dbe8432c0802e4fee2@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-24
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-15
+DTEND:20260915T143000Z
+LOCATION:Movement Portland
+DTSTART:20260915T133000Z
+SUMMARY:Lifting Fundamentals
+TRANSP:TRANSPARENT
+UID:de47f3a122bfff8d77d7545422a71b66fe26bcd6dc655845b44cb384eb6b3e42@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-15
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-08-05
