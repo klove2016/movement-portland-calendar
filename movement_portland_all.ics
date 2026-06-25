@@ -3342,16 +3342,6 @@ UID:510d88fb4f94521e5ccc960f18e05e42a5a9a3f653123116339d4fe555615435@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-18
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-06-24
-DTEND:20260625T020000Z
-LOCATION:Movement Portland
-DTSTART:20260625T010000Z
-SUMMARY:Fitness: Total Body Fit
-TRANSP:TRANSPARENT
-UID:9de419e4b6037ae4207f1a02d66d9d282f23ca349357e13d21e54e5a43333f79@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-06-24
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-03
 DTEND:20260903T143000Z
 LOCATION:Movement Portland
@@ -4500,16 +4490,6 @@ SUMMARY:Climbing: Introduction to Bouldering
 TRANSP:TRANSPARENT
 UID:4a0bb2efb2819b33af1d4eba17b31df6049fdc1a0b80a86525fa80efbd932533@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-06-26
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nQueer Climb Nights are events designed to unite the LGBTQIA+ community through climbing. These gatherings offer a supportive environment for climbers to connect\, share experiences and enjoy the sport together. Event is hosted by Queer Mountaineers on the last Wednesday of each month.\nhttps://portal.movementgyms.com/portland/programs/queer-climb-night-pdx?course=U2Vzc2lvbjoyMzg1MjgzMTE=&date=2026-06-24
-DTEND:20260625T040000Z
-LOCATION:Movement Portland
-DTSTART:20260625T020000Z
-SUMMARY:Events: Queer Climb Night
-TRANSP:TRANSPARENT
-UID:a34b87ea8de90a89686968ecbd981f22a841a2c840aa516ca6c126c8f53e4bb6@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/queer-climb-night-pdx?course=U2Vzc2lvbjoyMzg1MjgzMTE=&date=2026-06-24
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-31
@@ -5840,16 +5820,6 @@ SUMMARY:Yoga: Deep Stretch
 TRANSP:TRANSPARENT
 UID:8d6380746d0776967c261c0825ff1dc13d2f39e9bf1f03b7b42a7cdf5e44d040@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-17
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-06-24
-DTEND:20260625T033000Z
-LOCATION:Movement Portland
-DTSTART:20260625T021500Z
-SUMMARY:Yoga: Deep Stretch
-TRANSP:TRANSPARENT
-UID:6b031bb56612a58651e9f063526066e984b65d69396ea85353bef23d7f4b5146@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-06-24
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Danny M.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-08-06
