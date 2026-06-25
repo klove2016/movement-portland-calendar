@@ -42,6 +42,16 @@ UID:9aa398405c4ffaa351efe56a5b26831a8185db7d5967aa7c9126f7c0063f8b53@movement-po
 URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-07-16
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nDiseñado para hispanohablantes con poca o ninguna experiencia en escalada. En este curso aprenderás las habilidades necesarias para escalar de forma segura en un gimnasio.\nhttps://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2026-09-16
+DTEND:20260917T033000Z
+LOCATION:Movement Portland
+DTSTART:20260917T013000Z
+SUMMARY:Loco por la Aventura
+TRANSP:TRANSPARENT
+UID:d661306a078c5c4f55ac4e3c034ed3b7f7d8cfc62a2d013d8d15cca2030c74f1@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2026-09-16
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nInstructor: Benjamin J.\nAdaptive Climb PDX is an inclusive and supportive climbing group focused on creating space for differently abled individuals to get up the wall! All ability and experience levels are welcome. We also welcome anyone interested in engaging with the adaptive community to volunteer to belay for us!\nhttps://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-08-06
 DTEND:20260807T030000Z
 LOCATION:Movement Portland
