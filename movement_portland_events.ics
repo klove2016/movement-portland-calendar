@@ -172,6 +172,16 @@ UID:e3c0c11ebd69bef03e5274bc7aea68f8e020bc0ce76843cb5772296fab25122f@movement-po
 URL:https://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-08-20
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nIt’s trivia on the wall! Grab your harness and thinking cap!\nA team-based event where you'll rope up\, retrieve trivia questions from the wall\, and work together to lock in answers.\nAll questions are general knowledge\, so you don’t need to be a trivia pro - just come ready to have a great time! The night is hosted by our very own trivia royalty\, Claire\, who’s bringing the questions\, the banter\, and the vibes.\nhttps://portal.movementgyms.com/portland/programs/game-night?course=U2Vzc2lvbjoxNzU1OTA4Mzg=&date=2026-07-30
+DTEND:20260731T030000Z
+LOCATION:Movement Portland
+DTSTART:20260731T010000Z
+SUMMARY:Trivia Night
+TRANSP:TRANSPARENT
+UID:a0276b54e4b8b428ed7035875e8436bc8c33eda52100d32e6b82e0cc562b2920@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/game-night?course=U2Vzc2lvbjoxNzU1OTA4Mzg=&date=2026-07-30
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nInstructor: Benjamin J.\nAdaptive Climb PDX is an inclusive and supportive climbing group focused on creating space for differently abled individuals to get up the wall! All ability and experience levels are welcome. We also welcome anyone interested in engaging with the adaptive community to volunteer to belay for us!\nhttps://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-09-03
 DTEND:20260904T030000Z
 LOCATION:Movement Portland
