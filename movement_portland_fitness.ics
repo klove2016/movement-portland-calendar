@@ -432,14 +432,14 @@ UID:ff42e27c4cf148a96093eb16257344640b231bb35508e5dbe8432c0802e4fee2@movement-po
 URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-24
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-15
-DTEND:20260915T143000Z
+DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-09-18
+DTEND:20260918T200000Z
 LOCATION:Movement Portland
-DTSTART:20260915T133000Z
-SUMMARY:Lifting Fundamentals
+DTSTART:20260918T190000Z
+SUMMARY:Alpine Fit
 TRANSP:TRANSPARENT
-UID:de47f3a122bfff8d77d7545422a71b66fe26bcd6dc655845b44cb384eb6b3e42@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-15
+UID:dbce9ded5b373cacde00b094d5fc1e014ed2fe2eba26398788015ce85ada2c23@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-09-18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-08-05
@@ -450,6 +450,16 @@ SUMMARY:Strength
 TRANSP:TRANSPARENT
 UID:5b630836530570b7db81a2241b360c35092b30ffb416b9039c98b32b7f6a4067@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-08-05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-15
+DTEND:20260915T143000Z
+LOCATION:Movement Portland
+DTSTART:20260915T133000Z
+SUMMARY:Lifting Fundamentals
+TRANSP:TRANSPARENT
+UID:de47f3a122bfff8d77d7545422a71b66fe26bcd6dc655845b44cb384eb6b3e42@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-15
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-18
