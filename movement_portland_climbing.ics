@@ -482,6 +482,16 @@ UID:aa5879ed87ab9ef3b2ad225a7aa7773e2a7149ac90fe867ee61d98e5163abbdf@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-07-27
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nIndoor session that teaches bolt clipping\, anchor cleaning\, and lowering to support your transition to single-pitch sport crags.\nhttps://portal.movementgyms.com/portland/programs/sport-climbing-outside?course=U2Vzc2lvbjoxMDA1MjYwODY=&date=2026-09-05
+DTEND:20260905T193000Z
+LOCATION:Movement Portland
+DTSTART:20260905T163000Z
+SUMMARY:Sport Climbing Outside
+TRANSP:TRANSPARENT
+UID:5ec4ca2d2f29ebdd0fb25a45ab0a5d0f12b29e26745fdc9473e67711440d2c13@movement-portland-climbing
+URL:https://portal.movementgyms.com/portland/programs/sport-climbing-outside?course=U2Vzc2lvbjoxMDA1MjYwODY=&date=2026-09-05
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn how to use flagging to stay balanced and generate power\, engage body tension at the right moments\, and execute deadpoints\, a dynamic movement technique that helps you extend your reach with control. Through focused drills and direct coaching\, you'll develop a stronger awareness of your center of gravity.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-flags-and-deadpoints?course=U2Vzc2lvbjoxMDA1MjU2NzM=&date=2026-08-05
 DTEND:20260806T023000Z
 LOCATION:Movement Portland
@@ -670,6 +680,16 @@ SUMMARY:Learn to Lead
 TRANSP:TRANSPARENT
 UID:e12e346d9771c6a2e7361a7772c99bd407eb1282c50f53e8d66fceb39b883117@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nIndoor session that teaches bolt clipping\, anchor cleaning\, and lowering to support your transition to single-pitch sport crags.\nhttps://portal.movementgyms.com/portland/programs/sport-climbing-outside?course=U2Vzc2lvbjoxMDA1MjYwODY=&date=2026-07-25
+DTEND:20260725T193000Z
+LOCATION:Movement Portland
+DTSTART:20260725T163000Z
+SUMMARY:Sport Climbing Outside
+TRANSP:TRANSPARENT
+UID:f3dd17d2657061ecf1b373e08bb6de4e6e3f1ea50efe097b235940122feb4eb2@movement-portland-climbing
+URL:https://portal.movementgyms.com/portland/programs/sport-climbing-outside?course=U2Vzc2lvbjoxMDA1MjYwODY=&date=2026-07-25
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn how to use heel rotation to drive powerful hip movement\, maintain foot tension and precise placement to keep your feet from slipping\, and master heel and toe hooks for better control. Through targeted drills and direct coaching\, you'll gain new purpose and awareness in your footwork.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-heel-and-toe-hooks?course=U2Vzc2lvbjoxMDA1MjU1OTI=&date=2026-07-08
@@ -1010,6 +1030,16 @@ SUMMARY:Intermediate Technique: Flags and Deadpoints
 TRANSP:TRANSPARENT
 UID:3750c78755c10e777ff9a9a76a74fc7900609105d95e69726e7bae4a68b61043@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/intermediate-technique-flags-and-deadpoints?course=U2Vzc2lvbjoxMDA1MjU2NzM=&date=2026-07-15
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nIndoor session that teaches bolt clipping\, anchor cleaning\, and lowering to support your transition to single-pitch sport crags.\nhttps://portal.movementgyms.com/portland/programs/sport-climbing-outside?course=U2Vzc2lvbjoxMDA1MjYwODY=&date=2026-08-15
+DTEND:20260815T193000Z
+LOCATION:Movement Portland
+DTSTART:20260815T163000Z
+SUMMARY:Sport Climbing Outside
+TRANSP:TRANSPARENT
+UID:1cab0074ec2a9495f1246c5d9a2a3b835b0c3c8f6cdba768ba9d1d318c82ad1b@movement-portland-climbing
+URL:https://portal.movementgyms.com/portland/programs/sport-climbing-outside?course=U2Vzc2lvbjoxMDA1MjYwODY=&date=2026-08-15
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-12
