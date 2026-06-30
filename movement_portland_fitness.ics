@@ -532,6 +532,16 @@ UID:d4f2025554e6aebe024f61eade75c1b50795f5be96dda64cfb27a651368e9077@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-08-19
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-21
+DTEND:20260921T143000Z
+LOCATION:Movement Portland
+DTSTART:20260921T133000Z
+SUMMARY:Strength
+TRANSP:TRANSPARENT
+UID:e4075678b54e320e742587ec179f0328adefd9ad99b025ccf4b506c57d5a2945@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-21
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-07-07
 DTEND:20260707T143000Z
 LOCATION:Movement Portland
@@ -790,6 +800,16 @@ SUMMARY:Total Body Fit
 TRANSP:TRANSPARENT
 UID:cf805394ad5ee3beae0892ecff06640e23e203a5226200a5ddf0e58c4db08012@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-07-01
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-09-21
+DTEND:20260922T020000Z
+LOCATION:Movement Portland
+DTSTART:20260922T010000Z
+SUMMARY:Total Body Fit
+TRANSP:TRANSPARENT
+UID:df57d44451e6fd1b11fff84cc65baf009fc7b12d8d3042ef8372abdeb00edd0f@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-09-21
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-07-13
