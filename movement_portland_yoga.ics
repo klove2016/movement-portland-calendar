@@ -132,7 +132,7 @@ UID:ff1401585d9100efc5cb5c612a975fc6a56ed0c7c4c885fc9a0458f0c73a5f3d@movement-po
 URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-02
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Natalie D.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-07-26
+DESCRIPTION:Category: Yoga\nInstructor: Anne H.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-07-26
 DTEND:20260727T001500Z
 LOCATION:Movement Portland
 DTSTART:20260726T230000Z
@@ -1682,16 +1682,6 @@ UID:9efb0bc1dab74b3629cbdf1e2094f0b76058a0d5b9bd9f4b9c56b8e429a82c5e@movement-po
 URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-07-23
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-06-29
-DTEND:20260630T033000Z
-LOCATION:Movement Portland
-DTSTART:20260630T021500Z
-SUMMARY:Deep Stretch
-TRANSP:TRANSPARENT
-UID:2d57c533def9b8c56e9f181a2e0ee142ebd1052727cc30d684f72a97175f1be3@movement-portland-yoga
-URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-06-29
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-07-15
 DTEND:20260716T033000Z
 LOCATION:Movement Portland
@@ -1700,6 +1690,16 @@ SUMMARY:Deep Stretch
 TRANSP:TRANSPARENT
 UID:04a7c68c015d296d4b5f3250bab99b9be6e63235de10ef20cebeb82433d030d6@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-07-15
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-05
+DTEND:20260806T033000Z
+LOCATION:Movement Portland
+DTSTART:20260806T021500Z
+SUMMARY:Deep Stretch
+TRANSP:TRANSPARENT
+UID:aa3f747083acf2e20242b8f6263078b3b2bb27bc01bd8fec10c7009edfd947a9@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-05
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-07-06
@@ -1712,14 +1712,14 @@ UID:b50467a1bf20cb78eec57a4a4c7113ceae2c04d21adf6ed0a30f26f6d6048657@movement-po
 URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-07-06
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-05
-DTEND:20260806T033000Z
+DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-08-18
+DTEND:20260818T143000Z
 LOCATION:Movement Portland
-DTSTART:20260806T021500Z
-SUMMARY:Deep Stretch
+DTSTART:20260818T133000Z
+SUMMARY:Hatha Yoga
 TRANSP:TRANSPARENT
-UID:aa3f747083acf2e20242b8f6263078b3b2bb27bc01bd8fec10c7009edfd947a9@movement-portland-yoga
-URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-05
+UID:f1dbd8aed9b31969331a0ad02f783ce5081676bfaf45d95e078f4320c80d47ab@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-08-18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-09-09
@@ -1770,16 +1770,6 @@ SUMMARY:Power Vinyasa
 TRANSP:TRANSPARENT
 UID:38a915cb6c73bba63f076f77e05e9e29f0fc78603763d6eebeba627759c68dc6@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-22
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-08-18
-DTEND:20260818T143000Z
-LOCATION:Movement Portland
-DTSTART:20260818T133000Z
-SUMMARY:Hatha Yoga
-TRANSP:TRANSPARENT
-UID:f1dbd8aed9b31969331a0ad02f783ce5081676bfaf45d95e078f4320c80d47ab@movement-portland-yoga
-URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-08-18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Natalie D.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-09-20
