@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:Movement Portland Fitness Calendar Sync
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-05
-DTEND:20260805T220000Z
-LOCATION:Movement Portland
-DTSTART:20260805T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:ed762937094ee5f2df403f744dc3520fa978c398e8040ba92108a28736989a2c@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-05
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Montana R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-09-10
 DTEND:20260910T200000Z
 LOCATION:Movement Portland
@@ -20,26 +10,6 @@ SUMMARY:Strength/Cardio
 TRANSP:TRANSPARENT
 UID:6dcea652d67129054f5ac0eb05d545f032afd27c1f78d50647261ebcdd7f00d9@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-09-10
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-21
-DTEND:20260721T220000Z
-LOCATION:Movement Portland
-DTSTART:20260721T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:caa42715880a2586ce9e6e2ecbc81e3a426d07db0c949f0e234ccf60e6c917c1@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-21
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-29
-DTEND:20260829T220000Z
-LOCATION:Movement Portland
-DTSTART:20260829T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:89134ecb6a1433d446e7003e138e68f25926896095b9968d5b8aea977b753b99@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-29
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-07-07
@@ -90,16 +60,6 @@ SUMMARY:Strength/Cardio
 TRANSP:TRANSPARENT
 UID:cc0b28f17a5b878e57069069d8295fc63eadb68f131e98154639d359e5230270@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-08-25
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-04
-DTEND:20260704T220000Z
-LOCATION:Movement Portland
-DTSTART:20260704T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:1cf8e7a3eaf28825c8b546ec66b6a82c102fdae80ea21253119c5d022d8d9cff@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-04
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-07-24
@@ -212,16 +172,6 @@ UID:379c99a56d8aa941efd0c14f9c4fa5577aa032200b85cf689a53493a2b7bb88c@movement-po
 URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-08-18
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-06
-DTEND:20260806T220000Z
-LOCATION:Movement Portland
-DTSTART:20260806T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:328563b2c57fcf314f31487995c7ce44710df44fc5b335ab2e9a5d8009aa5e8b@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-06
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-07-29
 DTEND:20260730T003000Z
 LOCATION:Movement Portland
@@ -230,16 +180,6 @@ SUMMARY:Mat Pilates
 TRANSP:TRANSPARENT
 UID:739d4032cf3a2ad9d65eaed00e3bc5c8e26eb2b4d72004598a618f5ffcb740fd@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-07-29
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-16
-DTEND:20260816T220000Z
-LOCATION:Movement Portland
-DTSTART:20260816T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:031409009464d75c572830de95aa2a738919c4d9398273bfe458a720e3097cc2@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-16
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-03
@@ -272,46 +212,6 @@ UID:ab2fe914546663fab664b3b4b246a4e18b131812f4f0c2df5aa77ef8de30e0d3@movement-po
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-17
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-02
-DTEND:20260702T220000Z
-LOCATION:Movement Portland
-DTSTART:20260702T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:0bf5c7feea42a1d0706873f213ce111ff4c85a651c732059feafca7449a410b8@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-02
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-23
-DTEND:20260723T220000Z
-LOCATION:Movement Portland
-DTSTART:20260723T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:bacc307a495223f7bfef9b5d42df29c63311b4daa3a390fb441bcf3ebd4a0c6a@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-23
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-04
-DTEND:20260804T220000Z
-LOCATION:Movement Portland
-DTSTART:20260804T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:583dc8e0245db1ce93ef49c5f3579d1d6ba1d0dac2f32b40db9c355d99d9bff9@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-04
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-06-30
-DTEND:20260630T220000Z
-LOCATION:Movement Portland
-DTSTART:20260630T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:c0f917458f93645c2cdbf86cb82c7fb85ee9cf989ab735ffbc790ce2c4bfbdad@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-06-30
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-06-30
 DTEND:20260701T023000Z
 LOCATION:Movement Portland
@@ -320,16 +220,6 @@ SUMMARY:Functional Strength Training for Climbers
 TRANSP:TRANSPARENT
 UID:e7f8cb7e11af51426a5912432928c32ba9bee944e99c9406142151d6f4205964@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-06-30
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-10
-DTEND:20260810T220000Z
-LOCATION:Movement Portland
-DTSTART:20260810T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:4994e0dabc72b6774e4c7b8d7665012dd7c1588a8db1e54d6fde0aca6cbd02a4@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-10
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-07-14
@@ -342,26 +232,6 @@ UID:2c6b5a6d0cce8fcd8abfe0202a983e6f06afb0987a5375afb0ae43a615b7038a@movement-po
 URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-07-14
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-05
-DTEND:20260705T220000Z
-LOCATION:Movement Portland
-DTSTART:20260705T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:8fd3786cf7955eaaf8126a12093ac1a1461d083f9b12642c4d689dd1e529ea3a@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-05
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-13
-DTEND:20260813T220000Z
-LOCATION:Movement Portland
-DTSTART:20260813T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:63a12993fff933680f7375b236801ec7c74b92c0a346d4bb6b5011e10f15b0af@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-13
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-07-28
 DTEND:20260728T200000Z
 LOCATION:Movement Portland
@@ -372,26 +242,6 @@ UID:6de3ec9489b40584f25965468ec4d7699dacf0d6bb4fe16a2118e7ae97b6c8a8@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-07-28
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-03
-DTEND:20260803T220000Z
-LOCATION:Movement Portland
-DTSTART:20260803T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:e4669e2597878c35443e78b97ae7eb36a21e549c63e5ebd2d435e6bb92fd395f@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-03
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-28
-DTEND:20260828T220000Z
-LOCATION:Movement Portland
-DTSTART:20260828T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:cfabf9725f30cc509ddc900c168bd81a0e9aaf329715be035500564e9e6ff351@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-28
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-07-21
 DTEND:20260721T143000Z
 LOCATION:Movement Portland
@@ -400,16 +250,6 @@ SUMMARY:Lifting Fundamentals
 TRANSP:TRANSPARENT
 UID:391f16b9ac9ed6196679bc8e1408f0dc9e7fdacce9773216fa1de978d6f46dda@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-07-21
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-24
-DTEND:20260824T220000Z
-LOCATION:Movement Portland
-DTSTART:20260824T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:ff42e27c4cf148a96093eb16257344640b231bb35508e5dbe8432c0802e4fee2@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-24
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-09-18
@@ -442,26 +282,6 @@ UID:de47f3a122bfff8d77d7545422a71b66fe26bcd6dc655845b44cb384eb6b3e42@movement-po
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-15
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-18
-DTEND:20260818T220000Z
-LOCATION:Movement Portland
-DTSTART:20260818T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:8249706ed2a5a540dc8f2d69733bbc11d8db27fea9edc5ac04f3463ac4f761e5@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-18
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-26
-DTEND:20260726T220000Z
-LOCATION:Movement Portland
-DTSTART:20260726T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:d1d837f4358a4445126e4106b46b9896094c499ff55f03a927254026184f94ab@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-26
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-14
 DTEND:20260914T143000Z
 LOCATION:Movement Portland
@@ -480,16 +300,6 @@ SUMMARY:Strength/Cardio
 TRANSP:TRANSPARENT
 UID:8722cf161eb191e8c69aae3ce891f6fb9a31bec27734fa628df75a13c8584656@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-09-17
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-15
-DTEND:20260815T220000Z
-LOCATION:Movement Portland
-DTSTART:20260815T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:945921b3b53434ddf34f013b53b8c1afabe29f62a5270295e3888546614c2c75@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-15
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-09
@@ -552,16 +362,6 @@ UID:9031a4330c39df1d5862427cde601d4ad51784392675a2f0e8d0a45ab0973bad@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-09-02
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-23
-DTEND:20260823T220000Z
-LOCATION:Movement Portland
-DTSTART:20260823T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:a3358117032201df72e986e2d86a925ea231bd723119dbf2725d5e2a6ebf6020@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-23
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-09-04
 DTEND:20260904T200000Z
 LOCATION:Movement Portland
@@ -590,26 +390,6 @@ SUMMARY:Strength/Cardio
 TRANSP:TRANSPARENT
 UID:0917f08bac891de68a3fcb0258c1749f56fe094182974a0dd6692c54ca46594c@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-08-11
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-27
-DTEND:20260827T220000Z
-LOCATION:Movement Portland
-DTSTART:20260827T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:a0dd5458d0fb1e3063526341e6588cfbd9aa2dbffe473703a553b268c2aa8dca@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-27
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-06
-DTEND:20260706T220000Z
-LOCATION:Movement Portland
-DTSTART:20260706T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:2d119500219d8e0b66396058ebb837657da2b349bb7f7270d35100cbb14be147@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-06
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-07-15
@@ -652,16 +432,6 @@ UID:2b6f4a082f07e67862923faa8bc7479e4bf7ec201752c5dab704c2321fc9990d@movement-po
 URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-08-11
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-07
-DTEND:20260707T220000Z
-LOCATION:Movement Portland
-DTSTART:20260707T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:51642cca9c3391615eb46c6d958070e84da640a9dde1a0e60a75c64815751731@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-07
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-07-17
 DTEND:20260717T200000Z
 LOCATION:Movement Portland
@@ -702,16 +472,6 @@ UID:ec3ffcc274d2c89c84ed64c2209e4b957b6ec64d6d5846be85eb8b146bb49e1f@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-08-03
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-02
-DTEND:20260802T220000Z
-LOCATION:Movement Portland
-DTSTART:20260802T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:002da71694ad3684cbacd3c4813927ee475e9b211eabcb29f5f56e8b78756fbb@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-02
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-09-01
 DTEND:20260901T200000Z
 LOCATION:Movement Portland
@@ -722,36 +482,6 @@ UID:cdd3175483d91ea0ebb90846a63c564af75fc3c3be98579943c7905ab8b93b3d@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-09-01
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-20
-DTEND:20260820T220000Z
-LOCATION:Movement Portland
-DTSTART:20260820T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:a8c7157ed9befce6615e00bc49e7bfb1c24b47fda1994678e4b1c3d581a71f94@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-28
-DTEND:20260728T220000Z
-LOCATION:Movement Portland
-DTSTART:20260728T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:61905cbea1d0afaacfbe9f0db22cb59b6c5d5fe8c90f0ea0ebf2c3e3cafd7664@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-28
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-30
-DTEND:20260830T220000Z
-LOCATION:Movement Portland
-DTSTART:20260830T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:8a091570881bba5abf53bedd185d0691739ff3f0e9b7cda2f49681c052f30e18@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-30
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Montana R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-07-23
 DTEND:20260723T200000Z
 LOCATION:Movement Portland
@@ -760,26 +490,6 @@ SUMMARY:Strength/Cardio
 TRANSP:TRANSPARENT
 UID:1f4fd9c8f8f91ef712ede216163b1e7fdf571048c2afc2ac332bcf7995ee5164@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-07-23
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-12
-DTEND:20260812T220000Z
-LOCATION:Movement Portland
-DTSTART:20260812T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:6f60829db810fa85ce4e3e60c31c77da7b90a06ad8c0acd52df45b16d1cc1cab@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-12
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-27
-DTEND:20260727T220000Z
-LOCATION:Movement Portland
-DTSTART:20260727T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:a102bd8eec70a01bf1acfa9c1640e95a6da164153d0fdb1a45c641e58b705503@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-27
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-07-01
@@ -832,26 +542,6 @@ UID:e23420f7ef687c05f4120e6a64a05e46774025681d7477777728a14d02667e42@movement-po
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-07-09
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-15
-DTEND:20260715T220000Z
-LOCATION:Movement Portland
-DTSTART:20260715T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:09b11e5c6e341f33a5160ba7852169f2a0bb8906b49ed1405fe3aece6ad3b702@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-15
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-18
-DTEND:20260718T220000Z
-LOCATION:Movement Portland
-DTSTART:20260718T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:cbfb5494fd5f9be231221b0fa067d895c545b6fe2755b55604f1d685fcfb52ac@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-18
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Aimée M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-08-22
 DTEND:20260822T170000Z
 LOCATION:Movement Portland
@@ -860,16 +550,6 @@ SUMMARY:Mat Pilates
 TRANSP:TRANSPARENT
 UID:b838c5b362e17882187b0722fc60ed83513fe5083ced6a301e847d3ceaf22982@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-08-22
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-11
-DTEND:20260711T220000Z
-LOCATION:Movement Portland
-DTSTART:20260711T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:fcf0480796d0b5c470df9969f80f0db9b86d038c5d1819467392873af5d20056@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-11
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-10
@@ -902,16 +582,6 @@ UID:b76136bf3cceca91f4047bf63a95741ca817f4b9a1ff35cca413bb67df7962e2@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-31
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-19
-DTEND:20260719T220000Z
-LOCATION:Movement Portland
-DTSTART:20260719T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:3101918e913fe8d14f0e664bd25e4b04930e364cfebebfba9863eebc783f70f6@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-19
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-09-08
 DTEND:20260908T200000Z
 LOCATION:Movement Portland
@@ -930,26 +600,6 @@ SUMMARY:Strength/Cardio
 TRANSP:TRANSPARENT
 UID:84fc260f0d7fc7423d3ad5120668da692a857321c02324313a4b65603020f7d9@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-07-14
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-03
-DTEND:20260703T220000Z
-LOCATION:Movement Portland
-DTSTART:20260703T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:06462b28b258563503a3513395261bf6ce27e3da2656828b38e15a7e922b0b21@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-03
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-21
-DTEND:20260821T220000Z
-LOCATION:Movement Portland
-DTSTART:20260821T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:732810b368cd0e8e88339dd9e9659feadc46ba5432640b41f59de98ed81f15ab@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-21
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Aimée M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-08-08
@@ -980,16 +630,6 @@ SUMMARY:Total Body Fit
 TRANSP:TRANSPARENT
 UID:8a8d5ed7e80553f0c3e5272477a2dc8e81f542af86c41d572613f77a6df0bd3f@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-07-20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-17
-DTEND:20260717T220000Z
-LOCATION:Movement Portland
-DTSTART:20260717T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:067059ac5212c7a63f845481d6240ec06be2fbfc10a761975ba1e1f64ae1092d@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-17
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-07-14
@@ -1052,16 +692,6 @@ UID:281f85227e6d0645cf13b3fd6a4f585bc9974ce41104d0ba8cdec84603b105e8@movement-po
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-10
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-09
-DTEND:20260709T220000Z
-LOCATION:Movement Portland
-DTSTART:20260709T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:7519f09835e837c8cbf208f9235afe39715de3c951e4882f592400b4ffc919cb@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-09
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-08-14
 DTEND:20260814T200000Z
 LOCATION:Movement Portland
@@ -1112,16 +742,6 @@ UID:c4dd942272b3284a157e4d4fd4a09d71efc8c7feb91f73f238d57eb400fe2def@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-08-01
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-25
-DTEND:20260825T220000Z
-LOCATION:Movement Portland
-DTSTART:20260825T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:2caf024bcaaa52d8bb2724d640f28625cd923ba88c29a4dd356f74bbd7929830@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-25
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-07-30
 DTEND:20260730T143000Z
 LOCATION:Movement Portland
@@ -1140,26 +760,6 @@ SUMMARY:Strength/Cardio
 TRANSP:TRANSPARENT
 UID:feae973f84625ba6cf49563368e646e77e281569ff6765ddbb7d6b4d16c82c4c@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-07-02
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-20
-DTEND:20260720T220000Z
-LOCATION:Movement Portland
-DTSTART:20260720T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:877ec1abda578ec9bd815d2c1c8a7e536d75b84030e4d0686f7b36f3ae41358f@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-12
-DTEND:20260712T220000Z
-LOCATION:Movement Portland
-DTSTART:20260712T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:ce575b86813b298fab48b482b953a4f536ebd0d9f7354d1dd23031595da9fe2d@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-12
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-08-07
@@ -1232,46 +832,6 @@ UID:4b7b1e2a4d9441706f67183929b0a2e2a229cbca67d7f9f01c4cec60afe34b33@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-07-15
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-31
-DTEND:20260731T220000Z
-LOCATION:Movement Portland
-DTSTART:20260731T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:efd5f4c7b86b6c09b2a2be5277b94df101f2437b8ac09a8d01b90b6b151b9fc4@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-31
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-14
-DTEND:20260814T220000Z
-LOCATION:Movement Portland
-DTSTART:20260814T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:6e9f0eb7a10a50788307e2c49677ab7fec1edc2e4dbc8ecfaeff7d9b917bd9f4@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-14
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-22
-DTEND:20260822T220000Z
-LOCATION:Movement Portland
-DTSTART:20260822T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:00947f553f4ec321a3edef2ca8dc648056defa4d4c15cf72fa8937f7340c1f4a@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-22
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-06-30
-DTEND:20260630T200000Z
-LOCATION:Movement Portland
-DTSTART:20260630T190000Z
-SUMMARY:Strength/Cardio
-TRANSP:TRANSPARENT
-UID:c998eb543ce5a46e3beb9550053f5f72240e3935ef212691c262506b8e6bf57e@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-06-30
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-08-18
 DTEND:20260818T143000Z
 LOCATION:Movement Portland
@@ -1310,16 +870,6 @@ SUMMARY:Total Body Fit
 TRANSP:TRANSPARENT
 UID:7d619c5b2369e42093801c86ca8ef0f8df43af243f07bc22ac8ec967518e4caf@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-09-02
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-31
-DTEND:20260831T220000Z
-LOCATION:Movement Portland
-DTSTART:20260831T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:fe3b0b32b05b392df0371300492eab18d54b298e386b3cb90daf9a42b8b5ad08@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-31
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-07-27
@@ -1402,16 +952,6 @@ UID:72926185d67d02a776f902043e063c7d7d3fd3309468d51fa46b0dd77cc16986@movement-po
 URL:https://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-08-28
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-08
-DTEND:20260808T220000Z
-LOCATION:Movement Portland
-DTSTART:20260808T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:60d76f991896c02accc4aa1a26a355354cad5326d272867dc38ecaed741157c1@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-08
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-07-21
 DTEND:20260721T200000Z
 LOCATION:Movement Portland
@@ -1452,16 +992,6 @@ UID:dab0b57075c34a3201ce1267c7d70070fcbfe7a053abcfe19923d6ea4fec3fae@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-09-03
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-11
-DTEND:20260811T220000Z
-LOCATION:Movement Portland
-DTSTART:20260811T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:ff241145afd18a7f6ab54f014bbc2ff9812d2f980b3847e91e283fd7e4bae2c2@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-11
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Aimée M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-07-11
 DTEND:20260711T170000Z
 LOCATION:Movement Portland
@@ -1470,16 +1000,6 @@ SUMMARY:Mat Pilates
 TRANSP:TRANSPARENT
 UID:74cde6eea4bf0cf947e5e280f476440d9e166788c7b5f6483f5d718158fe11c4@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-07-11
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-25
-DTEND:20260725T220000Z
-LOCATION:Movement Portland
-DTSTART:20260725T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:01b92233ed35ab137334b92426be8997cce0d0c03731c0d8092cb5440064c223@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-25
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-02
@@ -1500,16 +1020,6 @@ SUMMARY:Functional Strength Training for Climbers
 TRANSP:TRANSPARENT
 UID:baf642a0cb20a0e25a003438be1e627275b34a1e9cdb594f3f20c9d3edc59ba8@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-07-28
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-08
-DTEND:20260708T220000Z
-LOCATION:Movement Portland
-DTSTART:20260708T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:24817d1a151468c81bac7536d23a3e0152184545fd71354f5df07c7d4bdf8eaf@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-08
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-26
@@ -1562,16 +1072,6 @@ UID:b623b6bc98cdf78026d775d5212dd0a75ce03a0a1337d36ee96748c2b2113e15@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-24
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-19
-DTEND:20260819T220000Z
-LOCATION:Movement Portland
-DTSTART:20260819T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:c067838334d3cebbfeafaf11be691e86ed149b57fd518f2bbc4ffc8f59cdc4d8@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-19
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-07-31
 DTEND:20260731T200000Z
 LOCATION:Movement Portland
@@ -1600,16 +1100,6 @@ SUMMARY:Lifting Fundamentals
 TRANSP:TRANSPARENT
 UID:975079c64d74fa9318ff847239bed9167297c07e9bcab655b0caf34f8bed06c6@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-07-02
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-29
-DTEND:20260729T220000Z
-LOCATION:Movement Portland
-DTSTART:20260729T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:341eff1666862b499f4aa1251d98bcd4b1aea931f2165d0417dc504c7fb0d797@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-29
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-07-01
@@ -1702,16 +1192,6 @@ UID:7d9b7d6940b7850ee7902505ee92925b98cee74e0c57cc0569126a638a4debfe@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-08-27
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-17
-DTEND:20260817T220000Z
-LOCATION:Movement Portland
-DTSTART:20260817T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:3f20a9fdb838d445abb267859d5a43c1bf3d36da7a1ddaf5e2c4af77fe6d4243@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-17
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-09-09
 DTEND:20260910T020000Z
 LOCATION:Movement Portland
@@ -1720,16 +1200,6 @@ SUMMARY:Total Body Fit
 TRANSP:TRANSPARENT
 UID:484c989b80f9003b9d244bc0ba5203f8f5f0128024a8285b07d770d082a613f9@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-09-09
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-01
-DTEND:20260801T220000Z
-LOCATION:Movement Portland
-DTSTART:20260801T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:8cdab77915ebe88ed205423f44bd1c958b8cdcda9253c7da3a20ecc76e106fbc@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-07-08
@@ -1762,56 +1232,6 @@ UID:4fbd93cf69af3e6c6217e589634e24a5e191cc3b849c69489b328bc1c8b2b9c0@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-17
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-14
-DTEND:20260714T220000Z
-LOCATION:Movement Portland
-DTSTART:20260714T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:eddb9488338c5552389acc09af53ee6682b6f060491df4952b6d7fc1d366065b@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-14
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-09
-DTEND:20260809T220000Z
-LOCATION:Movement Portland
-DTSTART:20260809T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:4c98aca4d78b5face5607d96aeaccc4b7e8b3c5d4def67adf8986f894171795b@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-09
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-22
-DTEND:20260722T220000Z
-LOCATION:Movement Portland
-DTSTART:20260722T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:d712246820468a3cbcb256dfc77d5793b6227afdb9004ff98a272c455d7da53c@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-22
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-26
-DTEND:20260826T220000Z
-LOCATION:Movement Portland
-DTSTART:20260826T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:df3550d4d9e201aa0f9001eb5223a87a98057a7ee555edce1265ae9445cb9057@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-26
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-16
-DTEND:20260716T220000Z
-LOCATION:Movement Portland
-DTSTART:20260716T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:b67e06d8aeb7ade969936322a14768969ce9820d58dcab2872a8c5e0958b2826@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-16
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-08-13
 DTEND:20260813T143000Z
 LOCATION:Movement Portland
@@ -1820,16 +1240,6 @@ SUMMARY:Lifting Fundamentals
 TRANSP:TRANSPARENT
 UID:9607847061f88a9810505a03484cd85ea0df9a5f7e1fe3eb8b2729f64d2cbb93@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-08-13
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-13
-DTEND:20260713T220000Z
-LOCATION:Movement Portland
-DTSTART:20260713T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:aa9863234cdc89c165713e267a139a42afcaad67c87a9b70f627153006f57856@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-13
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-08-27
@@ -1862,16 +1272,6 @@ UID:fc500e03741dfe3f0342f6a92fea80787585d6fa039e2d4e80ce4c546aa3e6c9@movement-po
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-08
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-07
-DTEND:20260807T220000Z
-LOCATION:Movement Portland
-DTSTART:20260807T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:cb3c690469840a4208cd463a9e4b5e964108c775859f59885e740ca5f9d643b2@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-07
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-07-15
 DTEND:20260716T003000Z
 LOCATION:Movement Portland
@@ -1880,16 +1280,6 @@ SUMMARY:Mat Pilates
 TRANSP:TRANSPARENT
 UID:2da3fce8f532b543119628f5467badc949a998b637563aa532831a42343671b6@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-07-15
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-30
-DTEND:20260730T220000Z
-LOCATION:Movement Portland
-DTSTART:20260730T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:fc44658324c518cd95afef5ada24dcf1eae501238c8696e7ed26c2a24ba00324@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-07-23
@@ -1912,26 +1302,6 @@ UID:01ae66a1b1a6f1b6c4bc905367ba796e39f91436c291807ca5242bda2eb1c5dd@movement-po
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-08-20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-01
-DTEND:20260701T220000Z
-LOCATION:Movement Portland
-DTSTART:20260701T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:440eaf05eac12f96e128b3126a102e75249057044017f95775cbd39c426ac491@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-01
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-10
-DTEND:20260710T220000Z
-LOCATION:Movement Portland
-DTSTART:20260710T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:2fa3f90a1e38c93e1f3fc02caa6ca29f21e4ca26cff0fa5f06485a29cc21c907@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-10
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-08-04
 DTEND:20260804T200000Z
 LOCATION:Movement Portland
@@ -1940,16 +1310,6 @@ SUMMARY:Strength/Cardio
 TRANSP:TRANSPARENT
 UID:cbfcbfe6ac03c655ce2986697178c066a305d7e5d67f0f681d45dec37a65767e@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-08-04
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Begin with a Lifting Evaluation to establish your starting point\, stay engaged through fitness classes and Lifting Socials\, and then return in Week 10 to re-test your lifts to see how far you’ve come! Earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\n\n\n\nIMPORTANT: This booking is your entry into the Summer Swolestice Challenge and THERE IS NO EVENT OCCURRING DURING THIS BOOKING TIME. Hit "Sign Up" to learn more about how to get started!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-24
-DTEND:20260724T220000Z
-LOCATION:Movement Portland
-DTSTART:20260724T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:c7a3b0db7f92606babab1ddc592ecdbcefcefc790c40e243eb84339fc2783ee7@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-24
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-09-14
