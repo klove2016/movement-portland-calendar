@@ -2202,16 +2202,6 @@ UID:d18457e3c37460a22f4729348f5c9beebcf53409091af7cba1fed2cd30b612c9@movement-po
 URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-25
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-07-07
-DTEND:20260707T143000Z
-LOCATION:Movement Portland
-DTSTART:20260707T133000Z
-SUMMARY:Fitness: Lifting Fundamentals
-TRANSP:TRANSPARENT
-UID:237e07f57b63a9b834d7105f0873a891fa259c1eeecaced941df13718fd3f229@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-07-07
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Anne H.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-07-10
 DTEND:20260710T200000Z
 LOCATION:Movement Portland
@@ -3972,7 +3962,7 @@ UID:f19039f8d1d7767de561ca838bb0d3a456c65fc63aed70d7ffc2d7c2b2f502ba@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-09-23
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Events\nInstructor: Kirby K.\nLifting Socials are casual fitness area meetups hosted by a rotating cast of Movement team members. Each meetup is inspired by the host's favorite things and may include themed music\, snacks\, lift recommendations\, and other fun surprises.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-07-23
+DESCRIPTION:Category: Events\nInstructor: Britt R. / Montana R.\nLifting Socials are casual fitness area meetups hosted by a rotating cast of Movement team members. Each meetup is inspired by the host's favorite things and may include themed music\, snacks\, lift recommendations\, and other fun surprises.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-07-23
 DTEND:20260724T023000Z
 LOCATION:Movement Portland
 DTSTART:20260724T013000Z
@@ -5870,16 +5860,6 @@ SUMMARY:Climbing: Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:9fcb7fd9d774eb05bc6684687e1754c1d21411b85ab5692574f815d50c87f6e4@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-07-15
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Alix N.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-07-07
-DTEND:20260707T143000Z
-LOCATION:Movement Portland
-DTSTART:20260707T133000Z
-SUMMARY:Yoga: Hatha Yoga
-TRANSP:TRANSPARENT
-UID:5411fc1e078cc0689c7080162b7e01751518e97ee2a301fb4e6e61e2d1ecc7e4@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-07-07
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-08-14
