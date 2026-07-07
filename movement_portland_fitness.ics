@@ -182,6 +182,16 @@ UID:739d4032cf3a2ad9d65eaed00e3bc5c8e26eb2b4d72004598a618f5ffcb740fd@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-07-29
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-09-28
+DTEND:20260929T020000Z
+LOCATION:Movement Portland
+DTSTART:20260929T010000Z
+SUMMARY:Total Body Fit
+TRANSP:TRANSPARENT
+UID:87418f36a6e00157b33949c1430b47b64101137b717707cfa2c44b8957244461@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-09-28
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-03
 DTEND:20260903T143000Z
 LOCATION:Movement Portland
@@ -1310,6 +1320,16 @@ SUMMARY:Strength/Cardio
 TRANSP:TRANSPARENT
 UID:710dbc089d04292403afa2b1e6570d2a5737af2281aef325307656edaa633583@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-08-13
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-28
+DTEND:20260928T143000Z
+LOCATION:Movement Portland
+DTSTART:20260928T133000Z
+SUMMARY:Strength
+TRANSP:TRANSPARENT
+UID:92465d50adcc067ab7283d543f1f1b13679a985a4914165f57a4b75ba9fd96b7@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-09-16
