@@ -472,16 +472,6 @@ UID:e6152ad1d01ae8af357cd3c52298a1959c90477311c3e18c88627e9eeb27631f@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-05
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Shannon L.\nSlow your nervous system down. Props\, rather than your muscles\, are used to support your body in only five or six poses\, allowing you to relax and rest completely. May incorporate meditation and breathing exercises. Perfect when you're feeling drained or stressed.\nhttps://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-07-07
-DTEND:20260708T033000Z
-LOCATION:Movement Portland
-DTSTART:20260708T023000Z
-SUMMARY:Restorative Vinyasa
-TRANSP:TRANSPARENT
-UID:75bf264c1bcc9502f5ecc8831bd97f36bf5a183b0ee4128897e0efbdcf4a35bc@movement-portland-yoga
-URL:https://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-07-07
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-07-08
 DTEND:20260709T033000Z
 LOCATION:Movement Portland
@@ -780,16 +770,6 @@ SUMMARY:Restorative Vinyasa
 TRANSP:TRANSPARENT
 UID:8df94d45942f79afd3ba4d061acdc6454e0005fac1a169df30f4cfdb9799eb4b@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-08-11
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Carissa C.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-07-07
-DTEND:20260708T021500Z
-LOCATION:Movement Portland
-DTSTART:20260708T010000Z
-SUMMARY:Vinyasa
-TRANSP:TRANSPARENT
-UID:f99bec466df8fdc12799198baa799a90cf9d9539050570915a146fca871a686e@movement-portland-yoga
-URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-07-07
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Natalie D.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-30
