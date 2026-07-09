@@ -811,4 +811,14 @@ TRANSP:TRANSPARENT
 UID:2168a661af656993e2fb9bd9be38c536a74ca9a0f99b9a3fe5aaf80d98430075@movement-portland-events
 URL:https://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2026-07-15
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Events\nQueer Climb Nights are events designed to unite the LGBTQIA+ community through climbing. These gatherings offer a supportive environment for climbers to connect\, share experiences and enjoy the sport together. Event is hosted by Queer Mountaineers on the last Wednesday of each month.\nhttps://portal.movementgyms.com/portland/programs/queer-climb-night-pdx?course=U2Vzc2lvbjoyMzg1MjgzMTE=&date=2026-09-30
+DTEND:20261001T040000Z
+LOCATION:Movement Portland
+DTSTART:20261001T020000Z
+SUMMARY:Queer Climb Night
+TRANSP:TRANSPARENT
+UID:7ce884082a8a98e010a2f610bce407db8f261ce03ac428e0fa3222a36301a397@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/queer-climb-night-pdx?course=U2Vzc2lvbjoyMzg1MjgzMTE=&date=2026-09-30
+END:VEVENT
 END:VCALENDAR
