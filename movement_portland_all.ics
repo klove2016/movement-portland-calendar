@@ -642,16 +642,6 @@ UID:8dfaa39ea6a8b0de34383d9badcf046ba0e697b21ae6f470be28bd22dd813f2a@movement-po
 URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-30
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-07-09
-DTEND:20260710T021500Z
-LOCATION:Movement Portland
-DTSTART:20260710T011500Z
-SUMMARY:Climbing: Introduction to Rope Climbing
-TRANSP:TRANSPARENT
-UID:cd1530005abcc420c4f733743a9cea6e63d2855d700a4ea7fbaf88f06361ec29@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-07-09
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nIn this class\, learn how to use slopers and pinches effectively\, how to create compression for slopers and aretes\, and how to sequence those tricky\, harder climbs. You'll learn to bring new purpose and awareness to your body positioning and sequencing.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-slopers-pinches-and-sequencing?course=U2Vzc2lvbjoxMDA1MjU3NDA=&date=2026-08-12
 DTEND:20260813T023000Z
 LOCATION:Movement Portland
@@ -1660,16 +1650,6 @@ SUMMARY:Fitness: Total Body Fit
 TRANSP:TRANSPARENT
 UID:bd4ab7649e02b9983f0c697de179fa0f0baae2ae985e7b8e5118b0fb3b59ae4f@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-09-16
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Lex B.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-09
-DTEND:20260710T020000Z
-LOCATION:Movement Portland
-DTSTART:20260710T010000Z
-SUMMARY:Yoga: Power Vinyasa
-TRANSP:TRANSPARENT
-UID:bddd1702d7b25864fdd3211d0c38cd2d0546e30c8c0acc2ab33d3ce87e8587fd@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Events\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Stay engaged through fitness classes and Lifting Socials\, and earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\nStop by the Front Desk to pick up your Summer Swolestice Punch Card and start earning raffle tickets for fitness class attendance. You can also earn raffle tickets by attending Lifting Socials throughout the challenge.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-28
@@ -3430,16 +3410,6 @@ SUMMARY:Fitness: Strength
 TRANSP:TRANSPARENT
 UID:9de5ff11f11f5dd3c8dbe3c1751cccef5f1bf2562e0219a18d0274494ea298ae@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-08-17
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Lex B.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-07-09
-DTEND:20260710T033000Z
-LOCATION:Movement Portland
-DTSTART:20260710T023000Z
-SUMMARY:Yoga: Vinyasa
-TRANSP:TRANSPARENT
-UID:2388008b8d5c8a5ed8b1b16034c6333ab28b66bb90e1bf255f53196de8990e4f@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-07-09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-26
