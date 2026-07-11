@@ -292,6 +292,16 @@ UID:1f23cfb627b9f4f3d6dbc9406d2aee62fbbdaa363357808cea545930faa67a2e@movement-po
 URL:https://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-09-15
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Lorenzo D.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-02
+DTEND:20261003T014500Z
+LOCATION:Movement Portland
+DTSTART:20261003T004500Z
+SUMMARY:Power Vinyasa
+TRANSP:TRANSPARENT
+UID:e3331a6826984e879966c997c028e7af040b66cef1e416219ca3ce71a83925ff@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-02
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-08-21
 DTEND:20260821T200000Z
 LOCATION:Movement Portland
@@ -1920,6 +1930,16 @@ SUMMARY:Power Vinyasa
 TRANSP:TRANSPARENT
 UID:a78775b55d7a7ab305e56b233b327dd7b8154774d9606907216e4c31c90f8270@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-23
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-10-02
+DTEND:20261002T200000Z
+LOCATION:Movement Portland
+DTSTART:20261002T190000Z
+SUMMARY:Hatha Yoga
+TRANSP:TRANSPARENT
+UID:d0fa8e9165aee0dc64b758d34736f81421579b2e5ab14f4a444b1f59f8b90de7@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-10-02
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nIntroductory class that demystifies common poses\, alignment basics\, and breath so new yogis start strong.\nhttps://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-09-13

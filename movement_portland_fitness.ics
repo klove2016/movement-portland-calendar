@@ -1212,6 +1212,16 @@ UID:4fbd93cf69af3e6c6217e589634e24a5e191cc3b849c69489b328bc1c8b2b9c0@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-17
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nPrep your body for ski tours\, alpine climbs\, and mountain missions with leg power\, balance\, and core stability work.\nhttps://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-10-02
+DTEND:20261002T200000Z
+LOCATION:Movement Portland
+DTSTART:20261002T190000Z
+SUMMARY:Alpine Fit
+TRANSP:TRANSPARENT
+UID:17e7c12f8bb84dff0b866f70c38261c2bcc46ad0d6b36ccedf7ce5e76f89e7fe@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/alpine-fit?course=U2Vzc2lvbjoxMzAyNzUzODQ=&date=2026-10-02
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-08-13
 DTEND:20260813T143000Z
 LOCATION:Movement Portland
