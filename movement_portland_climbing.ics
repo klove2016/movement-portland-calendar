@@ -142,16 +142,6 @@ UID:f299b86e9dfc4d4f7ce2e5b18f209d6759221cb77327acd2d568ab49fcf9e512@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-07-31
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-07-12
-DTEND:20260712T220000Z
-LOCATION:Movement Portland
-DTSTART:20260712T210000Z
-SUMMARY:Introduction to Rope Climbing
-TRANSP:TRANSPARENT
-UID:d685683ac3ba559de65ffc10817e8a95fcab8a40a332ab4f6b12603deb5ff021@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-07-12
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-06
 DTEND:20260807T021500Z
 LOCATION:Movement Portland
@@ -740,16 +730,6 @@ SUMMARY:Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:3e1837d40541eb9aaa4171dee66274643fdbe7dc8ea78be54c514697983934ea@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-16
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-07-12
-DTEND:20260712T193000Z
-LOCATION:Movement Portland
-DTSTART:20260712T183000Z
-SUMMARY:Introduction to Rope Climbing
-TRANSP:TRANSPARENT
-UID:41dac0dd4799b34292fc4e60ef953840c266c9e3774a121db26e502d1277d2f8@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-07-12
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-09-14
