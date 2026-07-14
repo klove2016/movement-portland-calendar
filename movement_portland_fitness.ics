@@ -482,6 +482,16 @@ UID:1eb7cd9ef66622eabee6e655e2c70e5e1c77151700b5142f31d879f63c874e03@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-16
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-10-05
+DTEND:20261005T143000Z
+LOCATION:Movement Portland
+DTSTART:20261005T133000Z
+SUMMARY:Strength
+TRANSP:TRANSPARENT
+UID:ac2efc0ff431ccbd9798f34e681a4c6cb52075b5713ef850addb02a3becd718e@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-10-05
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-08-12
 DTEND:20260812T143000Z
 LOCATION:Movement Portland
@@ -1200,6 +1210,16 @@ SUMMARY:Total Body Fit
 TRANSP:TRANSPARENT
 UID:4fbd93cf69af3e6c6217e589634e24a5e191cc3b849c69489b328bc1c8b2b9c0@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-17
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-10-05
+DTEND:20261006T020000Z
+LOCATION:Movement Portland
+DTSTART:20261006T010000Z
+SUMMARY:Total Body Fit
+TRANSP:TRANSPARENT
+UID:42f94006b0e1993674425c7c9c5f9b1ad0e7959a5a8e110877d98ef352da62f6@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-10-05
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-08-13

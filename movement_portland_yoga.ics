@@ -52,6 +52,16 @@ UID:b861a0ec4e07c51f63becfca3534de2d2d6835fe28572e50dc37ed15c7df9f0f@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-07
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-05
+DTEND:20261005T200000Z
+LOCATION:Movement Portland
+DTSTART:20261005T190000Z
+SUMMARY:Power Vinyasa
+TRANSP:TRANSPARENT
+UID:2433e6c3c8dcec1529cfc93e53a86fd41572d92994e694f319045fbcf75f0f37@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-05
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-17
 DTEND:20260818T033000Z
 LOCATION:Movement Portland
@@ -180,6 +190,16 @@ SUMMARY:Power Vinyasa
 TRANSP:TRANSPARENT
 UID:31008fa470be2d8ea5c6b9b6ac4e460c0bbec0a355ced20fb17680add1eb6cc6@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-06
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-10-05
+DTEND:20261006T033000Z
+LOCATION:Movement Portland
+DTSTART:20261006T021500Z
+SUMMARY:Deep Stretch
+TRANSP:TRANSPARENT
+UID:67865b5f7943fd0d6c71d8b92f7c71af3efdb7250a86d905acf14c9a5c69c452@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-10-05
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-08-06
@@ -410,6 +430,16 @@ SUMMARY:Power Vinyasa
 TRANSP:TRANSPARENT
 UID:2249c5cb0e9f6def0cfe6c0c4af228a13765082410ca133d9aa0f5ec07428901@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-03
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-05
+DTEND:20261006T020000Z
+LOCATION:Movement Portland
+DTSTART:20261006T004500Z
+SUMMARY:Power Vinyasa
+TRANSP:TRANSPARENT
+UID:4c4cae065b36456bcc3b8a4951018bd98131f9993e66f3b33ab9314d435915d0@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-05
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nIntroductory class that demystifies common poses\, alignment basics\, and breath so new yogis start strong.\nhttps://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-09-06
