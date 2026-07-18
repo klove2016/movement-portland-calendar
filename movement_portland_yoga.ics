@@ -882,16 +882,6 @@ UID:c9f6a34dfae5e03640b8890de64207d631d9e1929247b1c3fb116f8734d7728a@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-02
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Carissa C.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-08-18
-DTEND:20260819T021500Z
-LOCATION:Movement Portland
-DTSTART:20260819T010000Z
-SUMMARY:Vinyasa
-TRANSP:TRANSPARENT
-UID:84cf08ac3dcadea1416a0055bb9dadaa7a6318eaa0737cfe9017da0736e68faa@movement-portland-yoga
-URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-08-18
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-31
 DTEND:20260901T033000Z
 LOCATION:Movement Portland
@@ -900,6 +890,16 @@ SUMMARY:Deep Stretch
 TRANSP:TRANSPARENT
 UID:3eae618910a4f2474109ea531ec502d79137bab541e9f062c1ca2ba80f7b4433@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-31
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Carissa C.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-08-18
+DTEND:20260819T021500Z
+LOCATION:Movement Portland
+DTSTART:20260819T010000Z
+SUMMARY:Vinyasa
+TRANSP:TRANSPARENT
+UID:84cf08ac3dcadea1416a0055bb9dadaa7a6318eaa0737cfe9017da0736e68faa@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-08-18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-14
@@ -1980,16 +1980,6 @@ SUMMARY:Restorative Vinyasa
 TRANSP:TRANSPARENT
 UID:bd2bd48c875528b8d436a80d4605923f455dce4a326facb8b8b886fac1d0e131@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-07-21
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Lorenzo D.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-07-18
-DTEND:20260718T183000Z
-LOCATION:Movement Portland
-DTSTART:20260718T171500Z
-SUMMARY:Vinyasa
-TRANSP:TRANSPARENT
-UID:dd16100752d0002c511070bb79b3d69989c33ed8e772ca21b5c155bd107dfd27@movement-portland-yoga
-URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-07-18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Shannon L.\nSlow your nervous system down. Props\, rather than your muscles\, are used to support your body in only five or six poses\, allowing you to relax and rest completely. May incorporate meditation and breathing exercises. Perfect when you're feeling drained or stressed.\nhttps://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-07-28
