@@ -672,6 +672,16 @@ UID:843ad2478952f5f0aa22fb279b150c2d426b71acdafe84867e53ac5efef2b987@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-08-07
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-14
+DTEND:20261015T010000Z
+LOCATION:Movement Portland
+DTSTART:20261015T000000Z
+SUMMARY:Introduction to Rope Climbing
+TRANSP:TRANSPARENT
+UID:b4d9032dd18854dd22a71507dad7dcb822176308289c4daa84fcca8f01568c33@movement-portland-climbing
+URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-14
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-10-05
 DTEND:20261006T031500Z
 LOCATION:Movement Portland
@@ -1180,6 +1190,16 @@ SUMMARY:Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:8aba244e35023126ac96551e07cac9163478822d8aeb3301c75e8ace52462b84@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-11
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nIn this class\, learn how to use slopers and pinches effectively\, how to create compression for slopers and aretes\, and how to sequence those tricky\, harder climbs. You'll learn to bring new purpose and awareness to your body positioning and sequencing.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-slopers-pinches-and-sequencing?course=U2Vzc2lvbjoxMDA1MjU3NDA=&date=2026-10-14
+DTEND:20261015T023000Z
+LOCATION:Movement Portland
+DTSTART:20261015T010000Z
+SUMMARY:Intermediate Technique: Slopers\, Pinches\, and Sequencing
+TRANSP:TRANSPARENT
+UID:6ec249753742fae287eb8ca9a8dd14c6266dae86033a0e1b090ab44bc6791d4a@movement-portland-climbing
+URL:https://portal.movementgyms.com/portland/programs/intermediate-technique-slopers-pinches-and-sequencing?course=U2Vzc2lvbjoxMDA1MjU3NDA=&date=2026-10-14
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-10-02
