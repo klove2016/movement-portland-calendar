@@ -4172,16 +4172,6 @@ UID:11e931cd277b9410b8023df1aeab0296bff2a587a41dd0c17a34d2026019bd80@movement-po
 URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-04
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Danny M.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-07-23
-DTEND:20260724T033000Z
-LOCATION:Movement Portland
-DTSTART:20260724T023000Z
-SUMMARY:Yoga: Vinyasa
-TRANSP:TRANSPARENT
-UID:71b403b1d266fced3146a5486057cd8abca6e6be392b21751111d617e93785ac@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-07-23
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-01
 DTEND:20261002T021500Z
 LOCATION:Movement Portland
@@ -4630,16 +4620,6 @@ SUMMARY:Events: Summer Swolestice | multi-week strength challenge
 TRANSP:TRANSPARENT
 UID:f65b08c79d64c0ffe3b53cbeae425002d1e9d02dd93e28c675ab377c6d687af6@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-07-24
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nJoin us for PDX Climb Night. BIPOC climbers of ALL levels welcome. Please click the link below to sign up.\nhttps://portal.movementgyms.com/portland/programs/pdx-climbers-of-color?course=U2Vzc2lvbjoyMzc5NjMyNTU=&date=2026-07-23
-DTEND:20260724T050000Z
-LOCATION:Movement Portland
-DTSTART:20260724T023000Z
-SUMMARY:Events: PDX Climbers of Color
-TRANSP:TRANSPARENT
-UID:1c7f4287b50b4c6f562854b65ffb328edeb9723de9c8597599406f09f9760760@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/pdx-climbers-of-color?course=U2Vzc2lvbjoyMzc5NjMyNTU=&date=2026-07-23
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-11
@@ -5120,16 +5100,6 @@ SUMMARY:Events: Summer Swolestice | Lifting Social
 TRANSP:TRANSPARENT
 UID:4c4906b8419ddf57f85fd7500135f7ec15e368975c77414f9da1df5633e74fb4@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-07-30
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Anne H.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-23
-DTEND:20260724T020000Z
-LOCATION:Movement Portland
-DTSTART:20260724T010000Z
-SUMMARY:Yoga: Power Vinyasa
-TRANSP:TRANSPARENT
-UID:1818a74b1064e900993fb2215b411407a98b4af4dd7569a3d6814b2fc713de98@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-23
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-08-27
