@@ -592,16 +592,6 @@ UID:4d77adb927abe7c280bdabfd5afb8b2dde2b68404f75d1a9100a144e991865d4@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-10-14
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-26
-DTEND:20260726T183000Z
-LOCATION:Movement Portland
-DTSTART:20260726T171500Z
-SUMMARY:Yoga: Power Vinyasa
-TRANSP:TRANSPARENT
-UID:15d15861395185918a1af0546aa28634cd0f50f6149560ed16200d3c473fb005@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-07-26
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Events\nCome join us every 3rd Thursday of the month at 7pm!\n \nOur goal is to create safe spaces for queer\, trans and nonbinary climbers of color. These climb nights are run by queer people of color for queer people of color.\nhttps://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-10-15
 DTEND:20261016T043000Z
 LOCATION:Movement Portland
@@ -4270,16 +4260,6 @@ SUMMARY:Yoga: Power Vinyasa
 TRANSP:TRANSPARENT
 UID:f10b97cceab7b602dbd9ccc4baeccbc8b16e62d985e046453052e4893c3dcbb5@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-23
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nIntroductory class that demystifies common poses\, alignment basics\, and breath so new yogis start strong.\nhttps://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-07-26
-DTEND:20260726T170000Z
-LOCATION:Movement Portland
-DTSTART:20260726T160000Z
-SUMMARY:Yoga: Foundation Yoga
-TRANSP:TRANSPARENT
-UID:3c6ef176b5f304655167356be47b05f5265b2c7b394cd6f37923d0946c0184f2@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-07-26
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-08-16
