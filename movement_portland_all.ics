@@ -572,6 +572,16 @@ UID:e11266293149a3618a40ca719f392c9bf9f7db6c40214ced22dbce6db68bfa57@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-10
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-18
+DTEND:20261018T183000Z
+LOCATION:Movement Portland
+DTSTART:20261018T171500Z
+SUMMARY:Yoga: Power Vinyasa
+TRANSP:TRANSPARENT
+UID:40bf1afe9543b3568ff280ddfce5eee81277c41cd44e8c320a7bbcf293273b5e@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-18
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Stay engaged through fitness classes and Lifting Socials\, and earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\nStop by the Front Desk to pick up your Summer Swolestice Punch Card and start earning raffle tickets for fitness class attendance. You can also earn raffle tickets by attending Lifting Socials throughout the challenge.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-10
 DTEND:20260810T220000Z
 LOCATION:Movement Portland
@@ -2612,6 +2622,16 @@ UID:faaa32062412bd42222a220e57e724f4d3f2e18f9e8aa8763b2dca57cf1a36cf@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-10-10
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-18
+DTEND:20261018T193000Z
+LOCATION:Movement Portland
+DTSTART:20261018T183000Z
+SUMMARY:Climbing: Introduction to Rope Climbing
+TRANSP:TRANSPARENT
+UID:8bfe53288f7e4c3731a1892c2796c21d34a09ed07d980ff3c25a341704d4b286@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-18
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Carissa C.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-08-18
 DTEND:20260819T021500Z
 LOCATION:Movement Portland
@@ -2690,6 +2710,16 @@ SUMMARY:Climbing: Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:ee1d59b37f130cecb1c99c75a79dd6f0aaee9610951536282af6e8cd466b63bf@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-21
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-18
+DTEND:20261018T220000Z
+LOCATION:Movement Portland
+DTSTART:20261018T210000Z
+SUMMARY:Climbing: Introduction to Rope Climbing
+TRANSP:TRANSPARENT
+UID:2a9616693e72748141b36200dd5716cc05fcf56753a8fb6e351c0557aa52bd09@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-11
@@ -3762,6 +3792,16 @@ UID:685aaee3b7a1e7fc19e678e34230870acd590f2574b694afdac12ce84c368250@movement-po
 URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-09-14
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nIntroductory class that demystifies common poses\, alignment basics\, and breath so new yogis start strong.\nhttps://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-10-18
+DTEND:20261018T170000Z
+LOCATION:Movement Portland
+DTSTART:20261018T160000Z
+SUMMARY:Yoga: Foundation Yoga
+TRANSP:TRANSPARENT
+UID:a3384f13f89cfeb727498e4ad3b01ca70a0195d843b01ef074fbccb8b2d5fb01@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-10-18
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nIntroductory class that demystifies common poses\, alignment basics\, and breath so new yogis start strong.\nhttps://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-09-27
 DTEND:20260927T170000Z
 LOCATION:Movement Portland
@@ -4510,6 +4550,16 @@ SUMMARY:Fitness: Strength/Cardio
 TRANSP:TRANSPARENT
 UID:02a0655cf197edccec3fcaabf3af56f316ea1476e9218771bd36bfaa52a4c41e@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-09-24
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Natalie D.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-10-18
+DTEND:20261019T001500Z
+LOCATION:Movement Portland
+DTSTART:20261018T230000Z
+SUMMARY:Yoga: Deep Stretch
+TRANSP:TRANSPARENT
+UID:7ef49385f0206a6eef332916bd44b51b57792560dd94e56de3ec514804b94847@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-10-18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nIntroductory class that demystifies common poses\, alignment basics\, and breath so new yogis start strong.\nhttps://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-08-16
