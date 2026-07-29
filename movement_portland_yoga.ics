@@ -332,16 +332,6 @@ UID:1f23cfb627b9f4f3d6dbc9406d2aee62fbbdaa363357808cea545930faa67a2e@movement-po
 URL:https://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-09-15
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Carissa C.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-07-28
-DTEND:20260729T021500Z
-LOCATION:Movement Portland
-DTSTART:20260729T010000Z
-SUMMARY:Vinyasa
-TRANSP:TRANSPARENT
-UID:9b338cb176da83d26baf7678c2b0004c3ba99e125e64d264728e8f07c07affb5@movement-portland-yoga
-URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-07-28
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-19
 DTEND:20260820T033000Z
 LOCATION:Movement Portland
@@ -1980,16 +1970,6 @@ SUMMARY:Hatha Yoga
 TRANSP:TRANSPARENT
 UID:27cda1473201be1639f20a7ba2725299a35d2888bd3bfcb71e082882bc7113e7@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-08-04
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Shannon L.\nSlow your nervous system down. Props\, rather than your muscles\, are used to support your body in only five or six poses\, allowing you to relax and rest completely. May incorporate meditation and breathing exercises. Perfect when you're feeling drained or stressed.\nhttps://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-07-28
-DTEND:20260729T033000Z
-LOCATION:Movement Portland
-DTSTART:20260729T023000Z
-SUMMARY:Restorative Vinyasa
-TRANSP:TRANSPARENT
-UID:ac1697f581aa4c71001c4a19f50d463d999f3b18af2897dbe2057e1aff7f790a@movement-portland-yoga
-URL:https://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-07-28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nIntroductory class that demystifies common poses\, alignment basics\, and breath so new yogis start strong.\nhttps://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-10-04
