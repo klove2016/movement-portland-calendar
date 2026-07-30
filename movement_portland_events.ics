@@ -12,6 +12,16 @@ UID:86e429016d17a516b115426098c60966cb0e88293e23c152aa9e1ab43edc692c@movement-po
 URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-01
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nDiseñado para hispanohablantes con poca o ninguna experiencia en escalada. En este curso aprenderás las habilidades necesarias para escalar de forma segura en un gimnasio.\nhttps://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2026-10-21
+DTEND:20261022T033000Z
+LOCATION:Movement Portland
+DTSTART:20261022T013000Z
+SUMMARY:Loco por la Aventura
+TRANSP:TRANSPARENT
+UID:f95716aca62cbb2353d32eb0b93842634c46811d87463fb836059e5427db4fa8@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2026-10-21
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Stay engaged through fitness classes and Lifting Socials\, and earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\nStop by the Front Desk to pick up your Summer Swolestice Punch Card and start earning raffle tickets for fitness class attendance. You can also earn raffle tickets by attending Lifting Socials throughout the challenge.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-25
 DTEND:20260825T220000Z
 LOCATION:Movement Portland

@@ -932,6 +932,16 @@ UID:26909ddfc827ad361971b6529085d3af405847e3ec207c9bd83c9dd34f670dea@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-09-23
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-10-21
+DTEND:20261022T003000Z
+LOCATION:Movement Portland
+DTSTART:20261021T233000Z
+SUMMARY:Mat Pilates
+TRANSP:TRANSPARENT
+UID:84fc37a4f5ff8a02be34065626fa30c20472501ee554da90b6e695a0a76a689c@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-10-21
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-12
 DTEND:20260813T020000Z
 LOCATION:Movement Portland
@@ -1152,6 +1162,16 @@ UID:42f94006b0e1993674425c7c9c5f9b1ad0e7959a5a8e110877d98ef352da62f6@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-10-05
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-10-21
+DTEND:20261021T143000Z
+LOCATION:Movement Portland
+DTSTART:20261021T133000Z
+SUMMARY:Strength
+TRANSP:TRANSPARENT
+UID:7418893bf43b636f34de56c95d7b2259db558302346c2616deef8fc6ca786f25@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-10-21
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-10-14
 DTEND:20261015T020000Z
 LOCATION:Movement Portland
@@ -1300,6 +1320,16 @@ SUMMARY:Mat Pilates
 TRANSP:TRANSPARENT
 UID:5e89aeb8b104bad8b17478913a09f9c871f86049616a2824352230d96f15bb56@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-09-19
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-10-21
+DTEND:20261022T020000Z
+LOCATION:Movement Portland
+DTSTART:20261022T010000Z
+SUMMARY:Total Body Fit
+TRANSP:TRANSPARENT
+UID:7f89d7e8f4c55377b26ecb8b27070510c8829929d9899ee399cdfd15f3f9ad95@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-10-21
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-08-04
