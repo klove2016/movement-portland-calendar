@@ -912,6 +912,16 @@ UID:84fc37a4f5ff8a02be34065626fa30c20472501ee554da90b6e695a0a76a689c@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-10-21
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nSeasonal legs‑and‑core conditioning so you can crush trail runs and hikes all summer without burning out.\nhttps://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-10-23
+DTEND:20261023T200000Z
+LOCATION:Movement Portland
+DTSTART:20261023T190000Z
+SUMMARY:Trail Fit
+TRANSP:TRANSPARENT
+UID:13fa327dea09144e58a987b2fa3a42a885a51b669a5fe25b957ca3e5c9d879cf@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-10-23
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-12
 DTEND:20260813T020000Z
 LOCATION:Movement Portland
