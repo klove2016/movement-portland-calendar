@@ -232,6 +232,16 @@ UID:ecc5a02df65739b2c6cd02d22d0fa32e8d313487cae11e6f8066957d07f85e58@movement-po
 URL:https://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-09-04
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-10-26
+DTEND:20261026T143000Z
+LOCATION:Movement Portland
+DTSTART:20261026T133000Z
+SUMMARY:Strength
+TRANSP:TRANSPARENT
+UID:72be1b562d1d0807be642575f40d7069d3ffcd5ebe8ef99f8bcae508e8243848@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-10-26
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-23
 DTEND:20260923T143000Z
 LOCATION:Movement Portland
@@ -890,6 +900,16 @@ SUMMARY:Mat Pilates
 TRANSP:TRANSPARENT
 UID:84fc37a4f5ff8a02be34065626fa30c20472501ee554da90b6e695a0a76a689c@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-10-21
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-10-26
+DTEND:20261027T020000Z
+LOCATION:Movement Portland
+DTSTART:20261027T010000Z
+SUMMARY:Total Body Fit
+TRANSP:TRANSPARENT
+UID:63ba03f4cda61a81dec35828ffb2bd29d55748aa1f458c189beaed8c4cdfac73@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-10-26
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nSeasonal legs‑and‑core conditioning so you can crush trail runs and hikes all summer without burning out.\nhttps://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-10-23
