@@ -1472,6 +1472,16 @@ UID:1a7f54be520dfee0ae31d23ae9ac200bc2b7354fcfd069bd87038d6edb671489@movement-po
 URL:https://portal.movementgyms.com/portland/programs/ladies-climbing-coalition-meet-up?course=U2Vzc2lvbjoxOTA5NDI2NjQ=&date=2026-10-01
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nInstructor: Britt R.\nLifting Socials are casual fitness area meetups hosted by a rotating cast of Movement team members. Each meetup is inspired by the host's favorite things and may include themed music\, snacks\, lift recommendations\, and other fun surprises. Attending these meetups earns you a raffle ticket for our Summer Swoletice strength challenge - stop by or call the front desk for more information.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-08-20
+DTEND:20260821T013001Z
+LOCATION:Movement Portland
+DTSTART:20260821T003000Z
+SUMMARY:Events: Summer Swolestice | Lifting Social | Death by Deadlift
+TRANSP:TRANSPARENT
+UID:36a8151fee2b90c2f0c300814e9a95c8320a98dfdf11b8237fc7605ab21a3b7d@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-08-20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-10-16
 DTEND:20261017T023000Z
 LOCATION:Movement Portland
@@ -2982,16 +2992,6 @@ UID:9212a7d9e951ee508d3bc362de75e7e36a26203b0a3b804cd9783febbbe9a7a1@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-14
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Events\nInstructor: Kirby K.\nLifting Socials are casual fitness area meetups hosted by a rotating cast of Movement team members. Each meetup is inspired by the host's favorite things and may include themed music\, snacks\, lift recommendations\, and other fun surprises. Attending these meetups earns you a raffle ticket for our Summer Swoletice strength challenge - stop by or call the front desk for more information.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-08-06
-DTEND:20260807T023000Z
-LOCATION:Movement Portland
-DTSTART:20260807T013000Z
-SUMMARY:Events: Summer Swolestice | Lifting Social
-TRANSP:TRANSPARENT
-UID:e1bbf62d9059188098b7e1c7b64513415444646aeb908e383b4e8622aa23c69d@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-08-06
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Carissa C.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-09-29
 DTEND:20260930T021500Z
 LOCATION:Movement Portland
@@ -3952,16 +3952,6 @@ UID:d52e73c31f10215ee505db95c62ab545abe4c0e4d89594c8421e6750c2f38747@movement-po
 URL:https://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-09-04
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-08-05
-DTEND:20260805T143000Z
-LOCATION:Movement Portland
-DTSTART:20260805T133000Z
-SUMMARY:Fitness: Strength
-TRANSP:TRANSPARENT
-UID:74cd15547c73d5e5e533a81c9f929cfe7a59d66743e99a33722c8bfdb0643875@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-08-05
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-08-25
 DTEND:20260826T023000Z
 LOCATION:Movement Portland
@@ -4230,6 +4220,16 @@ SUMMARY:Yoga: Power Vinyasa
 TRANSP:TRANSPARENT
 UID:f10b97cceab7b602dbd9ccc4baeccbc8b16e62d985e046453052e4893c3dcbb5@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-23
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Events\nInstructor: Kirby K.\nLifting Socials are casual fitness area meetups hosted by a rotating cast of Movement team members. Each meetup is inspired by the host's favorite things and may include themed music\, snacks\, lift recommendations\, and other fun surprises. Attending these meetups earns you a raffle ticket for our Summer Swoletice strength challenge - stop by or call the front desk for more information.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-08-27
+DTEND:20260828T023001Z
+LOCATION:Movement Portland
+DTSTART:20260828T013000Z
+SUMMARY:Events: Summer Swolestice | Lifting Social | GirlyPOP!
+TRANSP:TRANSPARENT
+UID:d776163ef49d06c903773f8f9b47efd0a347e0477392786d71b0d7f81f2e6e5d@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-08-27
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-08-16

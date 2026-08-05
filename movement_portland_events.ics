@@ -272,6 +272,16 @@ UID:794ab986a7d2a853348e322d51dea5cb6482633a9a1cf7f3831fde702d6cab32@movement-po
 URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-17
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nInstructor: Britt R.\nLifting Socials are casual fitness area meetups hosted by a rotating cast of Movement team members. Each meetup is inspired by the host's favorite things and may include themed music\, snacks\, lift recommendations\, and other fun surprises. Attending these meetups earns you a raffle ticket for our Summer Swoletice strength challenge - stop by or call the front desk for more information.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-08-20
+DTEND:20260821T013001Z
+LOCATION:Movement Portland
+DTSTART:20260821T003000Z
+SUMMARY:Summer Swolestice | Lifting Social | Death by Deadlift
+TRANSP:TRANSPARENT
+UID:430068331291ded9ca22a0e6e3a53dcd14f9418903181551ece5eb74ad4569ef@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-08-20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Stay engaged through fitness classes and Lifting Socials\, and earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\nStop by the Front Desk to pick up your Summer Swolestice Punch Card and start earning raffle tickets for fitness class attendance. You can also earn raffle tickets by attending Lifting Socials throughout the challenge.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-07
 DTEND:20260807T220000Z
 LOCATION:Movement Portland
@@ -342,6 +352,16 @@ UID:b93e6fc287e63f0636ea32312e685a291c31bde0855c986d8645f480537df0f2@movement-po
 URL:https://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-09-03
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nInstructor: Kirby K.\nLifting Socials are casual fitness area meetups hosted by a rotating cast of Movement team members. Each meetup is inspired by the host's favorite things and may include themed music\, snacks\, lift recommendations\, and other fun surprises. Attending these meetups earns you a raffle ticket for our Summer Swoletice strength challenge - stop by or call the front desk for more information.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-08-27
+DTEND:20260828T023001Z
+LOCATION:Movement Portland
+DTSTART:20260828T013000Z
+SUMMARY:Summer Swolestice | Lifting Social | GirlyPOP!
+TRANSP:TRANSPARENT
+UID:706bbd76ccb13ea75681db03dc13ddfd049b5509939a88f7759e3a7688854b24@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-08-27
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Stay engaged through fitness classes and Lifting Socials\, and earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\nStop by the Front Desk to pick up your Summer Swolestice Punch Card and start earning raffle tickets for fitness class attendance. You can also earn raffle tickets by attending Lifting Socials throughout the challenge.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-09
 DTEND:20260809T220000Z
 LOCATION:Movement Portland
@@ -410,16 +430,6 @@ SUMMARY:Summer Swolestice | multi-week strength challenge
 TRANSP:TRANSPARENT
 UID:d57bec1503ad76afbdb15f57dfe496f1d9ce7e230fa654660b85abd3366c1ee3@movement-portland-events
 URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-18
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nInstructor: Kirby K.\nLifting Socials are casual fitness area meetups hosted by a rotating cast of Movement team members. Each meetup is inspired by the host's favorite things and may include themed music\, snacks\, lift recommendations\, and other fun surprises. Attending these meetups earns you a raffle ticket for our Summer Swoletice strength challenge - stop by or call the front desk for more information.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-08-06
-DTEND:20260807T023000Z
-LOCATION:Movement Portland
-DTSTART:20260807T013000Z
-SUMMARY:Summer Swolestice | Lifting Social
-TRANSP:TRANSPARENT
-UID:ba305fee20c3800da2c7abc4444b99e24cf845be24cd7c26740cc20ccf12b8a2@movement-portland-events
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-lifting-social?course=U2Vzc2lvbjoyNDgyOTQ1MjA=&date=2026-08-06
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Events\nCome join us every 3rd Thursday of the month at 7pm!\n \nOur goal is to create safe spaces for queer\, trans and nonbinary climbers of color. These climb nights are run by queer people of color for queer people of color.\nhttps://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-10-15
