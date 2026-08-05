@@ -1311,14 +1311,4 @@ TRANSP:TRANSPARENT
 UID:7f89d7e8f4c55377b26ecb8b27070510c8829929d9899ee399cdfd15f3f9ad95@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-10-21
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-08-04
-DTEND:20260805T023000Z
-LOCATION:Movement Portland
-DTSTART:20260805T013000Z
-SUMMARY:Functional Strength Training for Climbers
-TRANSP:TRANSPARENT
-UID:4f7bd9ea582509ccc57fa4e6541a16c588517cd636697ff69f1e7c8c0ae9faea@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-08-04
-END:VEVENT
 END:VCALENDAR
