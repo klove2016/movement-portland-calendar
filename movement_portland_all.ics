@@ -1122,16 +1122,6 @@ UID:e8555aeeb4f2cc091ac14c43148dd85aa026b915bc4aa41ce6cb893fa159ee4a@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-21
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Lorenzo D.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-08-08
-DTEND:20260808T183000Z
-LOCATION:Movement Portland
-DTSTART:20260808T171500Z
-SUMMARY:Yoga: Vinyasa
-TRANSP:TRANSPARENT
-UID:23fb02749a6bff674afcf5a3f7a7700e06d4a4978b46e6a8189ac9a28cc4d13f@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-08-08
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-10-22
 DTEND:20261022T143000Z
 LOCATION:Movement Portland
@@ -2222,16 +2212,6 @@ UID:ee8f27b5eff6f99119825b16c86999089db05333b67c057c8d7d03219ca3ca89@movement-po
 URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-11
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Aimée M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-08-08
-DTEND:20260808T170000Z
-LOCATION:Movement Portland
-DTSTART:20260808T160000Z
-SUMMARY:Fitness: Mat Pilates
-TRANSP:TRANSPARENT
-UID:2b7d19fba038073894a69f59609dd60d621e91dde201ac18adbf8199c13f0095@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-08-08
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nSeasonal legs‑and‑core conditioning so you can crush trail runs and hikes all summer without burning out.\nhttps://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-10-30
 DTEND:20261030T200000Z
 LOCATION:Movement Portland
@@ -2910,16 +2890,6 @@ SUMMARY:Fitness: Strength/Cardio
 TRANSP:TRANSPARENT
 UID:7538a90081a822063e32deb138a1ab916318fa476667c35e4439b1634d9b89fb@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-09-01
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-08
-DTEND:20260808T180000Z
-LOCATION:Movement Portland
-DTSTART:20260808T170000Z
-SUMMARY:Climbing: Introduction to Rope Climbing
-TRANSP:TRANSPARENT
-UID:49332bcfc341325ea9fd31a748afe813164b5f83b4727f86e3627b7d5339458f@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-08
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nIntroductory class that demystifies common poses\, alignment basics\, and breath so new yogis start strong.\nhttps://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-09-13
