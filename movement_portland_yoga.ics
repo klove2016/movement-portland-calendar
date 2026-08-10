@@ -1472,6 +1472,16 @@ UID:5354e18d45ac6aa9bf6c16c8493f029a04c1fd7b476687fab40695bb748a8ddf@movement-po
 URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-10-21
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Natalie D.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-11-01
+DTEND:20261102T011500Z
+LOCATION:Movement Portland
+DTSTART:20261102T000000Z
+SUMMARY:Deep Stretch
+TRANSP:TRANSPARENT
+UID:50dc2cb6f0dfde5098093baa5621490b8acb81b0eef36379fc8e3232d34c8967@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-11-01
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-04
 DTEND:20261004T183000Z
 LOCATION:Movement Portland
@@ -1620,6 +1630,16 @@ SUMMARY:Hatha Yoga
 TRANSP:TRANSPARENT
 UID:fa0d94914f18b07fbf756d0bbb2d4224eb22f6e2ab2248d4e056238ac7880483@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-09-11
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nIntroductory class that demystifies common poses\, alignment basics\, and breath so new yogis start strong.\nhttps://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-11-01
+DTEND:20261101T180000Z
+LOCATION:Movement Portland
+DTSTART:20261101T170000Z
+SUMMARY:Foundation Yoga
+TRANSP:TRANSPARENT
+UID:b2528129375bebbb62b1ade21af871303686579dcdee908cc565f08f6c50e9fd@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-11-01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Shannon L.\nSlow your nervous system down. Props\, rather than your muscles\, are used to support your body in only five or six poses\, allowing you to relax and rest completely. May incorporate meditation and breathing exercises. Perfect when you're feeling drained or stressed.\nhttps://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-10-27
@@ -2010,6 +2030,16 @@ SUMMARY:Power Vinyasa
 TRANSP:TRANSPARENT
 UID:d067f28f4dc55335eac3990586d68dc95f73db195a8ca43fffe486d9784ff202@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-29
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-11-01
+DTEND:20261101T193000Z
+LOCATION:Movement Portland
+DTSTART:20261101T181500Z
+SUMMARY:Power Vinyasa
+TRANSP:TRANSPARENT
+UID:a6ec67a4c55073cd3178cd729341ca92da612c0aeeccc66610617ffcf9e9c93d@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-11-01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nIntroductory class that demystifies common poses\, alignment basics\, and breath so new yogis start strong.\nhttps://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-10-18
