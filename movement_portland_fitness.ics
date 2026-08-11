@@ -692,6 +692,16 @@ UID:7b47bbac658291362c9ef01e1e4baf7e389db5489e1860085e5cf1fe90c24556@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-10-15
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-11-02
+DTEND:20261103T030000Z
+LOCATION:Movement Portland
+DTSTART:20261103T020000Z
+SUMMARY:Total Body Fit
+TRANSP:TRANSPARENT
+UID:b65312c0b2d8133fe3ee1a6bb42d4a0597dfa0748532707d453c9d01a3e9b6fd@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-11-02
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Paige G.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-10-31
 DTEND:20261031T170000Z
 LOCATION:Movement Portland
@@ -770,6 +780,16 @@ SUMMARY:Mat Pilates
 TRANSP:TRANSPARENT
 UID:fe2a0ffc261f06abb5d7d7e7f9f16e5ebde76577b068b2462dbd6ad7b922af1c@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-08-12
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-11-02
+DTEND:20261102T153000Z
+LOCATION:Movement Portland
+DTSTART:20261102T143000Z
+SUMMARY:Strength
+TRANSP:TRANSPARENT
+UID:7f490c48b4089fa1700f734671d8da0daa9cab1792d9f70b0aaf2a6afbe2e50c@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-11-02
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-10-15
