@@ -722,16 +722,6 @@ UID:3a1fb6d7ecbde444996a885f74fa9b9b9e48b07ce1382aeb2011908cee7a7823@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-10-21
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Events\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Stay engaged through fitness classes and Lifting Socials\, and earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\nStop by the Front Desk to pick up your Summer Swolestice Punch Card and start earning raffle tickets for fitness class attendance. You can also earn raffle tickets by attending Lifting Socials throughout the challenge.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-16
-DTEND:20260816T220000Z
-LOCATION:Movement Portland
-DTSTART:20260816T210000Z
-SUMMARY:Events: Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:1623a0f778a77e522d54ce40dc5cec0860193fc6e7ccdc0337a6b569f6615fcf@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-16
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-09
 DTEND:20261010T011500Z
 LOCATION:Movement Portland
@@ -940,16 +930,6 @@ SUMMARY:Climbing: Introduction to Bouldering
 TRANSP:TRANSPARENT
 UID:f2b333d6fbe637924cff1a14f2ee567abb6f027975b9ba174cc1b7f57bdc7f58@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-09-28
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-16
-DTEND:20260816T193000Z
-LOCATION:Movement Portland
-DTSTART:20260816T183000Z
-SUMMARY:Climbing: Introduction to Rope Climbing
-TRANSP:TRANSPARENT
-UID:f318f3d2ca85bc08f13c899b20a49b2f173f0d7242a29b4b63f2a5d5a5ee5a7b@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-16
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn how to use flagging to stay balanced and generate power\, engage body tension at the right moments\, and execute deadpoints\, a dynamic movement technique that helps you extend your reach with control. Through focused drills and direct coaching\, you'll develop a stronger awareness of your center of gravity.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-flags-and-deadpoints?course=U2Vzc2lvbjoxMDA1MjU2NzM=&date=2026-10-28
@@ -2750,16 +2730,6 @@ SUMMARY:Fitness: Total Body Fit
 TRANSP:TRANSPARENT
 UID:f9a9c2342ebc7670651ea12ebc5c8fc8892497e6237c24b9199a99838fe476fb@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-09-09
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Natalie D.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-16
-DTEND:20260817T001500Z
-LOCATION:Movement Portland
-DTSTART:20260816T230000Z
-SUMMARY:Yoga: Deep Stretch
-TRANSP:TRANSPARENT
-UID:470fbd4a255f216e0728419e7e83a51e30a7fee4487c35d4ae82970eb6d0c1c8@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-08-16
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-09-16
