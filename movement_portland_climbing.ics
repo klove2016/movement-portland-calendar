@@ -92,6 +92,16 @@ UID:67d4aae7099841ee847e590fbb9be39f8fefc1d1cb2ca1b680d86b7f0d08381d@movement-po
 URL:https://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-09-29
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nCome get a taste of some fancy footwork. Focused on heel and toe hooks\, this 30 minute clinic gives you a taste of our Intermediate Technique class and how these two techniques can improve your climbing from overhanging terrain to finding more rests\nhttps://portal.movementgyms.com/portland/programs/climbing-clinic-1?course=U2Vzc2lvbjoxMDA1MjY2Mjg=&date=2026-09-16
+DTEND:20260917T020000Z
+LOCATION:Movement Portland
+DTSTART:20260917T010000Z
+SUMMARY:Heel and Toe Hooks Free Clinic
+TRANSP:TRANSPARENT
+UID:dc7a12d74c57422e54150492fc39bd27a8c79e61f329197c1490d6d7b2f73239@movement-portland-climbing
+URL:https://portal.movementgyms.com/portland/programs/climbing-clinic-1?course=U2Vzc2lvbjoxMDA1MjY2Mjg=&date=2026-09-16
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-25
 DTEND:20261025T193000Z
 LOCATION:Movement Portland
@@ -192,16 +202,6 @@ UID:507d373389eb3bfb154d94c8c7ffef92c7289a8711319029cf450ba6168e8c3d@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-02
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-17
-DTEND:20260818T010000Z
-LOCATION:Movement Portland
-DTSTART:20260818T000000Z
-SUMMARY:Introduction to Rope Climbing
-TRANSP:TRANSPARENT
-UID:fcba48adaa0e090c661427d2858df61e1cfec1b62e81acdd043713c32e9d06ec@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-17
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-10-16
 DTEND:20261017T023000Z
 LOCATION:Movement Portland
@@ -220,16 +220,6 @@ SUMMARY:Learn to Lead
 TRANSP:TRANSPARENT
 UID:096bc175b85b8f2dd5ad3a0e5c8b61d782101fbe29374e0743f53427b5a820de@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-10-27
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nIn this class\, learn how to use slopers and pinches effectively\, how to create compression for slopers and aretes\, and how to sequence those tricky\, harder climbs. You'll learn to bring new purpose and awareness to your body positioning and sequencing.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-slopers-pinches-and-sequencing?course=U2Vzc2lvbjoxMDA1MjU3NDA=&date=2026-09-02
-DTEND:20260903T023000Z
-LOCATION:Movement Portland
-DTSTART:20260903T010000Z
-SUMMARY:Intermediate Technique: Slopers\, Pinches\, and Sequencing
-TRANSP:TRANSPARENT
-UID:a72d4151126ebdf823111538c9ef23a703eb78e9717423f9d1374f19ecfa2906@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intermediate-technique-slopers-pinches-and-sequencing?course=U2Vzc2lvbjoxMDA1MjU3NDA=&date=2026-09-02
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-18
@@ -352,16 +342,6 @@ UID:a2cfbc76716357d069df09848c721c944cbe037011e2ed34cc4fb325da2a6171@movement-po
 URL:https://portal.movementgyms.com/portland/programs/sport-climbing-outside?course=U2Vzc2lvbjoxMDA1MjYwODY=&date=2026-11-07
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn how to use heel rotation to drive powerful hip movement\, maintain foot tension and precise placement to keep your feet from slipping\, and master heel and toe hooks for better control. Through targeted drills and direct coaching\, you'll gain new purpose and awareness in your footwork.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-heel-and-toe-hooks?course=U2Vzc2lvbjoxMDA1MjU1OTI=&date=2026-09-30
-DTEND:20261001T023000Z
-LOCATION:Movement Portland
-DTSTART:20261001T010000Z
-SUMMARY:Intermediate Technique: Heel and Toe Hooks
-TRANSP:TRANSPARENT
-UID:d8dd44b7f8c848a29194b99f6297727f629220b14bc4f868e877e285ca2940a9@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intermediate-technique-heel-and-toe-hooks?course=U2Vzc2lvbjoxMDA1MjU1OTI=&date=2026-09-30
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-08-24
 DTEND:20260825T033000Z
 LOCATION:Movement Portland
@@ -420,16 +400,6 @@ SUMMARY:Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:24baa21469ea6134697a60fbbb6a8ec2e2bac4e666402c2caf022da5930cd5b0@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-01
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn how to use flagging to stay balanced and generate power\, engage body tension at the right moments\, and execute deadpoints\, a dynamic movement technique that helps you extend your reach with control. Through focused drills and direct coaching\, you'll develop a stronger awareness of your center of gravity.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-flags-and-deadpoints?course=U2Vzc2lvbjoxMDA1MjU2NzM=&date=2026-10-28
-DTEND:20261029T023000Z
-LOCATION:Movement Portland
-DTSTART:20261029T010000Z
-SUMMARY:Intermediate Technique: Flags and Deadpoints
-TRANSP:TRANSPARENT
-UID:bc0b6a9e7e3fbd06b6634c63b9d2401a6fcff220db5de4e62df1bf548bcc4cad@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intermediate-technique-flags-and-deadpoints?course=U2Vzc2lvbjoxMDA1MjU2NzM=&date=2026-10-28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-28
@@ -632,16 +602,6 @@ UID:7a35b374b0a59f35fa1765b8796ffbe620226663f6fa64de44bcb81653dc4bc6@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn how to use heel rotation to drive powerful hip movement\, maintain foot tension and precise placement to keep your feet from slipping\, and master heel and toe hooks for better control. Through targeted drills and direct coaching\, you'll gain new purpose and awareness in your footwork.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-heel-and-toe-hooks?course=U2Vzc2lvbjoxMDA1MjU1OTI=&date=2026-10-21
-DTEND:20261022T023000Z
-LOCATION:Movement Portland
-DTSTART:20261022T010000Z
-SUMMARY:Intermediate Technique: Heel and Toe Hooks
-TRANSP:TRANSPARENT
-UID:8dfd66f6c1b42fb4588bcc4f8f36d0294e720362558bb75460414b2c0c2e5f79@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intermediate-technique-heel-and-toe-hooks?course=U2Vzc2lvbjoxMDA1MjU1OTI=&date=2026-10-21
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-10-05
 DTEND:20261006T033000Z
 LOCATION:Movement Portland
@@ -730,16 +690,6 @@ SUMMARY:Learn to Lead
 TRANSP:TRANSPARENT
 UID:4e23f6a8351f8707e158d451739afc0cb156f3c5ae41336c6b3534d80d69957e@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-11-08
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nIn this class\, learn how to use slopers and pinches effectively\, how to create compression for slopers and aretes\, and how to sequence those tricky\, harder climbs. You'll learn to bring new purpose and awareness to your body positioning and sequencing.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-slopers-pinches-and-sequencing?course=U2Vzc2lvbjoxMDA1MjU3NDA=&date=2026-09-23
-DTEND:20260924T023000Z
-LOCATION:Movement Portland
-DTSTART:20260924T010000Z
-SUMMARY:Intermediate Technique: Slopers\, Pinches\, and Sequencing
-TRANSP:TRANSPARENT
-UID:6ca1a77d5a6fd21074a05874e9bf01e2a76cf17a00fe9bfde2727c12b6b7a8df@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intermediate-technique-slopers-pinches-and-sequencing?course=U2Vzc2lvbjoxMDA1MjU3NDA=&date=2026-09-23
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-11-03
@@ -932,16 +882,6 @@ UID:6e58e8093ba6dfe23caa7af6df9881f7bb8d2bbe8aaed7d57df3cb6a845843e8@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-27
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn how to use heel rotation to drive powerful hip movement\, maintain foot tension and precise placement to keep your feet from slipping\, and master heel and toe hooks for better control. Through targeted drills and direct coaching\, you'll gain new purpose and awareness in your footwork.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-heel-and-toe-hooks?course=U2Vzc2lvbjoxMDA1MjU1OTI=&date=2026-09-09
-DTEND:20260910T023000Z
-LOCATION:Movement Portland
-DTSTART:20260910T010000Z
-SUMMARY:Intermediate Technique: Heel and Toe Hooks
-TRANSP:TRANSPARENT
-UID:533b534919c51752869297f7bbea3e93331df8f30516522769b747d6acd0d19a@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intermediate-technique-heel-and-toe-hooks?course=U2Vzc2lvbjoxMDA1MjU1OTI=&date=2026-09-09
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-29
 DTEND:20261030T021500Z
 LOCATION:Movement Portland
@@ -1042,16 +982,6 @@ UID:181d79fda751052038bc97aa642ff1f23c0c4e1572686c7519c61a50e669ed35@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-technique?course=U2Vzc2lvbjoxMDA1MjUzOTU=&date=2026-10-20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn how to use flagging to stay balanced and generate power\, engage body tension at the right moments\, and execute deadpoints\, a dynamic movement technique that helps you extend your reach with control. Through focused drills and direct coaching\, you'll develop a stronger awareness of your center of gravity.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-flags-and-deadpoints?course=U2Vzc2lvbjoxMDA1MjU2NzM=&date=2026-10-07
-DTEND:20261008T023000Z
-LOCATION:Movement Portland
-DTSTART:20261008T010000Z
-SUMMARY:Intermediate Technique: Flags and Deadpoints
-TRANSP:TRANSPARENT
-UID:4fd1dec43ed3664ce013b3f3671511b3f7462c56e90a1c445c0cd27e7e4337f1@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intermediate-technique-flags-and-deadpoints?course=U2Vzc2lvbjoxMDA1MjU2NzM=&date=2026-10-07
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-05
 DTEND:20261006T010000Z
 LOCATION:Movement Portland
@@ -1132,16 +1062,6 @@ UID:7b0dc7ecd5ae173795efeb4426136deaa3eeddcbb9daf5c6c33246824c114fef@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-03
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nIn this class\, learn how to use slopers and pinches effectively\, how to create compression for slopers and aretes\, and how to sequence those tricky\, harder climbs. You'll learn to bring new purpose and awareness to your body positioning and sequencing.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-slopers-pinches-and-sequencing?course=U2Vzc2lvbjoxMDA1MjU3NDA=&date=2026-10-14
-DTEND:20261015T023000Z
-LOCATION:Movement Portland
-DTSTART:20261015T010000Z
-SUMMARY:Intermediate Technique: Slopers\, Pinches\, and Sequencing
-TRANSP:TRANSPARENT
-UID:6ec249753742fae287eb8ca9a8dd14c6266dae86033a0e1b090ab44bc6791d4a@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intermediate-technique-slopers-pinches-and-sequencing?course=U2Vzc2lvbjoxMDA1MjU3NDA=&date=2026-10-14
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-10-02
 DTEND:20261003T023000Z
 LOCATION:Movement Portland
@@ -1190,16 +1110,6 @@ SUMMARY:Sport Climbing Outside
 TRANSP:TRANSPARENT
 UID:33b4afe5445e202e267a867e10ca18934905aad46e1814a73aed973322f89fd9@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/sport-climbing-outside?course=U2Vzc2lvbjoxMDA1MjYwODY=&date=2026-09-26
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nIn this class\, learn how to use slopers and pinches effectively\, how to create compression for slopers and aretes\, and how to sequence those tricky\, harder climbs. You'll learn to bring new purpose and awareness to your body positioning and sequencing.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-slopers-pinches-and-sequencing?course=U2Vzc2lvbjoxMDA1MjU3NDA=&date=2026-11-04
-DTEND:20261105T033000Z
-LOCATION:Movement Portland
-DTSTART:20261105T020000Z
-SUMMARY:Intermediate Technique: Slopers\, Pinches\, and Sequencing
-TRANSP:TRANSPARENT
-UID:a9d69ecb7b8b0950bc5d5a477b35c84e889590e29b8e92670b1055ad01fd700b@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intermediate-technique-slopers-pinches-and-sequencing?course=U2Vzc2lvbjoxMDA1MjU3NDA=&date=2026-11-04
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn how to use heel rotation to drive powerful hip movement\, maintain foot tension and precise placement to keep your feet from slipping\, and master heel and toe hooks for better control. Through targeted drills and direct coaching\, you'll gain new purpose and awareness in your footwork.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-heel-and-toe-hooks?course=U2Vzc2lvbjoxMDA1MjU1OTI=&date=2026-08-19
@@ -1320,16 +1230,6 @@ SUMMARY:Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:81525d6841023960aaa3cebb9e4041424a675f97ec56ceb98da6cfcb2e724b98@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-11-04
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn how to use flagging to stay balanced and generate power\, engage body tension at the right moments\, and execute deadpoints\, a dynamic movement technique that helps you extend your reach with control. Through focused drills and direct coaching\, you'll develop a stronger awareness of your center of gravity.\nhttps://portal.movementgyms.com/portland/programs/intermediate-technique-flags-and-deadpoints?course=U2Vzc2lvbjoxMDA1MjU2NzM=&date=2026-09-16
-DTEND:20260917T023000Z
-LOCATION:Movement Portland
-DTSTART:20260917T010000Z
-SUMMARY:Intermediate Technique: Flags and Deadpoints
-TRANSP:TRANSPARENT
-UID:97e70df451c2551388218d7c3dd8f10f32d19662401a338dc4dfd046aadb49b3@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intermediate-technique-flags-and-deadpoints?course=U2Vzc2lvbjoxMDA1MjU2NzM=&date=2026-09-16
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-12
