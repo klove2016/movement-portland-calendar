@@ -3512,16 +3512,6 @@ UID:a7c9257564de0c67ca8f8451a78ee1aa22274fb7a7e8137093326cf142a8a7b4@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-09-19
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-08-18
-DTEND:20260818T143000Z
-LOCATION:Movement Portland
-DTSTART:20260818T133000Z
-SUMMARY:Fitness: Lifting Fundamentals
-TRANSP:TRANSPARENT
-UID:fb69477368826a07cbdc485cb9a6984ef0075e512039e2d6a45a8899084348a3@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-08-18
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lorenzo D.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-02
 DTEND:20261003T014500Z
 LOCATION:Movement Portland
@@ -4040,16 +4030,6 @@ SUMMARY:Climbing: Learn to Lead
 TRANSP:TRANSPARENT
 UID:2c89d8ffb111332c00aaa5de8b1feab78ec28bf4857a30dc72fd94c467e43bc0@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-10-05
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-08-18
-DTEND:20260818T143000Z
-LOCATION:Movement Portland
-DTSTART:20260818T133000Z
-SUMMARY:Yoga: Hatha Yoga
-TRANSP:TRANSPARENT
-UID:592f6d8299c8c4521e725fc7992a3356abedd9c9d9bba508ad5f338b0406d29a@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-08-18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Natalie D.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-09-27
