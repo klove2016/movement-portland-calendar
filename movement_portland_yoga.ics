@@ -152,6 +152,16 @@ UID:3a8059f4465a9e82ae6946ec7d279cfb128acfb97ea3aafa7493ed494e217bcb@movement-po
 URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-08-27
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-11-10
+DTEND:20261110T153000Z
+LOCATION:Movement Portland
+DTSTART:20261110T143000Z
+SUMMARY:Hatha Yoga
+TRANSP:TRANSPARENT
+UID:f42b991b231529642adb9a8147849426e02fc172bc8853276097698477e9c2bf@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-11-10
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Anne H.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-09-25
 DTEND:20260925T200000Z
 LOCATION:Movement Portland
@@ -392,6 +402,16 @@ UID:223233e91fe6e68037b56ca634c60dc80a45cdde56e359ee53db7a2bb64ca699@movement-po
 URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-10-09
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Shannon L.\nSlow your nervous system down. Props\, rather than your muscles\, are used to support your body in only five or six poses\, allowing you to relax and rest completely. May incorporate meditation and breathing exercises. Perfect when you're feeling drained or stressed.\nhttps://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-11-10
+DTEND:20261111T043000Z
+LOCATION:Movement Portland
+DTSTART:20261111T033000Z
+SUMMARY:Restorative Vinyasa
+TRANSP:TRANSPARENT
+UID:40a6a917eea1e84ff0f22cf9ea783ba42b3bc20ef9acdd4b3e7440729431deae@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-11-10
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Natalie D.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-10-25
 DTEND:20261026T001500Z
 LOCATION:Movement Portland
@@ -630,6 +650,16 @@ SUMMARY:Foundation Yoga
 TRANSP:TRANSPARENT
 UID:04a363a163d2f14243803fadcff05bd630eb8e19741be1a0d733f151750831f7@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-08-30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Carissa C.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-11-10
+DTEND:20261111T031500Z
+LOCATION:Movement Portland
+DTSTART:20261111T020000Z
+SUMMARY:Vinyasa
+TRANSP:TRANSPARENT
+UID:21a67e510ea663ed33af96d424d6786dae4f480afc1462a0dd47730e25058359@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-11-10
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-08-20
