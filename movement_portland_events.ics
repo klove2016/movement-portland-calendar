@@ -332,16 +332,6 @@ UID:b616f6f0be29269e9396564a6f2867fc4fc32dba99372ad7c8ec51965b9bbfd4@movement-po
 URL:https://portal.movementgyms.com/portland/programs/ladies-climbing-coalition-meet-up?course=U2Vzc2lvbjoxOTA5NDI2NjQ=&date=2026-11-05
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Events\nThis group is a low-pressure talk space for climbers to share about our shared mental health journey. We chat. We climb. We connect. Led by Jonathan Morell\, LPC associate\, AMGA guide\, and Movement community member. For climbers 18+.\nhttps://portal.movementgyms.com/portland/programs/mental-health-talk-space?course=U2Vzc2lvbjoyNDI4ODg2NTI=&date=2026-09-07
-DTEND:20260908T040000Z
-LOCATION:Movement Portland
-DTSTART:20260908T023000Z
-SUMMARY:Mental Health Talk Space
-TRANSP:TRANSPARENT
-UID:d312c27d49968e5c0288d6362bcbfff8e1df572ed4ea63626e2365f94322ed53@movement-portland-events
-URL:https://portal.movementgyms.com/portland/programs/mental-health-talk-space?course=U2Vzc2lvbjoyNDI4ODg2NTI=&date=2026-09-07
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Events\nOn the first Friday of every month\, members can bring a guest without using a guest pass. Not a member? Come with a friend and both of you will get 50% off a standard adult day pass.\nhttps://portal.movementgyms.com/portland/programs/bring-friend-day?course=U2Vzc2lvbjoxNjAzOTg2NzQ=&date=2026-10-02
 DTEND:20261003T060000Z
 LOCATION:Movement Portland
@@ -450,16 +440,6 @@ SUMMARY:Summer Swolestice | Week 10 Lifting Evaluation
 TRANSP:TRANSPARENT
 UID:776b6547deb0104310f9b0f0187b1cb4998f6611695d8993218625f404605ab4@movement-portland-events
 URL:https://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-09-03
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Stay engaged through fitness classes and Lifting Socials\, and earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\nStop by the Front Desk to pick up your Summer Swolestice Punch Card and start earning raffle tickets for fitness class attendance. You can also earn raffle tickets by attending Lifting Socials throughout the challenge.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-19
-DTEND:20260819T220000Z
-LOCATION:Movement Portland
-DTSTART:20260819T210000Z
-SUMMARY:Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:aac9861ac0449462b7f8a8a31c57b395b08df34919bb4366a32ef228129fddf7@movement-portland-events
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-19
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Events\nQueer Climb Nights are events designed to unite the LGBTQIA+ community through climbing. These gatherings offer a supportive environment for climbers to connect\, share experiences and enjoy the sport together. Event is hosted by Queer Mountaineers on the last Wednesday of each month.\nhttps://portal.movementgyms.com/portland/programs/queer-climb-night-pdx?course=U2Vzc2lvbjoyMzg1MjgzMTE=&date=2026-09-30
