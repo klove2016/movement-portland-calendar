@@ -432,14 +432,14 @@ UID:1e029509b9c6f5e80e10b12f787728fe2507b422f6534b6075f84b1302d16712@movement-po
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-22
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-19
-DTEND:20260820T020000Z
+DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nSeasonal legs‑and‑core conditioning so you can crush trail runs and hikes all summer without burning out.\nhttps://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-10-09
+DTEND:20261009T200000Z
 LOCATION:Movement Portland
-DTSTART:20260820T010000Z
-SUMMARY:Total Body Fit
+DTSTART:20261009T190000Z
+SUMMARY:Trail Fit
 TRANSP:TRANSPARENT
-UID:2f9e101c4488c633f0fa582c233470ad8237d87aefa6bfedfdfe6d51649c1061@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-08-19
+UID:92908ed11f86f3e04a3f80d8d49afd70f1c86368d2e8e90fb76730e0a269bce6@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-10-09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nSeasonal legs‑and‑core conditioning so you can crush trail runs and hikes all summer without burning out.\nhttps://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-10-02
@@ -460,16 +460,6 @@ SUMMARY:Mat Pilates
 TRANSP:TRANSPARENT
 UID:c1e5dff1c47732ffbfb48e47d253b81b58bc6278f773f48776f032525d76a225@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-10-03
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nSeasonal legs‑and‑core conditioning so you can crush trail runs and hikes all summer without burning out.\nhttps://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-10-09
-DTEND:20261009T200000Z
-LOCATION:Movement Portland
-DTSTART:20261009T190000Z
-SUMMARY:Trail Fit
-TRANSP:TRANSPARENT
-UID:92908ed11f86f3e04a3f80d8d49afd70f1c86368d2e8e90fb76730e0a269bce6@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-10-09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-11-10
