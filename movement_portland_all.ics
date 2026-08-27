@@ -3492,16 +3492,6 @@ UID:32879fbfde6b4588c770e0b04dda4c71562541439e21d60cf255758c87ecefbb@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Alix N.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-08-27
-DTEND:20260827T143000Z
-LOCATION:Movement Portland
-DTSTART:20260827T133000Z
-SUMMARY:Yoga: Hatha Yoga
-TRANSP:TRANSPARENT
-UID:56106492ecf43d4761a13573f55c8b5d6716aaa5659008c68676c30b69e748e4@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-08-27
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-10-14
 DTEND:20261015T020000Z
 LOCATION:Movement Portland
@@ -4570,16 +4560,6 @@ SUMMARY:Climbing: Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:822f5166aa4d8101a8efcce5d354957f7f90ce8cab0b78496223da1900d0953b@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-21
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-08-27
-DTEND:20260827T143000Z
-LOCATION:Movement Portland
-DTSTART:20260827T133000Z
-SUMMARY:Fitness: Lifting Fundamentals
-TRANSP:TRANSPARENT
-UID:eea71570de447041d306cb4bc4188ced8f38f270877c4ce0488b0190caf8a01b@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-08-27
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-11-10
