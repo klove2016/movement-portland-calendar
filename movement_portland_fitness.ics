@@ -122,6 +122,16 @@ UID:f87b021024efe5939a54dbd47c230b11e2c8e4259aa1a64cd390e2b17198fe9a@movement-po
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-24
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-11-18
+DTEND:20261119T013000Z
+LOCATION:Movement Portland
+DTSTART:20261119T003000Z
+SUMMARY:Mat Pilates
+TRANSP:TRANSPARENT
+UID:4430e6bd4aa9d6013a6f64dbe3d7735bec0a3b1a1bd84d78b60f1f52332f90a3@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-11-18
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-09-30
 DTEND:20261001T020000Z
 LOCATION:Movement Portland
@@ -390,6 +400,16 @@ SUMMARY:Trail Fit
 TRANSP:TRANSPARENT
 UID:54765c65366ae137a43bc13bda9181a78f8fa8a03f3e36075d09eb67f9bb3acd@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-09-25
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-11-18
+DTEND:20261119T030000Z
+LOCATION:Movement Portland
+DTSTART:20261119T020000Z
+SUMMARY:Total Body Fit
+TRANSP:TRANSPARENT
+UID:1f2ec417650a5aa2300d0520fe4e2bae9e3ed91058ea3f9c2dfe815ab775a17f@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-11-18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-16
@@ -820,6 +840,16 @@ SUMMARY:Strength/Cardio
 TRANSP:TRANSPARENT
 UID:1164b6bf94cc5d5fe5347e4d4d6f0ebb7662a1ae4f137f1269f9b3a9385c2adf@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-10-13
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-11-18
+DTEND:20261118T153000Z
+LOCATION:Movement Portland
+DTSTART:20261118T143000Z
+SUMMARY:Strength
+TRANSP:TRANSPARENT
+UID:11c3c8d15e8fd61580cc709d98f89600828fad24a55023eb154ced7c8120245d@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-11-18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-10-14
