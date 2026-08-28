@@ -552,6 +552,16 @@ UID:ffcb0cd10070a90c2dc08020fb9d0bbe8207b855b9af7d4209178a4a22b67b2c@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-10-07
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Montana R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-11-19
+DTEND:20261119T210000Z
+LOCATION:Movement Portland
+DTSTART:20261119T200000Z
+SUMMARY:Strength/Cardio
+TRANSP:TRANSPARENT
+UID:c07ec869d6baacd88b4e367b269484cdfba9336210304f3cea8b62eefaacc1e9@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-11-19
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-11-11
 DTEND:20261111T153000Z
 LOCATION:Movement Portland
@@ -1010,6 +1020,16 @@ SUMMARY:Lifting Fundamentals
 TRANSP:TRANSPARENT
 UID:d6ea23e22d72f3eff37ab88b17d3947cc14de2ad41aa1a2ae29cae75cf709728@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-11-17
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-11-19
+DTEND:20261119T153000Z
+LOCATION:Movement Portland
+DTSTART:20261119T143000Z
+SUMMARY:Lifting Fundamentals
+TRANSP:TRANSPARENT
+UID:a3cff57aaeaf3679086632194f6b738f9b50e4b994a0be3479bd6c901ea9dcf8@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-11-19
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-11-11
