@@ -162,6 +162,16 @@ UID:5cd2ec6c8e5e5dee36ddc3416bdb7b073dae21193e699cd0eb5243f081a33ecc@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-17
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nIn this class\, participants will learn skills to execute dynamic movements. From single moves\, to dead points and dynos\, climbers will practice a variety of techniques to make big moves. By the end of the class\, climbers should be working toward maintaining momentum through sequences.\nhttps://portal.movementgyms.com/portland/programs/climbing-clinic-3?course=U2Vzc2lvbjoxMDA1MjY2NjQ=&date=2026-09-16
+DTEND:20260917T021500Z
+LOCATION:Movement Portland
+DTSTART:20260917T014500Z
+SUMMARY:Deadpoints and Dynos Free Clinic
+TRANSP:TRANSPARENT
+UID:9d929ff7c876cd008925689bb9abbb76eed3b6810b6c11dee1efcad9d9bc2729@movement-portland-climbing
+URL:https://portal.movementgyms.com/portland/programs/climbing-clinic-3?course=U2Vzc2lvbjoxMDA1MjY2NjQ=&date=2026-09-16
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-11-14
 DTEND:20261114T190000Z
 LOCATION:Movement Portland
@@ -210,6 +220,16 @@ SUMMARY:Learn to Lead
 TRANSP:TRANSPARENT
 UID:096bc175b85b8f2dd5ad3a0e5c8b61d782101fbe29374e0743f53427b5a820de@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-10-27
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nGive structure to your climbing training! Pyramid training is a great way to get a workout in a short period of time\, is adaptable to many types of climbing\, and is appropriate for all skill levels whether it be V2 or 5.13. In this 30-minute clinic you will practice and learn how to develop a pyramid training routine to incorporate into your training routine.\nhttps://portal.movementgyms.com/portland/programs/climbing-clinic-2?course=U2Vzc2lvbjoxMDA1MjY2NDg=&date=2026-09-17
+DTEND:20260917T234500Z
+LOCATION:Movement Portland
+DTSTART:20260917T231500Z
+SUMMARY:Climbing Based Workouts: Pyramids Free Clinic
+TRANSP:TRANSPARENT
+UID:d0af4e0a93493ef60606a5e62d5d42a75a491079a263a5676d9013dcfae05259@movement-portland-climbing
+URL:https://portal.movementgyms.com/portland/programs/climbing-clinic-2?course=U2Vzc2lvbjoxMDA1MjY2NDg=&date=2026-09-17
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-18
@@ -502,14 +522,14 @@ UID:19a0d7706540e06df8a72af1d28a062c534b0c9d07bae89cf27e6a90a24dd4ed@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-09-25
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-31
-DTEND:20260901T010000Z
+DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-09-13
+DTEND:20260913T190000Z
 LOCATION:Movement Portland
-DTSTART:20260901T000000Z
-SUMMARY:Introduction to Rope Climbing
+DTSTART:20260913T163000Z
+SUMMARY:Learn to Lead
 TRANSP:TRANSPARENT
-UID:28cf87eb6a12b2446d060630a2cd5f001a8469d97a27762124e839a872e1155e@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-31
+UID:cf48879d092c6274f0bf77f08053d20fbdb7de8c588a935cb4b69264b5d6918b@movement-portland-climbing
+URL:https://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-09-13
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-19
@@ -520,16 +540,6 @@ SUMMARY:Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:2293a4fe52716dfd26c7147adfd1588e187ba3d7fe41665db8ad3e919b0a40ea@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-19
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-09-13
-DTEND:20260913T190000Z
-LOCATION:Movement Portland
-DTSTART:20260913T163000Z
-SUMMARY:Learn to Lead
-TRANSP:TRANSPARENT
-UID:cf48879d092c6274f0bf77f08053d20fbdb7de8c588a935cb4b69264b5d6918b@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-09-13
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-11-10
@@ -1062,16 +1072,6 @@ UID:7b0dc7ecd5ae173795efeb4426136deaa3eeddcbb9daf5c6c33246824c114fef@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-03
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nGive structure to your climbing training! Pyramid training is a great way to get a workout in a short period of time\, is adaptable to many types of climbing\, and is appropriate for all skill levels whether it be V2 or 5.13. In this 30-minute clinic you will practice and learn how to develop a pyramid training routine to incorporate into your training routine.\nhttps://portal.movementgyms.com/portland/programs/climbing-clinic-2?course=U2Vzc2lvbjoxMDA1MjY2NDg=&date=2026-09-19
-DTEND:20260919T203000Z
-LOCATION:Movement Portland
-DTSTART:20260919T200000Z
-SUMMARY:Climbing Based Workouts: Pyramids Free Clinic
-TRANSP:TRANSPARENT
-UID:8099b8942daae5d6236e29c6187f25eb7158138fc07d63cd9fae9e1eb97acf16@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/climbing-clinic-2?course=U2Vzc2lvbjoxMDA1MjY2NDg=&date=2026-09-19
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-10-02
 DTEND:20261003T023000Z
 LOCATION:Movement Portland
@@ -1120,16 +1120,6 @@ SUMMARY:Sport Climbing Outside
 TRANSP:TRANSPARENT
 UID:33b4afe5445e202e267a867e10ca18934905aad46e1814a73aed973322f89fd9@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/sport-climbing-outside?course=U2Vzc2lvbjoxMDA1MjYwODY=&date=2026-09-26
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nIn this class\, participants will learn skills to execute dynamic movements. From single moves\, to dead points and dynos\, climbers will practice a variety of techniques to make big moves. By the end of the class\, climbers should be working toward maintaining momentum through sequences.\nhttps://portal.movementgyms.com/portland/programs/climbing-clinic-3?course=U2Vzc2lvbjoxMDA1MjY2NjQ=&date=2026-09-16
-DTEND:20260917T004500Z
-LOCATION:Movement Portland
-DTSTART:20260917T001500Z
-SUMMARY:Deadpoints and Dynos Free Clinic
-TRANSP:TRANSPARENT
-UID:e220504b2de00106543aaa0537644a9975f645f2db171ee90399f793fc698150@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/climbing-clinic-3?course=U2Vzc2lvbjoxMDA1MjY2NjQ=&date=2026-09-16
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-09-01

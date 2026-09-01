@@ -432,14 +432,14 @@ UID:7884bed6caf44a1fbe0b897139a27d07f2b29f7dbe3d09d1540b2936be2eaa98@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-11-09
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-09-22
-DTEND:20260922T200000Z
+DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-11-17
+DTEND:20261118T033000Z
 LOCATION:Movement Portland
-DTSTART:20260922T190000Z
-SUMMARY:Fitness: Strength/Cardio
+DTSTART:20261118T023000Z
+SUMMARY:Fitness: Functional Strength Training for Climbers
 TRANSP:TRANSPARENT
-UID:b733f14a3df51f9e5124c9efeb2e02d117634de223ad5640b022b0289bbc1cb9@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-09-22
+UID:a9b178a8642805deaf3083ef08722cd90755e3631a133c510f624e06b8249bdd@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-11-17
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lorenzo D.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-18
@@ -450,6 +450,16 @@ SUMMARY:Yoga: Power Vinyasa
 TRANSP:TRANSPARENT
 UID:fd2aca92ef2fdd85adb846655fc2069489400d678b5e59a20c795347fe346314@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-18
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-09-22
+DTEND:20260922T200000Z
+LOCATION:Movement Portland
+DTSTART:20260922T190000Z
+SUMMARY:Fitness: Strength/Cardio
+TRANSP:TRANSPARENT
+UID:b733f14a3df51f9e5124c9efeb2e02d117634de223ad5640b022b0289bbc1cb9@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-09-22
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-09-28
@@ -702,6 +712,16 @@ UID:3a1fb6d7ecbde444996a885f74fa9b9b9e48b07ce1382aeb2011908cee7a7823@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-10-21
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-09-08
+DTEND:20260909T023000Z
+LOCATION:Movement Portland
+DTSTART:20260909T013000Z
+SUMMARY:Fitness: Functional Strength Training for Climbers
+TRANSP:TRANSPARENT
+UID:7a1b3445d12a83f8051348997ac404bc61d06c60a70a6388cbcee457ef3fe433@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-09-08
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-09
 DTEND:20261010T011500Z
 LOCATION:Movement Portland
@@ -720,16 +740,6 @@ SUMMARY:Yoga: Power Vinyasa
 TRANSP:TRANSPARENT
 UID:d9ddf9f18f0521d93a560b8a6f1857b97457ef57b2ba289b4c67953d5a0c6f45@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-09
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-31
-DTEND:20260901T010000Z
-LOCATION:Movement Portland
-DTSTART:20260901T000000Z
-SUMMARY:Climbing: Introduction to Rope Climbing
-TRANSP:TRANSPARENT
-UID:79e3ee96bb92f55b1eb8ff1264517783cff7e694d5ccd3e41baf7ee4cf9636a5@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-08-31
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lorenzo D.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-16
@@ -1152,6 +1162,16 @@ UID:da2aa5d894e76f45b81ca8f84aa6d9c6dfe006410875ac7f349dbe44b7e0eadd@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-11-18
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-09-01
+DTEND:20260902T023000Z
+LOCATION:Movement Portland
+DTSTART:20260902T013000Z
+SUMMARY:Fitness: Functional Strength Training for Climbers
+TRANSP:TRANSPARENT
+UID:caf2d025a18b1e952652691141724bb7ccfbcdb4893fa8ce7dbaa8f4501e5c1b@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-09-01
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-10-26
 DTEND:20261027T020000Z
 LOCATION:Movement Portland
@@ -1180,6 +1200,16 @@ SUMMARY:Climbing: Introduction to Bouldering
 TRANSP:TRANSPARENT
 UID:a83146a797292a7765853f68e998080337d2bd860240aac0ab2fad995a35e4ca@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-02
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-09-15
+DTEND:20260916T023000Z
+LOCATION:Movement Portland
+DTSTART:20260916T013000Z
+SUMMARY:Fitness: Functional Strength Training for Climbers
+TRANSP:TRANSPARENT
+UID:7ad3ea4cedd9b760d3dd1ae21c8bbd4fb91d6b1cf0e8dacc3cd740f7a9b61e65@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-09-15
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-11-03
@@ -1330,16 +1360,6 @@ SUMMARY:Yoga: Vinyasa
 TRANSP:TRANSPARENT
 UID:5703de4f33bdf9c0227ff6ca238788f0fa8366b49b839349a5ff16fa64264f0b@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-10-06
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nGive structure to your climbing training! Pyramid training is a great way to get a workout in a short period of time\, is adaptable to many types of climbing\, and is appropriate for all skill levels whether it be V2 or 5.13. In this 30-minute clinic you will practice and learn how to develop a pyramid training routine to incorporate into your training routine.\nhttps://portal.movementgyms.com/portland/programs/climbing-clinic-2?course=U2Vzc2lvbjoxMDA1MjY2NDg=&date=2026-09-19
-DTEND:20260919T203000Z
-LOCATION:Movement Portland
-DTSTART:20260919T200000Z
-SUMMARY:Climbing: Climbing Based Workouts: Pyramids Free Clinic
-TRANSP:TRANSPARENT
-UID:3c5c1f9d8caafc25a5110b0bf9a6735debea52a84cec4e995eb3b2bd224e9b56@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/climbing-clinic-2?course=U2Vzc2lvbjoxMDA1MjY2NDg=&date=2026-09-19
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-14
@@ -1642,6 +1662,16 @@ UID:f11d78e90724fbd47289285f8a0b8221c141989b0f94222c2cb2a6afab001218@movement-po
 URL:https://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-11-05
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-10-06
+DTEND:20261007T023000Z
+LOCATION:Movement Portland
+DTSTART:20261007T013000Z
+SUMMARY:Fitness: Functional Strength Training for Climbers
+TRANSP:TRANSPARENT
+UID:b83e066a44608941fe1e5d08a88ebf406506de4956991d936e1c78871c20094d@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-10-06
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-09-01
 DTEND:20260902T033000Z
 LOCATION:Movement Portland
@@ -1782,6 +1812,16 @@ UID:4e687dcacd59f20bda6c1e3809a55fad0f15fb93f949a45b60c7dee19ce914c2@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-11-12
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nIn this class\, participants will learn skills to execute dynamic movements. From single moves\, to dead points and dynos\, climbers will practice a variety of techniques to make big moves. By the end of the class\, climbers should be working toward maintaining momentum through sequences.\nhttps://portal.movementgyms.com/portland/programs/climbing-clinic-3?course=U2Vzc2lvbjoxMDA1MjY2NjQ=&date=2026-09-16
+DTEND:20260917T021500Z
+LOCATION:Movement Portland
+DTSTART:20260917T014500Z
+SUMMARY:Climbing: Deadpoints and Dynos Free Clinic
+TRANSP:TRANSPARENT
+UID:204b17be98996ac511ba7447ada0fa391aea63621006745d8b23c4de0c26eec7@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/climbing-clinic-3?course=U2Vzc2lvbjoxMDA1MjY2NjQ=&date=2026-09-16
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-14
 DTEND:20261015T020000Z
 LOCATION:Movement Portland
@@ -1902,6 +1942,16 @@ UID:c0ad53def727f28f31adb75225b4f621a10e51868af92654f758e439a2145ef8@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-09-30
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-09-29
+DTEND:20260930T023000Z
+LOCATION:Movement Portland
+DTSTART:20260930T013000Z
+SUMMARY:Fitness: Functional Strength Training for Climbers
+TRANSP:TRANSPARENT
+UID:919e0ee5bc66249b99feef639e867fcbfb47200ef53ce6761ef9ed68ed2e1be6@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-09-29
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nCome join us every 3rd Thursday of the month at 7pm!\n \nOur goal is to create safe spaces for queer\, trans and nonbinary climbers of color. These climb nights are run by queer people of color for queer people of color.\nhttps://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-09-17
 DTEND:20260918T043000Z
 LOCATION:Movement Portland
@@ -1962,6 +2012,16 @@ UID:7d21db5536fa99ddceb599a8cfe5da714e8afd8518a66a77de98b524d3fdc5e1@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-10-01
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-10-13
+DTEND:20261014T023000Z
+LOCATION:Movement Portland
+DTSTART:20261014T013000Z
+SUMMARY:Fitness: Functional Strength Training for Climbers
+TRANSP:TRANSPARENT
+UID:a15a4a911fbc0607297c028be9f6c5dc720015af478928ffab366e96bc87dafe@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-10-13
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nSeasonal legs‑and‑core conditioning so you can crush trail runs and hikes all summer without burning out.\nhttps://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-10-30
 DTEND:20261030T200000Z
 LOCATION:Movement Portland
@@ -1980,6 +2040,16 @@ SUMMARY:Yoga: Vinyasa
 TRANSP:TRANSPARENT
 UID:88ecb3ab01cb9682733d7bb603c1e3c37aedb3ff8f81afe22029a8f241d98ac3@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-11-17
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nGive structure to your climbing training! Pyramid training is a great way to get a workout in a short period of time\, is adaptable to many types of climbing\, and is appropriate for all skill levels whether it be V2 or 5.13. In this 30-minute clinic you will practice and learn how to develop a pyramid training routine to incorporate into your training routine.\nhttps://portal.movementgyms.com/portland/programs/climbing-clinic-2?course=U2Vzc2lvbjoxMDA1MjY2NDg=&date=2026-09-17
+DTEND:20260917T234500Z
+LOCATION:Movement Portland
+DTSTART:20260917T231500Z
+SUMMARY:Climbing: Climbing Based Workouts: Pyramids Free Clinic
+TRANSP:TRANSPARENT
+UID:f6e330d620213a33d6f87233431ea7c7f6aa28ab00845232d966cf13c005933e@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/climbing-clinic-2?course=U2Vzc2lvbjoxMDA1MjY2NDg=&date=2026-09-17
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-02
@@ -2502,16 +2572,6 @@ UID:213dc886957181d57472245f5ba371a7e9f5486db44717447594f15a564eccb2@movement-po
 URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-09-29
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-31
-DTEND:20260831T200000Z
-LOCATION:Movement Portland
-DTSTART:20260831T190000Z
-SUMMARY:Yoga: Power Vinyasa
-TRANSP:TRANSPARENT
-UID:8214fe9e3bed4408813ad24e3c4878735aac56d03a9bbb496c735b5db6e728ef@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-08-31
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-23
 DTEND:20260924T020000Z
 LOCATION:Movement Portland
@@ -2892,16 +2952,6 @@ UID:ba2ce4fa8757d6ea15abf1aaff3758cf8bbedaba5822136e6c2440f0477297e9@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-09-25
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nIn this class\, participants will learn skills to execute dynamic movements. From single moves\, to dead points and dynos\, climbers will practice a variety of techniques to make big moves. By the end of the class\, climbers should be working toward maintaining momentum through sequences.\nhttps://portal.movementgyms.com/portland/programs/climbing-clinic-3?course=U2Vzc2lvbjoxMDA1MjY2NjQ=&date=2026-09-16
-DTEND:20260917T004500Z
-LOCATION:Movement Portland
-DTSTART:20260917T001500Z
-SUMMARY:Climbing: Deadpoints and Dynos Free Clinic
-TRANSP:TRANSPARENT
-UID:457253b0e4d24519fd97f014ecc1d1547fcbf121e8669cd00574645f8f8a6786@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/climbing-clinic-3?course=U2Vzc2lvbjoxMDA1MjY2NjQ=&date=2026-09-16
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-10-20
 DTEND:20261020T200000Z
 LOCATION:Movement Portland
@@ -3030,16 +3080,6 @@ SUMMARY:Yoga: Power Vinyasa
 TRANSP:TRANSPARENT
 UID:d9b031a9e0439b94eab00515a212d625c3e0dcfac3afab55c62ee87fbe892534@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-15
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nSummer Swolestice is a 10-week strength challenge centered on community\, consistency\, and personal growth. Stay engaged through fitness classes and Lifting Socials\, and earn raffle tickets throughout the challenge just by showing up and staying consistent with your training.\nStop by the Front Desk to pick up your Summer Swolestice Punch Card and start earning raffle tickets for fitness class attendance. You can also earn raffle tickets by attending Lifting Socials throughout the challenge.\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-31
-DTEND:20260831T220000Z
-LOCATION:Movement Portland
-DTSTART:20260831T210000Z
-SUMMARY:Events: Summer Swolestice | multi-week strength challenge
-TRANSP:TRANSPARENT
-UID:0f5273f9832a872fca2ee351a34b6bb56d6c6ec057495607e1cb353e4eb8de91@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice-challenge?course=U2Vzc2lvbjoyNDg1OTU0NzE=&date=2026-08-31
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-30
@@ -3272,14 +3312,14 @@ UID:23f66a01d00ee65b5c31c8ff323f6b7a2c9f8c48cfbbad235a54c07bed400743@movement-po
 URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-10-24
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-10-07
-DTEND:20261007T143000Z
+DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-09-22
+DTEND:20260923T023000Z
 LOCATION:Movement Portland
-DTSTART:20261007T133000Z
-SUMMARY:Fitness: Strength
+DTSTART:20260923T013000Z
+SUMMARY:Fitness: Functional Strength Training for Climbers
 TRANSP:TRANSPARENT
-UID:c47e0e516480fcd80bb3daec442ab3b2f043fe008b7f8d5a71bd9ba3f7ca2f8e@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-10-07
+UID:40faa7880505b38214f97487b31d9b79a3cfc57ec9669ea60a564a7b37e7004e@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-09-22
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Paige G.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-09-19
@@ -3290,6 +3330,16 @@ SUMMARY:Fitness: Mat Pilates
 TRANSP:TRANSPARENT
 UID:a7c9257564de0c67ca8f8451a78ee1aa22274fb7a7e8137093326cf142a8a7b4@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-09-19
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-10-07
+DTEND:20261007T143000Z
+LOCATION:Movement Portland
+DTSTART:20261007T133000Z
+SUMMARY:Fitness: Strength
+TRANSP:TRANSPARENT
+UID:c47e0e516480fcd80bb3daec442ab3b2f043fe008b7f8d5a71bd9ba3f7ca2f8e@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-10-07
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lorenzo D.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-02
@@ -4102,6 +4152,26 @@ UID:def488df5623c7634ba8a5678214fa1aa8f22cdff019c41a371e02cea88206d1@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-25
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-11-03
+DTEND:20261104T033000Z
+LOCATION:Movement Portland
+DTSTART:20261104T023000Z
+SUMMARY:Fitness: Functional Strength Training for Climbers
+TRANSP:TRANSPARENT
+UID:eec6b8fea3376bbf49d20802a5fac628ecbf6a6709aed89ad2dee5e6198d4061@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-11-03
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-10-20
+DTEND:20261021T023000Z
+LOCATION:Movement Portland
+DTSTART:20261021T013000Z
+SUMMARY:Fitness: Functional Strength Training for Climbers
+TRANSP:TRANSPARENT
+UID:f423f215137368caf7d2dd9a0cefacf80e6631b86ce6398c232d81e1672b3792@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-10-20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-31
 DTEND:20261031T180000Z
 LOCATION:Movement Portland
@@ -4320,6 +4390,16 @@ SUMMARY:Yoga: Power Vinyasa
 TRANSP:TRANSPARENT
 UID:bda11e2ec87472bf86d9f51de78789dbb36409390c77f33c85f188d498ebd06e@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-21
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-11-10
+DTEND:20261111T033000Z
+LOCATION:Movement Portland
+DTSTART:20261111T023000Z
+SUMMARY:Fitness: Functional Strength Training for Climbers
+TRANSP:TRANSPARENT
+UID:b1e14ae80a5efc160a79f6d5bab65d74e2b5b19824aa27c127be4db7ba5f3681@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-11-10
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-10-27
@@ -4650,6 +4730,16 @@ SUMMARY:Yoga: Vinyasa
 TRANSP:TRANSPARENT
 UID:568cab6aaac7032f435ef156cf150cdbfb2ac9cc38221d9457c4602b79eb78b3@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-10-08
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-10-27
+DTEND:20261028T023000Z
+LOCATION:Movement Portland
+DTSTART:20261028T013000Z
+SUMMARY:Fitness: Functional Strength Training for Climbers
+TRANSP:TRANSPARENT
+UID:2ae7500470edf89c6d9f9367cc092327b8c5771779d7678c06e94c7295b58e13@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-10-27
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-13
