@@ -672,16 +672,6 @@ UID:1a6b5fdd73d741b85ba98ce207ed87b7c83aff8f2ea220a1e9e8792cbc0b38b6@movement-po
 URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-11-13
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-02
-DTEND:20260902T143000Z
-LOCATION:Movement Portland
-DTSTART:20260902T133000Z
-SUMMARY:Fitness: Strength
-TRANSP:TRANSPARENT
-UID:7f75ae6f98c814edb2bd822a115c03fc1809d68b36cc2c5e0e9a7ffa59968ac4@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-02
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-11-07
 DTEND:20261107T190000Z
 LOCATION:Movement Portland
@@ -4330,16 +4320,6 @@ SUMMARY:Fitness: Strength
 TRANSP:TRANSPARENT
 UID:f439f26c1440d5fcbb183071f43a8e06d93a61ee8af1c3dcd802557a163f4fee@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-11-18
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nInstructor: Britt R.\nReturn for your Week 10 Lifting Evaluation to re-test your lifts\, measure your progress\, and see how far you’ve come!\nhttps://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-09-02
-DTEND:20260902T153000Z
-LOCATION:Movement Portland
-DTSTART:20260902T143000Z
-SUMMARY:Events: Summer Swolestice | Week 10 Lifting Evaluation
-TRANSP:TRANSPARENT
-UID:4545756736b5e3f8e251beb06a0ad17e2fcdbce7f19cbc52f2a2f899a53c8897@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/summer-swolestice?course=U2Vzc2lvbjoyNDgyOTI5NzY=&date=2026-09-02
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-24
