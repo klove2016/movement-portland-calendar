@@ -722,6 +722,16 @@ UID:87a59c7637247ebad0facb7428cf80327a6d84b6c368debcd11bd06bfbce2e20@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-30
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-11-26
+DTEND:20261126T153000Z
+LOCATION:Movement Portland
+DTSTART:20261126T143000Z
+SUMMARY:Lifting Fundamentals
+TRANSP:TRANSPARENT
+UID:24cfee140e403536cb8b0ff827f371c77767d8c40e08960ceea6aae14c2549f1@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-11-26
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-11-12
 DTEND:20261112T153000Z
 LOCATION:Movement Portland
