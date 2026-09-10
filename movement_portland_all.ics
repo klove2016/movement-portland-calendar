@@ -42,16 +42,6 @@ UID:46d41a0b3bcd6c550d937bf423d7ace4f876cd0cd3a16def8ecaa4d2b01ccbd9@movement-po
 URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-09-12
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-09
-DTEND:20260910T010000Z
-LOCATION:Movement Portland
-DTSTART:20260910T000000Z
-SUMMARY:Climbing: Introduction to Rope Climbing
-TRANSP:TRANSPARENT
-UID:d48acf8bc3f1d870b6edb496d77a79493fb6af9d6963eed5a2eae76ce589c1b2@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-09
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-11-23
 DTEND:20261123T153000Z
 LOCATION:Movement Portland
@@ -2902,16 +2892,6 @@ UID:d8255efe282a3b37bc2331f460112aad521d44499f396bdb28944990f39ba345@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-11-22
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-09-09
-DTEND:20260910T003000Z
-LOCATION:Movement Portland
-DTSTART:20260909T233000Z
-SUMMARY:Fitness: Mat Pilates
-TRANSP:TRANSPARENT
-UID:d193cff6ee06f8147ca04376f64a3dddd082b0ef2ae3bf55295505120e5b01b4@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-09-09
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nCome get a taste of some fancy footwork. Focused on heel and toe hooks\, this 30 minute clinic gives you a taste of our Intermediate Technique class and how these two techniques can improve your climbing from overhanging terrain to finding more rests\nhttps://portal.movementgyms.com/portland/programs/climbing-clinic-1?course=U2Vzc2lvbjoxMDA1MjY2Mjg=&date=2026-09-16
 DTEND:20260917T013000Z
 LOCATION:Movement Portland
@@ -3380,16 +3360,6 @@ SUMMARY:Fitness: Total Body Fit
 TRANSP:TRANSPARENT
 UID:70cfc9c9be3411255ef75a9534098daf99a287336efdc5c3ff927d8c3b350efc@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-10-14
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-09
-DTEND:20260909T200000Z
-LOCATION:Movement Portland
-DTSTART:20260909T190000Z
-SUMMARY:Yoga: Power Vinyasa
-TRANSP:TRANSPARENT
-UID:5a6a92a7ffc73ca766d3e07ebab06b51310474caad35c11c6136b2c77fac89b0@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nSeasonal legs‑and‑core conditioning so you can crush trail runs and hikes all summer without burning out.\nhttps://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-10-16
