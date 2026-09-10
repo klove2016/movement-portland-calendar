@@ -2602,16 +2602,6 @@ UID:4700a2242c8a259102aab83d8b48210512f092252940f9f39369c3592a701cff@movement-po
 URL:https://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-09-13
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-10
-DTEND:20260910T143000Z
-LOCATION:Movement Portland
-DTSTART:20260910T133000Z
-SUMMARY:Fitness: Lifting Fundamentals
-TRANSP:TRANSPARENT
-UID:d007e7198e8ecb8a181a133d6329f8197f80347fe72c777be1b3f46b36c62361@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-10
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Shannon L.\nSlow your nervous system down. Props\, rather than your muscles\, are used to support your body in only five or six poses\, allowing you to relax and rest completely. May incorporate meditation and breathing exercises. Perfect when you're feeling drained or stressed.\nhttps://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-11-24
 DTEND:20261125T043000Z
 LOCATION:Movement Portland
@@ -3620,16 +3610,6 @@ SUMMARY:Fitness: Mat Pilates
 TRANSP:TRANSPARENT
 UID:760357bf9190b6c37a97b97df059cf199917bb87ed0e9265ae2944835ae9c452@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-10-24
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-09-10
-DTEND:20260910T143000Z
-LOCATION:Movement Portland
-DTSTART:20260910T133000Z
-SUMMARY:Yoga: Hatha Yoga
-TRANSP:TRANSPARENT
-UID:aeff381300becefd7580d66cf89a31c5df95b92f224ed627582cb16b3c21dea7@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-09-10
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nFocus on the mental side of climbing and managing your fear. Through a combination of breathing techniques and risk assessment\, you'll get a taste of how to approach moves that feel scary.\nhttps://portal.movementgyms.com/portland/programs/climbing-clinic-4?course=U2Vzc2lvbjoxMDA1MjY2ODA=&date=2026-09-17
