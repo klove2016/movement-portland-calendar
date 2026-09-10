@@ -1532,16 +1532,6 @@ UID:012f07dd65c73f6f831b4297b3761312c34591ab29210a685d88c8a39a3ce693@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-11-16
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-09
-DTEND:20260910T020000Z
-LOCATION:Movement Portland
-DTSTART:20260910T004500Z
-SUMMARY:Power Vinyasa
-TRANSP:TRANSPARENT
-UID:622e798a78c7e638e2978da08e6103bd47a1eb06634515f4ec112a8419c74c76@movement-portland-yoga
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-09
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Shannon L.\nSlow your nervous system down. Props\, rather than your muscles\, are used to support your body in only five or six poses\, allowing you to relax and rest completely. May incorporate meditation and breathing exercises. Perfect when you're feeling drained or stressed.\nhttps://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-11-24
 DTEND:20261125T043000Z
 LOCATION:Movement Portland
@@ -1650,16 +1640,6 @@ SUMMARY:Hatha Yoga
 TRANSP:TRANSPARENT
 UID:ffec81815f3716e2cfe3550ee8cd4faf972ee0e04bc5e9c833f307db7ed7802c@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-10-16
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-09-09
-DTEND:20260910T033000Z
-LOCATION:Movement Portland
-DTSTART:20260910T021500Z
-SUMMARY:Deep Stretch
-TRANSP:TRANSPARENT
-UID:ad63671e4d78468e776179913ba7e321053100c89ac203d2f1e27fbfeb14eb2e@movement-portland-yoga
-URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-09-09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Shannon L.\nSlow your nervous system down. Props\, rather than your muscles\, are used to support your body in only five or six poses\, allowing you to relax and rest completely. May incorporate meditation and breathing exercises. Perfect when you're feeling drained or stressed.\nhttps://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-09-22
