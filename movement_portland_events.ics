@@ -152,6 +152,16 @@ UID:1e7e6dbaf14dd259f95d6059d7d751cb573d85f1348738ae8faf322d3dbb770d@movement-po
 URL:https://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-11-19
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nThis group is a low-pressure talk space for climbers to share about our shared mental health journey. We chat. We climb. We connect. Led by Jonathan Morell\, LPC associate\, AMGA guide\, and Movement community member. For climbers 18+.\nhttps://portal.movementgyms.com/portland/programs/mental-health-talk-space?course=U2Vzc2lvbjoyNDI4ODg2NTI=&date=2026-12-07
+DTEND:20261208T050000Z
+LOCATION:Movement Portland
+DTSTART:20261208T033000Z
+SUMMARY:Mental Health Talk Space
+TRANSP:TRANSPARENT
+UID:248910d7d8cc0c6487b009399873a4cf3bfd974fc5a9c22d4da9965fbf354753@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/mental-health-talk-space?course=U2Vzc2lvbjoyNDI4ODg2NTI=&date=2026-12-07
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nOn the first Friday of every month\, members can bring a guest without using a guest pass. Not a member? Come with a friend and both of you will get 50% off a standard adult day pass.\nhttps://portal.movementgyms.com/portland/programs/bring-friend-day?course=U2Vzc2lvbjoxNjAzOTg2NzQ=&date=2026-11-06
 DTEND:20261107T070000Z
 LOCATION:Movement Portland
