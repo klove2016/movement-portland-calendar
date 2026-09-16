@@ -1642,16 +1642,6 @@ UID:b5d3b382dcbbe83663c6e3710a6b3ed1bfff376ecd625f2f89a9a97b68d0ae3a@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-27
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-16
-DTEND:20260916T143000Z
-LOCATION:Movement Portland
-DTSTART:20260916T133000Z
-SUMMARY:Fitness: Strength
-TRANSP:TRANSPARENT
-UID:021395e7cc29b9e0c422339dc98f359e400a152b9b0c7de4937fdbd6ad7a8936@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-09-16
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-10-27
 DTEND:20261027T143000Z
 LOCATION:Movement Portland
