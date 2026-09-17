@@ -152,16 +152,6 @@ UID:5cd2ec6c8e5e5dee36ddc3416bdb7b073dae21193e699cd0eb5243f081a33ecc@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-17
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nIn this class\, participants will learn skills to execute dynamic movements. From single moves\, to dead points and dynos\, climbers will practice a variety of techniques to make big moves. By the end of the class\, climbers should be working toward maintaining momentum through sequences.\nhttps://portal.movementgyms.com/portland/programs/climbing-clinic-3?course=U2Vzc2lvbjoxMDA1MjY2NjQ=&date=2026-09-16
-DTEND:20260917T021500Z
-LOCATION:Movement Portland
-DTSTART:20260917T014500Z
-SUMMARY:Deadpoints and Dynos Free Clinic
-TRANSP:TRANSPARENT
-UID:9d929ff7c876cd008925689bb9abbb76eed3b6810b6c11dee1efcad9d9bc2729@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/climbing-clinic-3?course=U2Vzc2lvbjoxMDA1MjY2NjQ=&date=2026-09-16
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-11-14
 DTEND:20261114T190000Z
 LOCATION:Movement Portland
@@ -910,16 +900,6 @@ SUMMARY:Introduction to Bouldering
 TRANSP:TRANSPARENT
 UID:a926986f0ec488b8ea49e32aae658a334dabe0d6cdd58653cb222fe2720142a7@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-10-26
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nCome get a taste of some fancy footwork. Focused on heel and toe hooks\, this 30 minute clinic gives you a taste of our Intermediate Technique class and how these two techniques can improve your climbing from overhanging terrain to finding more rests\nhttps://portal.movementgyms.com/portland/programs/climbing-clinic-1?course=U2Vzc2lvbjoxMDA1MjY2Mjg=&date=2026-09-16
-DTEND:20260917T013000Z
-LOCATION:Movement Portland
-DTSTART:20260917T010000Z
-SUMMARY:Heel and Toe Hooks Free Clinic
-TRANSP:TRANSPARENT
-UID:c5df13ddef00284da85f967e5ab5f625cbe5f9d15b1dcd3aeea02208850c0c50@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/climbing-clinic-1?course=U2Vzc2lvbjoxMDA1MjY2Mjg=&date=2026-09-16
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nReady to move smarter? In this fun session you’ll learn toe-driven movement\, efficient body positions\, and breath work to climb with less effort and more fun.\nhttps://portal.movementgyms.com/portland/programs/intro-to-technique?course=U2Vzc2lvbjoxMDA1MjUzOTU=&date=2026-10-20
