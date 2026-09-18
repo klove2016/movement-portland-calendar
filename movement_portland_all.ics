@@ -322,26 +322,6 @@ UID:756e07eea9ebcf9ec27a8edd1f1ebfa8df8a74021f70b29d97f5ab0b13acdeb2@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-12-02
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Events\nIt’s trivia on the wall! Grab your harness and thinking cap!\nA team-based event where you'll rope up\, retrieve trivia questions from the wall\, and work together to lock in answers.\nAll questions are general knowledge\, so you don’t need to be a trivia pro - just come ready to have a great time! The night is hosted by our very own trivia royalty\, Claire\, who’s bringing the questions\, the banter\, and the vibes.\nhttps://portal.movementgyms.com/portland/programs/game-night?course=U2Vzc2lvbjoxNzU1OTA4Mzg=&date=2026-09-17
-DTEND:20260918T030000Z
-LOCATION:Movement Portland
-DTSTART:20260918T010000Z
-SUMMARY:Events: Trivia Night
-TRANSP:TRANSPARENT
-UID:6102a1a267c3696f171b94b8ad56449fdf9f1101a8b61fd0ffa15f7b6da5d47b@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/game-night?course=U2Vzc2lvbjoxNzU1OTA4Mzg=&date=2026-09-17
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Bryan F.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-17
-DTEND:20260918T020000Z
-LOCATION:Movement Portland
-DTSTART:20260918T010000Z
-SUMMARY:Yoga: Power Vinyasa
-TRANSP:TRANSPARENT
-UID:089103f9e82b5fc44a7b7b0ddba7277e9d08df1e52959cd78c11a06e2c6d1297@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-17
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lex B.\nIntroductory class that demystifies common poses\, alignment basics\, and breath so new yogis start strong.\nhttps://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-09-20
 DTEND:20260920T170000Z
 LOCATION:Movement Portland
@@ -1182,16 +1162,6 @@ UID:fa109d6d7d65265a5267300fd8c7380fd7ed33747261c32a3471c1870b4db934@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-11-11
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Events\nInstructor: Benjamin J.\nAdaptive Climb PDX is an inclusive and supportive climbing group focused on creating space for differently abled individuals to get up the wall! All ability and experience levels are welcome. We also welcome anyone interested in engaging with the adaptive community to volunteer to belay for us!\nhttps://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-09-17
-DTEND:20260918T030000Z
-LOCATION:Movement Portland
-DTSTART:20260918T010000Z
-SUMMARY:Events: Adaptive Climb PDX
-TRANSP:TRANSPARENT
-UID:101e9ebcf74973a2f37202dd72acecf414cf5a1db7f05c31bd096c698ba9346c@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-09-17
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-09-21
 DTEND:20260922T033000Z
 LOCATION:Movement Portland
@@ -1920,16 +1890,6 @@ SUMMARY:Fitness: Functional Strength Training for Climbers
 TRANSP:TRANSPARENT
 UID:919e0ee5bc66249b99feef639e867fcbfb47200ef53ce6761ef9ed68ed2e1be6@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-09-29
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nCome join us every 3rd Thursday of the month at 7pm!\n \nOur goal is to create safe spaces for queer\, trans and nonbinary climbers of color. These climb nights are run by queer people of color for queer people of color.\nhttps://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-09-17
-DTEND:20260918T043000Z
-LOCATION:Movement Portland
-DTSTART:20260918T023000Z
-SUMMARY:Events: QTBIPOC Climb Night
-TRANSP:TRANSPARENT
-UID:c3d1ef3e0d437efa36e373e8ffcf83f878650fd27dbe864c7c2f7cf2b97d755d@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-09-17
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-28
@@ -4230,16 +4190,6 @@ SUMMARY:Fitness: Lifting Fundamentals
 TRANSP:TRANSPARENT
 UID:cc549a30e878da9c4977ee7c6e2c097e8672b7a1a032c2594621844fc79a3fea@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-24
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Danny M.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-09-17
-DTEND:20260918T033000Z
-LOCATION:Movement Portland
-DTSTART:20260918T023000Z
-SUMMARY:Yoga: Vinyasa
-TRANSP:TRANSPARENT
-UID:74a9349d081d60cdae4441e3673997b86897414b2e6e492176210e99e1290985@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-09-17
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-11-04
