@@ -1162,6 +1162,16 @@ UID:4345e9e6065676b4f82a899da09a464aa6ae669d61b0f0eb7f3ed5d28548b869@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-10-19
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nInterval training that sharpens balance\, core\, and lower‑body power so you carve first chair to last with confidence.\nhttps://portal.movementgyms.com/portland/programs/ski-fit?course=U2Vzc2lvbjoxMzAyNzYwNTE=&date=2026-12-11
+DTEND:20261211T210000Z
+LOCATION:Movement Portland
+DTSTART:20261211T200000Z
+SUMMARY:Ski Fit
+TRANSP:TRANSPARENT
+UID:2790e5d6edba7d347a7fa206d11b12a5bfb9350cbdf535c2cad39810b0a7ac3f@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/ski-fit?course=U2Vzc2lvbjoxMzAyNzYwNTE=&date=2026-12-11
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-12-09
 DTEND:20261209T153000Z
 LOCATION:Movement Portland
