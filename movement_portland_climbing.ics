@@ -232,14 +232,14 @@ UID:1a0173b1cc038e91547107f5c8febcd792a44a588952170548ca3236b9a60e94@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-16
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-20
-DTEND:20260920T193000Z
+DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-10-19
+DTEND:20261020T033000Z
 LOCATION:Movement Portland
-DTSTART:20260920T183000Z
-SUMMARY:Introduction to Rope Climbing
+DTSTART:20261020T010000Z
+SUMMARY:Learn to Lead
 TRANSP:TRANSPARENT
-UID:07f843929c75a2e29c2069f3ceffeef6078e5e20346e2afdc0b61bb8d9c7cf07@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-20
+UID:52b805ef18a8ded1d83873b8ff36d34b21dcbcd665a8b4f12bfd262870ece37a@movement-portland-climbing
+URL:https://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-10-19
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-28
@@ -250,16 +250,6 @@ SUMMARY:Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:56b5b32c692e529193e47107bbf3f8d1b10f2837d95246145f64b9a99688c3e3@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-28
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-10-19
-DTEND:20261020T033000Z
-LOCATION:Movement Portland
-DTSTART:20261020T010000Z
-SUMMARY:Learn to Lead
-TRANSP:TRANSPARENT
-UID:52b805ef18a8ded1d83873b8ff36d34b21dcbcd665a8b4f12bfd262870ece37a@movement-portland-climbing
-URL:https://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-10-19
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-11-02
