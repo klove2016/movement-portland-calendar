@@ -392,6 +392,16 @@ UID:7340adace7f9069a4606b9b036c6cda7f764d874cd2f07a7dc43a7745810506d@movement-po
 URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-12-10
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Natalie D.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-12-13
+DTEND:20261214T011500Z
+LOCATION:Movement Portland
+DTSTART:20261214T000000Z
+SUMMARY:Deep Stretch
+TRANSP:TRANSPARENT
+UID:327d9903d3c09ed9f385cf9589a5e42938337f59574e406230bba82d2f20a224@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-12-13
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lorenzo D.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-11
 DTEND:20261212T024500Z
 LOCATION:Movement Portland
@@ -520,6 +530,16 @@ SUMMARY:Deep Stretch
 TRANSP:TRANSPARENT
 UID:36dfd90e1ad72c94b08d56e44afa02ca7d601366d60eb4e2ac406a1fd09eba7f@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-12-02
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nIntroductory class that demystifies common poses\, alignment basics\, and breath so new yogis start strong.\nhttps://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-12-13
+DTEND:20261213T180000Z
+LOCATION:Movement Portland
+DTSTART:20261213T170000Z
+SUMMARY:Foundation Yoga
+TRANSP:TRANSPARENT
+UID:823b1e3502ea719d96bf6f73d224cd54914e3b80813cd1f14aaac906b654130e@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-12-13
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Natalie D.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-11-08
@@ -1510,6 +1530,16 @@ SUMMARY:Power Vinyasa
 TRANSP:TRANSPARENT
 UID:3bc62b4a657dcbb95090e5646df122616a86a3b32576f36578999506ba099d88@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-09-21
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-13
+DTEND:20261213T193000Z
+LOCATION:Movement Portland
+DTSTART:20261213T181500Z
+SUMMARY:Power Vinyasa
+TRANSP:TRANSPARENT
+UID:1c86c83bc5ff6959f8774ddc50da33e5f88c4b52544ffcc7b91f24d5965aed01@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-13
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-11-19
