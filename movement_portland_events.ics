@@ -32,6 +32,16 @@ UID:1ba4e6b7cee02dc9e989ffaf5d2a6df4d3d2187102be97fe6bd89dcbb6add28b@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mental-health-talk-space?course=U2Vzc2lvbjoyNDI4ODg2NTI=&date=2026-11-02
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nInstructor: Benjamin J.\nAdaptive Climb PDX is an inclusive and supportive climbing group focused on creating space for differently abled individuals to get up the wall! All ability and experience levels are welcome. We also welcome anyone interested in engaging with the adaptive community to volunteer to belay for us!\nhttps://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-12-17
+DTEND:20261218T040000Z
+LOCATION:Movement Portland
+DTSTART:20261218T020000Z
+SUMMARY:Adaptive Climb PDX
+TRANSP:TRANSPARENT
+UID:eaafe0bbc5bb1261a762b56f70b595566a5144e0b850fe24047c16742401997a@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-12-17
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nInstructor: Benjamin J.\nAdaptive Climb PDX is an inclusive and supportive climbing group focused on creating space for differently abled individuals to get up the wall! All ability and experience levels are welcome. We also welcome anyone interested in engaging with the adaptive community to volunteer to belay for us!\nhttps://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-10-15
 DTEND:20261016T030000Z
 LOCATION:Movement Portland
@@ -190,6 +200,16 @@ SUMMARY:Loco por la Aventura
 TRANSP:TRANSPARENT
 UID:04fefa937a770185545399fb697b77cfeceeee3d7607e4d272b37d0e12fe200a@movement-portland-events
 URL:https://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2026-12-16
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Events\nCome join us every 3rd Thursday of the month at 7pm!\n \nOur goal is to create safe spaces for queer\, trans and nonbinary climbers of color. These climb nights are run by queer people of color for queer people of color.\nhttps://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-12-17
+DTEND:20261218T053000Z
+LOCATION:Movement Portland
+DTSTART:20261218T033000Z
+SUMMARY:QTBIPOC Climb Night
+TRANSP:TRANSPARENT
+UID:d0c0b8e80897778a9e3855385b89628475f602c91855badf072ee1c856ee0745@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-12-17
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Events\nRock climbing is a passion. It’s a sport that can provide incredible physical and mental challenge. It forces you to solve problems\, push yourself physically\, and overcome mental hurdles. It can also provide entryway to some of the most beautiful landscapes in the world\, and into a community filled with intelligent\, caring\, and supportive individuals.\nBreaking into climbing can sometimes be intimidating\, and so climbing with other women can help alleviate some of the intimidation. It also just changes the experience of climbing. Hanging out\, especially in nature\, with a group of women is powerful\, and we strive to show all women their own power.\nLadies Climbing Coalition ambassadors host ladies meet-ups in gyms across the nation\, and we coordinate and facilitate low-cost climbing trips around the country for all women and non-binary people who are comfortable in spaces that center the experiences of women. We strive to be a presence in the climbing community and in our efforts\, are always looking to expand our impact\, so if you’re interested in getting involved or collaborating\, please reach out!\nFinancial assistance is available to those who need it - just let someone at the front desk know when checking in what you can pay and we will adjust the price accordingly. We're excited to climb together!\nhttps://portal.movementgyms.com/portland/programs/ladies-climbing-coalition-meet-up?course=U2Vzc2lvbjoxOTA5NDI2NjQ=&date=2026-11-05
