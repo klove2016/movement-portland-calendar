@@ -302,6 +302,16 @@ UID:b9ff5ec298eb55a8dbcbad2961513d1993692c4aa8cdcc1516a1813e8b17f21f@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-12-15
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-18
+DTEND:20261219T033000Z
+LOCATION:Movement Portland
+DTSTART:20261219T023000Z
+SUMMARY:Introduction to Bouldering
+TRANSP:TRANSPARENT
+UID:395cbaf6dc30d29209909dfdbdd4694e51d2573ad603330d7001574bbe3e6c05@movement-portland-climbing
+URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-18
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-11-02
 DTEND:20261103T043000Z
 LOCATION:Movement Portland
@@ -780,6 +790,16 @@ SUMMARY:Introduction to Bouldering
 TRANSP:TRANSPARENT
 UID:4f3fd8f287f86c3915656b4c1eafd2a66520058236224721eb47bb1b584271a7@movement-portland-climbing
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-07
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-12-18
+DTEND:20261219T021500Z
+LOCATION:Movement Portland
+DTSTART:20261219T011500Z
+SUMMARY:Introduction to Rope Climbing
+TRANSP:TRANSPARENT
+UID:419b903dd6ebd8cc10019d81d5e0dc05db2e2a5558c2796bb3eb72dde40467e9@movement-portland-climbing
+URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-12-18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-11-22
