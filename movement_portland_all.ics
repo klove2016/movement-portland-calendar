@@ -862,16 +862,6 @@ UID:77254f0b786f897edd88209f47f147a49b66d580f614980acb6b92a945c97fd1@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-07
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nSeasonal legs‑and‑core conditioning so you can crush trail runs and hikes all summer without burning out.\nhttps://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-09-25
-DTEND:20260925T200000Z
-LOCATION:Movement Portland
-DTSTART:20260925T190000Z
-SUMMARY:Fitness: Trail Fit
-TRANSP:TRANSPARENT
-UID:db5cf3320aba273734d22e51470666e1873f8dd1ebfa599f6320f58023489c6c@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-09-25
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-10-29
 DTEND:20261029T143000Z
 LOCATION:Movement Portland
@@ -4322,16 +4312,6 @@ UID:f9f814ca25f7480d16c4eefe84cb333c5887c2048f163df800d4fbea4a508200@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-14
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Anne H.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-09-25
-DTEND:20260925T200000Z
-LOCATION:Movement Portland
-DTSTART:20260925T190000Z
-SUMMARY:Yoga: Hatha Yoga
-TRANSP:TRANSPARENT
-UID:6ea26930ac5e7a528e1d1a38418a81568fe2718848c620589b91f9fcfab71d7b@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-09-25
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lorenzo D.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-10-31
 DTEND:20261031T183000Z
 LOCATION:Movement Portland
@@ -4690,16 +4670,6 @@ SUMMARY:Fitness: Mat Pilates
 TRANSP:TRANSPARENT
 UID:69cca662011304a4586bce55bcf34fa828dc94519afae0730d6a5f2244f313db@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-12-05
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-25
-DTEND:20260926T011500Z
-LOCATION:Movement Portland
-DTSTART:20260926T001500Z
-SUMMARY:Climbing: Introduction to Rope Climbing
-TRANSP:TRANSPARENT
-UID:03bfce3eaf31c667565dcd87f98815f206eaafdc36e2551906b29860c8f8f3d2@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-09-25
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-10
