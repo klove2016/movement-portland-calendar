@@ -152,6 +152,16 @@ UID:d6a7f403f616a37617508b0a0c5d75f45eef00f7fc5191882a35ddf04a09ef6f@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-12-02
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-12-21
+DTEND:20261222T030000Z
+LOCATION:Movement Portland
+DTSTART:20261222T020000Z
+SUMMARY:Total Body Fit
+TRANSP:TRANSPARENT
+UID:2d83360618b5467adc12518fa341fbee989b9a7f60ecf65286be61be8c1d13d6@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-12-21
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-09-29
 DTEND:20260930T023000Z
 LOCATION:Movement Portland
@@ -170,6 +180,16 @@ SUMMARY:Total Body Fit
 TRANSP:TRANSPARENT
 UID:b3d2bf3924d89a6f2a58dcaa1c3f949c7e80939a77413d3fcc9322f777104369@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-11-23
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-12-21
+DTEND:20261221T153000Z
+LOCATION:Movement Portland
+DTSTART:20261221T143000Z
+SUMMARY:Strength
+TRANSP:TRANSPARENT
+UID:d8629247eb284413daade631932c57f2c6741fcd16cbf4f0e29e1904f9c41b7c@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-12-21
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-09-29
