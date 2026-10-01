@@ -192,6 +192,16 @@ UID:b262b9f4dada0b5a2d1a56a731d39f9ba871a7de42fd7c893fbc5dee364bfbd8@movement-po
 URL:https://portal.movementgyms.com/portland/programs/pdx-climbers-of-color?course=U2Vzc2lvbjoyMzc5NjMyNTU=&date=2026-10-22
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nThe spookiest event of the year is back for more! With a Flash competition in the boulder area for a chance to take home some spine-chilling swag\, and Headlamp climbing in the rope area. Join us for an evening of frights and fun\; costumes highly recommended.\nhttps://portal.movementgyms.com/portland/programs/halloween-headlamp?course=U2Vzc2lvbjoyNjA0OTIyMzI=&date=2026-10-23
+DTEND:20261024T040000Z
+LOCATION:Movement Portland
+DTSTART:20261024T013000Z
+SUMMARY:Monster Flash + Headlamp Climbing
+TRANSP:TRANSPARENT
+UID:ead5e2c925adb73064972ba351acea6d9539b96967b1734090911b6715bb494c@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/halloween-headlamp?course=U2Vzc2lvbjoyNjA0OTIyMzI=&date=2026-10-23
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nDiseñado para hispanohablantes con poca o ninguna experiencia en escalada. En este curso aprenderás las habilidades necesarias para escalar de forma segura en un gimnasio.\nhttps://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2026-12-16
 DTEND:20261217T043000Z
 LOCATION:Movement Portland
