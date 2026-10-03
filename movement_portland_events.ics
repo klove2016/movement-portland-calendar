@@ -172,6 +172,16 @@ UID:b262b9f4dada0b5a2d1a56a731d39f9ba871a7de42fd7c893fbc5dee364bfbd8@movement-po
 URL:https://portal.movementgyms.com/portland/programs/pdx-climbers-of-color?course=U2Vzc2lvbjoyMzc5NjMyNTU=&date=2026-10-22
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nIt’s trivia on the wall! Grab your harness and thinking cap!\nA team-based event where you'll rope up\, retrieve trivia questions from the wall\, and work together to lock in answers.\nAll questions are general knowledge\, so you don’t need to be a trivia pro - just come ready to have a great time! The night is hosted by our very own trivia royalty\, Claire\, who’s bringing the questions\, the banter\, and the vibes.\nhttps://portal.movementgyms.com/portland/programs/game-night?course=U2Vzc2lvbjoxNzU1OTA4Mzg=&date=2026-11-17
+DTEND:20261118T040000Z
+LOCATION:Movement Portland
+DTSTART:20261118T020000Z
+SUMMARY:Trivia Night
+TRANSP:TRANSPARENT
+UID:2fc930ba9711a42ed96f53604cd921e1cb38aada30b7e06462ac8b82137dc817@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/game-night?course=U2Vzc2lvbjoxNzU1OTA4Mzg=&date=2026-11-17
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nThe spookiest event of the year is back for more! With a Flash competition in the boulder area for a chance to take home some spine-chilling swag\, and Headlamp climbing in the rope area. Join us for an evening of frights and fun\; costumes highly recommended.\nhttps://portal.movementgyms.com/portland/programs/halloween-headlamp?course=U2Vzc2lvbjoyNjA0OTIyMzI=&date=2026-10-23
 DTEND:20261024T040000Z
 LOCATION:Movement Portland
