@@ -102,6 +102,16 @@ UID:c0a70f3a4457da20bdcf800260a4a6ec222c3252338c547d5ee1625ec7fad079@movement-po
 URL:https://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-12-03
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nInstructor: Lisa S.\nPlease join us in celebrating our Yoga Program Manager\, Lisa Skaff\, and her partner\, Stephen\, who are expecting a baby later this fall! You're invited to their baby shower on Sunday\, November 1st!\nThose who know Stephen and Lisa know they're dedicated\, multi-sport athletes. Did you know Lisa is still doing handstands at 8 months pregnant?!\nIn their honor\, expect a few physical challenges (weighted bellies included)\, along with some more relaxed games. Participation in the games is totally optional\, and we just want you there! We’ll also have light refreshments\, so please RSVP so we can prepare accordingly.\nhttps://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-11-01
+DTEND:20261101T230000Z
+LOCATION:Movement Portland
+DTSTART:20261101T210000Z
+SUMMARY:Lisa & Stephen's Baby Shower
+TRANSP:TRANSPARENT
+UID:01a7ceefa8af6daec74ac770d9a6f66d781fe8249babd207a34804972ba9a9ea@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-11-01
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nCome join us every 3rd Thursday of the month at 7pm!\n \nOur goal is to create safe spaces for queer\, trans and nonbinary climbers of color. These climb nights are run by queer people of color for queer people of color.\nhttps://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-11-19
 DTEND:20261120T053000Z
 LOCATION:Movement Portland

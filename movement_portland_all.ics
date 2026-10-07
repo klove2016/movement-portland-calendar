@@ -2492,6 +2492,16 @@ UID:ed16a1f70ac46c02d91b4af7f740ab2bd5b9ca2b2158258c03d0d6f30d0de90e@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-21
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nInstructor: Lisa S.\nPlease join us in celebrating our Yoga Program Manager\, Lisa Skaff\, and her partner\, Stephen\, who are expecting a baby later this fall! You're invited to their baby shower on Sunday\, November 1st!\nThose who know Stephen and Lisa know they're dedicated\, multi-sport athletes. Did you know Lisa is still doing handstands at 8 months pregnant?!\nIn their honor\, expect a few physical challenges (weighted bellies included)\, along with some more relaxed games. Participation in the games is totally optional\, and we just want you there! We’ll also have light refreshments\, so please RSVP so we can prepare accordingly.\nhttps://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-11-01
+DTEND:20261101T230000Z
+LOCATION:Movement Portland
+DTSTART:20261101T210000Z
+SUMMARY:Events: Lisa & Stephen's Baby Shower
+TRANSP:TRANSPARENT
+UID:fc8fb6ad4ccd488953a851bbe9699600a491bb9ed9f71562c7ad2a7d21aa63e4@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-11-01
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-10-24
 DTEND:20261024T190000Z
 LOCATION:Movement Portland
@@ -3180,16 +3190,6 @@ SUMMARY:Yoga: Vinyasa
 TRANSP:TRANSPARENT
 UID:23f66a01d00ee65b5c31c8ff323f6b7a2c9f8c48cfbbad235a54c07bed400743@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-10-24
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-10-07
-DTEND:20261007T143000Z
-LOCATION:Movement Portland
-DTSTART:20261007T133000Z
-SUMMARY:Fitness: Strength
-TRANSP:TRANSPARENT
-UID:c47e0e516480fcd80bb3daec442ab3b2f043fe008b7f8d5a71bd9ba3f7ca2f8e@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-10-07
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-12-15
