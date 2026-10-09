@@ -62,16 +62,6 @@ UID:965b1743e9e86172cf7c53a706a76af767312f80805f9729238505cfdc87acfa@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-11-23
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Montana R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-10-08
-DTEND:20261008T200000Z
-LOCATION:Movement Portland
-DTSTART:20261008T190000Z
-SUMMARY:Fitness: Strength/Cardio
-TRANSP:TRANSPARENT
-UID:fd6b54bd0c61ff764be05018b5aed64b3b8827ae212faba7b19cd2b74c3876b3@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-10-08
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Events\nRock climbing is a passion. It’s a sport that can provide incredible physical and mental challenge. It forces you to solve problems\, push yourself physically\, and overcome mental hurdles. It can also provide entryway to some of the most beautiful landscapes in the world\, and into a community filled with intelligent\, caring\, and supportive individuals.\nBreaking into climbing can sometimes be intimidating\, and so climbing with other women can help alleviate some of the intimidation. It also just changes the experience of climbing. Hanging out\, especially in nature\, with a group of women is powerful\, and we strive to show all women their own power.\nLadies Climbing Coalition ambassadors host ladies meet-ups in gyms across the nation\, and we coordinate and facilitate low-cost climbing trips around the country for all women and non-binary people who are comfortable in spaces that center the experiences of women. We strive to be a presence in the climbing community and in our efforts\, are always looking to expand our impact\, so if you’re interested in getting involved or collaborating\, please reach out!\nFinancial assistance is available to those who need it - just let someone at the front desk know when checking in what you can pay and we will adjust the price accordingly. We're excited to climb together!\nhttps://portal.movementgyms.com/portland/programs/ladies-climbing-coalition-meet-up?course=U2Vzc2lvbjoxOTA5NDI2NjQ=&date=2026-12-03
 DTEND:20261204T043000Z
 LOCATION:Movement Portland
@@ -1390,16 +1380,6 @@ SUMMARY:Events: QTBIPOC Climb Night
 TRANSP:TRANSPARENT
 UID:b34563219737f596a0182653029b0cb1f4571d385c195d5bf117b1cedc12e3fa@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-11-19
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Lorenzo D.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-11-06
-DTEND:20261107T024500Z
-LOCATION:Movement Portland
-DTSTART:20261107T014500Z
-SUMMARY:Yoga: Power Vinyasa
-TRANSP:TRANSPARENT
-UID:8ccf176658764fb05dacfdbd4606b16f24022236625dc0d22e161aea05f107af@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-11-06
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-10-29
@@ -2802,14 +2782,14 @@ UID:e7313e1ae11f08183942426f6760d2a919d68cb1e79f574525bed8b3def27371@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-12-21
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-08
-DTEND:20261009T021500Z
+DESCRIPTION:Category: Events\nCome climb for a cause. Whether you're chasing personal goals or climbing with friends\, this community climb-a-thon is a chance to have fun\, win prizes\, and help protect and care for the outdoor spaces that make our climbing community possible.\nhttps://portal.movementgyms.com/portland/programs/climb-a-thon?course=U2Vzc2lvbjoxOTA5NDg0NTU=&date=2026-11-10
+DTEND:20261111T043000Z
 LOCATION:Movement Portland
-DTSTART:20261009T011500Z
-SUMMARY:Climbing: Introduction to Rope Climbing
+DTSTART:20261111T023000Z
+SUMMARY:Events: Portland Area Climbers Coalition Climb-A-Thon
 TRANSP:TRANSPARENT
-UID:57381241a961266d3ed6c5ea9cf9f633a9505045ba08d917e90299e7344223fd@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-08
+UID:c7db52a1f0fab2d56328f40a2c4267b8c711dd8b85566dc07071410446bcb4d2@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/climb-a-thon?course=U2Vzc2lvbjoxOTA5NDg0NTU=&date=2026-11-10
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Bryan F.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-15
