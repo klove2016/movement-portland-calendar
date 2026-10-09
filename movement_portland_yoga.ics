@@ -992,6 +992,16 @@ UID:961ef98486870056d2c704eaf2c3c5c83b8d0b48b945ed71c9e55133ac3210a0@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-16
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-12-31
+DTEND:20261231T153000Z
+LOCATION:Movement Portland
+DTSTART:20261231T143000Z
+SUMMARY:Hatha Yoga
+TRANSP:TRANSPARENT
+UID:772ecd7ea9baa6c08b1401d6c0f3068f1f38d46deef166b53653a9628bac8e1a@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-12-31
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-11-25
 DTEND:20261126T043000Z
 LOCATION:Movement Portland
