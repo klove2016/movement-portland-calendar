@@ -42,6 +42,16 @@ UID:eaafe0bbc5bb1261a762b56f70b595566a5144e0b850fe24047c16742401997a@movement-po
 URL:https://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-12-17
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nThis group is a low-pressure talk space for climbers to share about our shared mental health journey. We chat. We climb. We connect. Led by Jonathan Morell\, LPC associate\, AMGA guide\, and Movement community member. For climbers 18+.\nhttps://portal.movementgyms.com/portland/programs/mental-health-talk-space?course=U2Vzc2lvbjoyNDI4ODg2NTI=&date=2027-01-04
+DTEND:20270105T050000Z
+LOCATION:Movement Portland
+DTSTART:20270105T033000Z
+SUMMARY:Mental Health Talk Space
+TRANSP:TRANSPARENT
+UID:794f80a1cb222ae0d4b398ebdedce19630ca0bc290c5629dcbcd276eba96086e@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/mental-health-talk-space?course=U2Vzc2lvbjoyNDI4ODg2NTI=&date=2027-01-04
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nInstructor: Benjamin J.\nAdaptive Climb PDX is an inclusive and supportive climbing group focused on creating space for differently abled individuals to get up the wall! All ability and experience levels are welcome. We also welcome anyone interested in engaging with the adaptive community to volunteer to belay for us!\nhttps://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-10-15
 DTEND:20261016T030000Z
 LOCATION:Movement Portland

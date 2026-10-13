@@ -52,6 +52,16 @@ UID:3d758d01524bd5821ef19a0d7aa55c61c3e0928c0698a9c9fb7b7f00edb20e58@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-10-28
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2027-01-04
+DTEND:20270104T153000Z
+LOCATION:Movement Portland
+DTSTART:20270104T143000Z
+SUMMARY:Strength
+TRANSP:TRANSPARENT
+UID:a560f0e27442b715f004b64a100b626f069cd56b4799594f8a4f5a6074cf4e0a@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2027-01-04
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Paige G.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-11-07
 DTEND:20261107T180000Z
 LOCATION:Movement Portland
@@ -1052,14 +1062,14 @@ UID:ea90d3334af6e4dd179a90704e2d96b1c14624d72c178c0f07d4b160920e9770@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-10-27
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-12-24
-DTEND:20261224T153000Z
+DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2027-01-04
+DTEND:20270105T030000Z
 LOCATION:Movement Portland
-DTSTART:20261224T143000Z
-SUMMARY:Lifting Fundamentals
+DTSTART:20270105T020000Z
+SUMMARY:Total Body Fit
 TRANSP:TRANSPARENT
-UID:19a69c87cd37c262eb46fc4645c7a98ce4c09a134b3a92450b8f2c70a633f3dd@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-12-24
+UID:5308c97328bdfde2615149d75f2298abc9ee228cd18ff4da346213203f054c1f@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2027-01-04
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-11-17
@@ -1080,6 +1090,16 @@ SUMMARY:Lifting Fundamentals
 TRANSP:TRANSPARENT
 UID:a3cff57aaeaf3679086632194f6b738f9b50e4b994a0be3479bd6c901ea9dcf8@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-11-19
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-12-24
+DTEND:20261224T153000Z
+LOCATION:Movement Portland
+DTSTART:20261224T143000Z
+SUMMARY:Lifting Fundamentals
+TRANSP:TRANSPARENT
+UID:19a69c87cd37c262eb46fc4645c7a98ce4c09a134b3a92450b8f2c70a633f3dd@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-12-24
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-12-16
