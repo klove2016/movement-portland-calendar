@@ -492,6 +492,16 @@ UID:0c974dfe471d7bcd251ea5b5eca1d5054bc90fcc6d362f58bf312146e57a0392@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-09
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2027-01-06
+DTEND:20270107T043000Z
+LOCATION:Movement Portland
+DTSTART:20270107T031500Z
+SUMMARY:Deep Stretch
+TRANSP:TRANSPARENT
+UID:cf870c249b5d0998e0f11859c87e99c8365de076aa20bd849201d226f5593aa1@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2027-01-06
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-12-02
 DTEND:20261203T043000Z
 LOCATION:Movement Portland
@@ -1262,6 +1272,16 @@ UID:e03f4bda64feab1d5e77c805b43b299a4f77f9d920d80440ea7dd90d109675bb@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-11-13
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-01-06
+DTEND:20270107T030000Z
+LOCATION:Movement Portland
+DTSTART:20270107T014500Z
+SUMMARY:Power Vinyasa
+TRANSP:TRANSPARENT
+UID:c09de37cb4c3fa9ca0feb0c75cbadaade26a2ffbabad769533bab3eb2987d3aa@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-01-06
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-11-13
 DTEND:20261113T210000Z
 LOCATION:Movement Portland
@@ -1820,6 +1840,16 @@ SUMMARY:Vinyasa
 TRANSP:TRANSPARENT
 UID:d9e547165d8a8538f9185fd771095c566d0b2f1cce8be0e5a2f1633439e6d509@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-11-19
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-01-06
+DTEND:20270106T210000Z
+LOCATION:Movement Portland
+DTSTART:20270106T200000Z
+SUMMARY:Power Vinyasa
+TRANSP:TRANSPARENT
+UID:8ecd9209848a510fb0aaa563dac7dc370f6b8d59465ac53a38596c2e7a9e502f@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-01-06
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-23
