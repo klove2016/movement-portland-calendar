@@ -32,6 +32,16 @@ UID:1ba4e6b7cee02dc9e989ffaf5d2a6df4d3d2187102be97fe6bd89dcbb6add28b@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mental-health-talk-space?course=U2Vzc2lvbjoyNDI4ODg2NTI=&date=2026-11-02
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nGet ready for a night of spooky sends and adventures in the dark!\nMonster Flash is back with two ways to celebrate the season: headlamp rope climbing and a frightfully fun flash bouldering competition. Join us for an evening of frights and fun!\nhttps://portal.movementgyms.com/portland/programs/halloween-headlamp?course=U2Vzc2lvbjoyNjA0OTIyMzI=&date=2026-10-23
+DTEND:20261024T040000Z
+LOCATION:Movement Portland
+DTSTART:20261024T013000Z
+SUMMARY:Monster Flash | Bouldering Comp\, Raffle\, and Headlamp Climbing
+TRANSP:TRANSPARENT
+UID:8da0890ab791a2b0e782183e6393bff49998d3972dffe0bcfe532804f1730a59@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/halloween-headlamp?course=U2Vzc2lvbjoyNjA0OTIyMzI=&date=2026-10-23
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nInstructor: Benjamin J.\nAdaptive Climb PDX is an inclusive and supportive climbing group focused on creating space for differently abled individuals to get up the wall! All ability and experience levels are welcome. We also welcome anyone interested in engaging with the adaptive community to volunteer to belay for us!\nhttps://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-12-17
 DTEND:20261218T040000Z
 LOCATION:Movement Portland
@@ -190,16 +200,6 @@ SUMMARY:Trivia Night
 TRANSP:TRANSPARENT
 UID:2fc930ba9711a42ed96f53604cd921e1cb38aada30b7e06462ac8b82137dc817@movement-portland-events
 URL:https://portal.movementgyms.com/portland/programs/game-night?course=U2Vzc2lvbjoxNzU1OTA4Mzg=&date=2026-11-17
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nThe spookiest event of the year is back for more! With a Flash competition in the boulder area for a chance to take home some spine-chilling swag\, and Headlamp climbing in the rope area. Join us for an evening of frights and fun\; costumes highly recommended.\nhttps://portal.movementgyms.com/portland/programs/halloween-headlamp?course=U2Vzc2lvbjoyNjA0OTIyMzI=&date=2026-10-23
-DTEND:20261024T040000Z
-LOCATION:Movement Portland
-DTSTART:20261024T013000Z
-SUMMARY:Monster Flash + Headlamp Climbing
-TRANSP:TRANSPARENT
-UID:ead5e2c925adb73064972ba351acea6d9539b96967b1734090911b6715bb494c@movement-portland-events
-URL:https://portal.movementgyms.com/portland/programs/halloween-headlamp?course=U2Vzc2lvbjoyNjA0OTIyMzI=&date=2026-10-23
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Events\nDiseñado para hispanohablantes con poca o ninguna experiencia en escalada. En este curso aprenderás las habilidades necesarias para escalar de forma segura en un gimnasio.\nhttps://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2026-12-16
