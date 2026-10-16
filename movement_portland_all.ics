@@ -412,16 +412,6 @@ UID:8d4a8b0267f5a861d975e0bc071590efabfb35b4bd6392e4fcf991998706b959@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-12-14
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Events\nCome join us every 3rd Thursday of the month at 7pm!\n \nOur goal is to create safe spaces for queer\, trans and nonbinary climbers of color. These climb nights are run by queer people of color for queer people of color.\nhttps://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-10-15
-DTEND:20261016T043000Z
-LOCATION:Movement Portland
-DTSTART:20261016T023000Z
-SUMMARY:Events: QTBIPOC Climb Night
-TRANSP:TRANSPARENT
-UID:925369596d171c2f01b6705288367f83982d7a655f9667b44a009b46b357f4d9@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-10-15
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2027-01-05
 DTEND:20270105T153000Z
 LOCATION:Movement Portland
@@ -1612,14 +1602,14 @@ UID:198e06cc85c1606e530f7bfa5c08561157f0da97c9c7414d45251c5609e18a3a@movement-po
 URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2027-01-01
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Events\nInstructor: Benjamin J.\nAdaptive Climb PDX is an inclusive and supportive climbing group focused on creating space for differently abled individuals to get up the wall! All ability and experience levels are welcome. We also welcome anyone interested in engaging with the adaptive community to volunteer to belay for us!\nhttps://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-10-15
-DTEND:20261016T030000Z
+DESCRIPTION:Category: Events\nGet ready for a night of spooky sends and adventures in the dark!\nMonster Flash is back with two ways to celebrate the season: headlamp rope climbing and a frightfully fun flash bouldering competition. Join us for an evening of frights and fun!\nhttps://portal.movementgyms.com/portland/programs/halloween-headlamp?course=U2Vzc2lvbjoyNjA0OTIyMzI=&date=2026-10-23
+DTEND:20261024T040000Z
 LOCATION:Movement Portland
-DTSTART:20261016T010000Z
-SUMMARY:Events: Adaptive Climb PDX
+DTSTART:20261024T013000Z
+SUMMARY:Events: Monster Flash | Bouldering Comp\, Raffle\, and Headlamp Climbing
 TRANSP:TRANSPARENT
-UID:3b79f78dc113e2485dce43603ea26bab0a33e5bee251f296d42d1fe8ef9c9afc@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-10-15
+UID:f91fc553dca72d5a8e4ac8877ef392b47ed5fbe08e22eb19537d4b5376359708@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/halloween-headlamp?course=U2Vzc2lvbjoyNjA0OTIyMzI=&date=2026-10-23
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nInterval training that sharpens balance\, core\, and lower‑body power so you carve first chair to last with confidence.\nhttps://portal.movementgyms.com/portland/programs/ski-fit?course=U2Vzc2lvbjoxMzAyNzYwNTE=&date=2026-12-18
@@ -1630,16 +1620,6 @@ SUMMARY:Fitness: Ski Fit
 TRANSP:TRANSPARENT
 UID:1ad414971221242eeeca81b1e6b1cde605294ec03efc101650b736c0b8382a53@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/ski-fit?course=U2Vzc2lvbjoxMzAyNzYwNTE=&date=2026-12-18
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nGet ready for a night of spooky sends and adventures in the dark!\nMonster Flash is back with two ways to celebrate the season: headlamp rope climbing and a frightfully fun flash bouldering competition. Join us for an evening of frights and fun!\nhttps://portal.movementgyms.com/portland/programs/halloween-headlamp?course=U2Vzc2lvbjoyNjA0OTIyMzI=&date=2026-10-23
-DTEND:20261024T040000Z
-LOCATION:Movement Portland
-DTSTART:20261024T013000Z
-SUMMARY:Events: Monster Flash | Bouldering Comp\, Raffle\, and Headlamp Climbing
-TRANSP:TRANSPARENT
-UID:f91fc553dca72d5a8e4ac8877ef392b47ed5fbe08e22eb19537d4b5376359708@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/halloween-headlamp?course=U2Vzc2lvbjoyNjA0OTIyMzI=&date=2026-10-23
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-12-07
@@ -2712,16 +2692,6 @@ UID:c7db52a1f0fab2d56328f40a2c4267b8c711dd8b85566dc07071410446bcb4d2@movement-po
 URL:https://portal.movementgyms.com/portland/programs/climb-a-thon?course=U2Vzc2lvbjoxOTA5NDg0NTU=&date=2026-11-10
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Bryan F.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-15
-DTEND:20261016T020000Z
-LOCATION:Movement Portland
-DTSTART:20261016T010000Z
-SUMMARY:Yoga: Power Vinyasa
-TRANSP:TRANSPARENT
-UID:d9b031a9e0439b94eab00515a212d625c3e0dcfac3afab55c62ee87fbe892534@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-15
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-11-05
 DTEND:20261106T031500Z
 LOCATION:Movement Portland
@@ -3040,16 +3010,6 @@ SUMMARY:Fitness: Total Body Fit
 TRANSP:TRANSPARENT
 UID:b59ffd7694bc964bd82cbb2fcab1c3def42914e1727152f081c5c1d1106b56b6@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-11-30
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Danny M.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-10-15
-DTEND:20261016T033000Z
-LOCATION:Movement Portland
-DTSTART:20261016T023000Z
-SUMMARY:Yoga: Vinyasa
-TRANSP:TRANSPARENT
-UID:beedb100ba0d4c6e45a970be2d3f62535b89ecfd1df6408a6706ec0345bf3b47@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-10-15
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-11-09
