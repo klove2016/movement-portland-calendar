@@ -292,6 +292,16 @@ UID:a9b178a8642805deaf3083ef08722cd90755e3631a133c510f624e06b8249bdd@movement-po
 URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-11-17
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-27
+DTEND:20261128T034500Z
+LOCATION:Movement Portland
+DTSTART:20261128T024500Z
+SUMMARY:Climbing: Introduction to Bouldering
+TRANSP:TRANSPARENT
+UID:cca5ec1c715cf291ce853c4ac9d78e4f280ab907a0ed3284a983d9a97ad24c45@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-27
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-11-24
 DTEND:20261124T153000Z
 LOCATION:Movement Portland
@@ -632,16 +642,6 @@ UID:462bbc88f5eed16805a9c9656378a535610b622c14757d3f99fad11c79e51cc0@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-12-08
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-27
-DTEND:20261128T033000Z
-LOCATION:Movement Portland
-DTSTART:20261128T023000Z
-SUMMARY:Climbing: Introduction to Bouldering
-TRANSP:TRANSPARENT
-UID:a49ee9ad45f5fa678e1457c1767e8351513949cde414c55daaa28ca2247a031e@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-27
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2027-01-05
 DTEND:20270106T043000Z
 LOCATION:Movement Portland
@@ -862,16 +862,6 @@ UID:75d59aa041c1104fd4b80b9f855a71f054b0b03dc79500e4c9b0f6c7e1d28c94@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-24
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-20
-DTEND:20261121T033000Z
-LOCATION:Movement Portland
-DTSTART:20261121T023000Z
-SUMMARY:Climbing: Introduction to Bouldering
-TRANSP:TRANSPARENT
-UID:9361876b3e2ccb70de117dee4df1456b78c27f91c15e4323b3923e5bbf6fc369@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-01-04
 DTEND:20270105T030000Z
 LOCATION:Movement Portland
@@ -920,6 +910,16 @@ SUMMARY:Fitness: Total Body Fit
 TRANSP:TRANSPARENT
 UID:fa109d6d7d65265a5267300fd8c7380fd7ed33747261c32a3471c1870b4db934@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-11-11
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-20
+DTEND:20261121T034500Z
+LOCATION:Movement Portland
+DTSTART:20261121T024500Z
+SUMMARY:Climbing: Introduction to Bouldering
+TRANSP:TRANSPARENT
+UID:5e116c8c89c1b6ff0fe6855c229f89b08360205650c84b730a6d83f242fefbe8@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2027-01-05
@@ -1052,14 +1052,14 @@ UID:b49e560129528606f041b9feddf4f43b58c533236ac3381f0d1800e7c7cdb8ec@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-12-10
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Bryan F.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-17
-DTEND:20261218T030000Z
+DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-06
+DTEND:20261107T034500Z
 LOCATION:Movement Portland
-DTSTART:20261218T020000Z
-SUMMARY:Yoga: Power Vinyasa
+DTSTART:20261107T024500Z
+SUMMARY:Climbing: Introduction to Bouldering
 TRANSP:TRANSPARENT
-UID:2d76ed4c2395343328ea54794bc0752c3a767c14450ea9c9cea4d8051673df3d@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-17
+UID:eada1529508cdb0553ed6cf5a7195da5b9f55d976a1ee1382c95d6c76a8b2e2f@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-06
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-11-18
@@ -1080,6 +1080,16 @@ SUMMARY:Yoga: Power Vinyasa
 TRANSP:TRANSPARENT
 UID:432a0753b7988bbffd18ed792586f370e3b59753299dcf26944e367189bd5260@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-03
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Bryan F.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-17
+DTEND:20261218T030000Z
+LOCATION:Movement Portland
+DTSTART:20261218T020000Z
+SUMMARY:Yoga: Power Vinyasa
+TRANSP:TRANSPARENT
+UID:2d76ed4c2395343328ea54794bc0752c3a767c14450ea9c9cea4d8051673df3d@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-17
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-02
@@ -1282,6 +1292,16 @@ UID:14df0b3f3caee4613206a45725a79b80a514af544cf573dc098b3d91ca1ad99f@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-12-30
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-10-30
+DTEND:20261031T024500Z
+LOCATION:Movement Portland
+DTSTART:20261031T014500Z
+SUMMARY:Climbing: Introduction to Bouldering
+TRANSP:TRANSPARENT
+UID:acd679bd960477b409faf8786d8483f7f34586a0798ab92f571c92afa8b79360@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-10-30
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Shannon L.\nSlow your nervous system down. Props\, rather than your muscles\, are used to support your body in only five or six poses\, allowing you to relax and rest completely. May incorporate meditation and breathing exercises. Perfect when you're feeling drained or stressed.\nhttps://portal.movementgyms.com/portland/programs/restorative-yoga?course=U2Vzc2lvbjoxMTUzNTI3MDM=&date=2026-10-20
 DTEND:20261021T033000Z
 LOCATION:Movement Portland
@@ -1410,6 +1430,16 @@ SUMMARY:Yoga: Power Vinyasa
 TRANSP:TRANSPARENT
 UID:99954d4fa242e60b53aaf683624b583e1856f067e6286425f665fdfc7ccaed0e@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-18
+DTEND:20261219T034500Z
+LOCATION:Movement Portland
+DTSTART:20261219T024500Z
+SUMMARY:Climbing: Introduction to Bouldering
+TRANSP:TRANSPARENT
+UID:48e9bd651f3b9838b923ed4776d2caf0de15cedb97ccdce8b608be037d500bc9@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nIntroductory class that demystifies common poses\, alignment basics\, and breath so new yogis start strong.\nhttps://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-11-08
@@ -2552,26 +2582,6 @@ UID:833c86cd017212f82206af00aca78f5495375b009cae17a26eb2fdde3aea0bf8@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-11-30
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-04
-DTEND:20261205T033000Z
-LOCATION:Movement Portland
-DTSTART:20261205T023000Z
-SUMMARY:Climbing: Introduction to Bouldering
-TRANSP:TRANSPARENT
-UID:8e9576134d7a9efb89465b971e8e57776f5341fd43b2783bfb585827baab9110@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-04
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-10-20
-DTEND:20261020T200000Z
-LOCATION:Movement Portland
-DTSTART:20261020T190000Z
-SUMMARY:Fitness: Strength/Cardio
-TRANSP:TRANSPARENT
-UID:40a2973049f6b711deaad53425d8295d321fc0cc977e5be7471b620fcdaad06a@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2026-10-20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-11-22
 DTEND:20261122T203000Z
 LOCATION:Movement Portland
@@ -2650,6 +2660,16 @@ SUMMARY:Fitness: Strength
 TRANSP:TRANSPARENT
 UID:e7313e1ae11f08183942426f6760d2a919d68cb1e79f574525bed8b3def27371@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-12-21
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-04
+DTEND:20261205T034500Z
+LOCATION:Movement Portland
+DTSTART:20261205T024500Z
+SUMMARY:Climbing: Introduction to Bouldering
+TRANSP:TRANSPARENT
+UID:9d72b882200c9234a6ec17aa55c4672561356474e4a91c2393d1c1a26df8cef7@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-04
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nIndoor session that teaches bolt clipping\, anchor cleaning\, and lowering to support your transition to single-pitch sport crags.\nhttps://portal.movementgyms.com/portland/programs/sport-climbing-outside?course=U2Vzc2lvbjoxMDA1MjYwODY=&date=2027-01-09
@@ -3052,16 +3072,6 @@ UID:c290f5f76e5e35800b3a99e64fe0571456fcff4ae585ab3d9a4182c01fe7c987@movement-po
 URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-12-20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-06
-DTEND:20261107T033000Z
-LOCATION:Movement Portland
-DTSTART:20261107T023000Z
-SUMMARY:Climbing: Introduction to Bouldering
-TRANSP:TRANSPARENT
-UID:4e0f147c6c41e2a50f9a8e196f24ea43c0d93cf399f29687cb8c781e86899daf@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-06
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Natalie D.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-11-22
 DTEND:20261123T011500Z
 LOCATION:Movement Portland
@@ -3360,16 +3370,6 @@ SUMMARY:Yoga: Power Vinyasa
 TRANSP:TRANSPARENT
 UID:44cc74c66b9be207ec77453f02673280ea2145f58328b57c96afe2953fae9c4b@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-21
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2027-01-08
-DTEND:20270109T033000Z
-LOCATION:Movement Portland
-DTSTART:20270109T023000Z
-SUMMARY:Climbing: Introduction to Bouldering
-TRANSP:TRANSPARENT
-UID:1bd2009bcb77464deb8f7a5b18c070ddb3d4d194545118a106d92723da1784de@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2027-01-08
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-11-23
@@ -4242,6 +4242,16 @@ UID:4c08655744d36a1b1e18123e705a93c2719e43d5375751f8834ba36ca948539a@movement-po
 URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-11-11
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-13
+DTEND:20261114T034500Z
+LOCATION:Movement Portland
+DTSTART:20261114T024500Z
+SUMMARY:Climbing: Introduction to Bouldering
+TRANSP:TRANSPARENT
+UID:299eef3937120433e9bad2117aeba578ef845e5344201252a1a9cebf728aaf57@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-13
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-26
 DTEND:20261026T200000Z
 LOCATION:Movement Portland
@@ -4310,16 +4320,6 @@ SUMMARY:Climbing: Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:95c83eab56c99e8a772aff1b570f66a297c7446d8e178aba0fdcdcc78bbac6f1@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2027-01-07
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-18
-DTEND:20261219T033000Z
-LOCATION:Movement Portland
-DTSTART:20261219T023000Z
-SUMMARY:Climbing: Introduction to Bouldering
-TRANSP:TRANSPARENT
-UID:2afc13291786a4d710fee23c3efa70c5f242ef165d370aac22105f0dcb093f06@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-12-16
@@ -4400,16 +4400,6 @@ SUMMARY:Climbing: Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:b56212278068b0126bacaad51dfef4512a87df3f5137589d8601c48a2e1774a9@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-12-30
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-10-30
-DTEND:20261031T023000Z
-LOCATION:Movement Portland
-DTSTART:20261031T013000Z
-SUMMARY:Climbing: Introduction to Bouldering
-TRANSP:TRANSPARENT
-UID:ffa215e061b42b4fc753163c0535e81f8ab079e9254fc2b397cc4bb3e40ecd2a@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-10-30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-01-06
@@ -4510,6 +4500,16 @@ SUMMARY:Yoga: Power Vinyasa
 TRANSP:TRANSPARENT
 UID:5022adb608ace302d66efcc246024bb1e29f33abfc362b0940c155ba3fb5803d@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-11
+DTEND:20261212T034500Z
+LOCATION:Movement Portland
+DTSTART:20261212T024500Z
+SUMMARY:Climbing: Introduction to Bouldering
+TRANSP:TRANSPARENT
+UID:58e2fbd91869e9a8f8fa65b410d0639c67678bc17c2207bfee23535b630bc22f@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-11
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-11-12
@@ -4662,16 +4662,6 @@ UID:f1efdb991d32aa71b4fff223e381dfb82daf3080215ac0cea05b0990cff4846e@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-01-11
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-13
-DTEND:20261114T033000Z
-LOCATION:Movement Portland
-DTSTART:20261114T023000Z
-SUMMARY:Climbing: Introduction to Bouldering
-TRANSP:TRANSPARENT
-UID:a61c95d4ebc965618c277ce9e978128c61791658f52f986ffa19e4375d59b8e7@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-11-13
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nInterval training that sharpens balance\, core\, and lower‑body power so you carve first chair to last with confidence.\nhttps://portal.movementgyms.com/portland/programs/ski-fit?course=U2Vzc2lvbjoxMzAyNzYwNTE=&date=2026-12-04
 DTEND:20261204T210000Z
 LOCATION:Movement Portland
@@ -4690,16 +4680,6 @@ SUMMARY:Yoga: Power Vinyasa
 TRANSP:TRANSPARENT
 UID:2d7997f6b278c47d6895d80b623c66032d5f506e6f800e76199d86e41ff491f6@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-09
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-11
-DTEND:20261212T033000Z
-LOCATION:Movement Portland
-DTSTART:20261212T023000Z
-SUMMARY:Climbing: Introduction to Bouldering
-TRANSP:TRANSPARENT
-UID:eb454c4de51e7d2504b267dc0d35ada9d3be193c552a37de4a9e8ee72e100f2b@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-11
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-12-08
@@ -4840,6 +4820,16 @@ SUMMARY:Fitness: Total Body Fit
 TRANSP:TRANSPARENT
 UID:2101d6ae2df0e5de380027f8256e6846147ebdea5b108bd0d4a46dd5cbcca5a4@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-12-02
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2027-01-08
+DTEND:20270109T034500Z
+LOCATION:Movement Portland
+DTSTART:20270109T024500Z
+SUMMARY:Climbing: Introduction to Bouldering
+TRANSP:TRANSPARENT
+UID:d4f0180938c81645b6ed1c8c098b8e45648b937fb289b04abefa62ce8d36eec8@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2027-01-08
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-11-16
