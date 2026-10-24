@@ -1602,16 +1602,6 @@ UID:198e06cc85c1606e530f7bfa5c08561157f0da97c9c7414d45251c5609e18a3a@movement-po
 URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2027-01-01
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Events\nGet ready for a night of spooky sends and adventures in the dark!\nMonster Flash is back with two ways to celebrate the season: headlamp rope climbing and a frightfully fun flash bouldering competition. Join us for an evening of frights and fun!\nhttps://portal.movementgyms.com/portland/programs/halloween-headlamp?course=U2Vzc2lvbjoyNjA0OTIyMzI=&date=2026-10-23
-DTEND:20261024T040000Z
-LOCATION:Movement Portland
-DTSTART:20261024T013000Z
-SUMMARY:Events: Monster Flash | Bouldering Comp\, Raffle\, and Headlamp Climbing
-TRANSP:TRANSPARENT
-UID:f91fc553dca72d5a8e4ac8877ef392b47ed5fbe08e22eb19537d4b5376359708@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/halloween-headlamp?course=U2Vzc2lvbjoyNjA0OTIyMzI=&date=2026-10-23
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nInterval training that sharpens balance\, core\, and lower‑body power so you carve first chair to last with confidence.\nhttps://portal.movementgyms.com/portland/programs/ski-fit?course=U2Vzc2lvbjoxMzAyNzYwNTE=&date=2026-12-18
 DTEND:20261218T210000Z
 LOCATION:Movement Portland
@@ -2350,16 +2340,6 @@ SUMMARY:Climbing: Learn to Lead
 TRANSP:TRANSPARENT
 UID:64084978df76738e5a8e1b1661df0c40a731d5fcab4e230b1d7c436256fa43b6@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-10-24
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Lorenzo D.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-23
-DTEND:20261024T014500Z
-LOCATION:Movement Portland
-DTSTART:20261024T004500Z
-SUMMARY:Yoga: Power Vinyasa
-TRANSP:TRANSPARENT
-UID:5e29c7238156cb3e5b761691e0c61c25f33a08b706b3f687b58f135eae2c906a@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-23
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-28
