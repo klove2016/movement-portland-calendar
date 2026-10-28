@@ -1,1 +1,87 @@
-<p>hello checking</p>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Movement Portland Calendar</title>
+<meta name="description" content="Subscribe-able calendars of Movement Portland classes and events, refreshed every 6 hours.">
+<style>
+  :root {
+    --bg: #f5f8f7; --card: #ffffff; --text: #16201d; --muted: #5a6964; --line: #dce4e1;
+    --accent: #0f7a64; --accent-ink: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0f1513; --card: #17201d; --text: #e5eeeb; --muted: #97a8a2; --line: #283430;
+      --accent: #4fd1b0; --accent-ink: #062018;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 860px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 1.7rem; margin: 0 0 4px; }
+  h2 { font-size: 1.15rem; margin: 32px 0 12px; }
+  p.lead { color: var(--muted); margin: 0 0 20px; }
+  a { color: var(--accent); }
+  .feeds { display: grid; gap: 12px; }
+  .feed { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px;
+          display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; }
+  .feed .name { font-weight: 600; } .meta { color: var(--muted); font-size: .9rem; }
+  .actions { display: flex; flex-wrap: wrap; gap: 8px; }
+  .btn { border: 1px solid var(--line); background: var(--card); color: var(--text); border-radius: 8px; padding: 6px 12px;
+         font: inherit; font-size: .9rem; cursor: pointer; text-decoration: none; }
+  .btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+  code { font-size: .85em; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Movement Portland — class &amp; event calendar</h1>
+  <p class="lead">Climbing, yoga and fitness classes plus events at Movement Portland, refreshed every 6 hours from the
+    Movement schedule. Unofficial; check the Movement app or site before you go.</p>
+
+  <h2>Subscribe</h2>
+  <div class="feeds" id="feeds"></div>
+  <p class="meta">Google Calendar: use “Add to Google”, or Settings → Add calendar → From URL and paste the copied link.
+    Google refreshes subscribed calendars on its own schedule (often every 8–24 hours).</p>
+</main>
+<script>
+const FEEDS = [
+  { file: "movement_portland_all.ics", name: "All classes & events" },
+  { file: "movement_portland_climbing.ics", name: "Climbing" },
+  { file: "movement_portland_yoga.ics", name: "Yoga" },
+  { file: "movement_portland_fitness.ics", name: "Fitness" },
+  { file: "movement_portland_events.ics", name: "Events" },
+];
+const base = new URL(".", location.href);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+document.getElementById("feeds").innerHTML = FEEDS.map(f => {
+  const https = new URL(f.file, base).href;
+  const webcal = https.replace(/^https?:/, "webcal:");
+  const google = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(webcal);
+  return `<div class="feed"><div><div class="name">${esc(f.name)}</div>
+      <div class="meta"><span data-count="${esc(f.file)}"></span><code>${esc(f.file)}</code></div></div>
+    <div class="actions"><a class="btn primary" href="${esc(google)}" target="_blank" rel="noopener">Add to Google</a>
+      <a class="btn" href="${esc(webcal)}">Apple / Outlook</a>
+      <button class="btn" data-copy="${esc(https)}">Copy URL</button></div></div>`;
+}).join("");
+
+// Show how many upcoming events each feed holds (counted from the .ics itself).
+for (const f of FEEDS) {
+  fetch(f.file, { cache: "no-store" }).then(r => r.ok ? r.text() : Promise.reject())
+    .then(t => {
+      const n = (t.match(/^BEGIN:VEVENT/gm) || []).length;
+      document.querySelector(`[data-count="${f.file}"]`).textContent = `${n} upcoming · `;
+    }).catch(() => {});
+}
+
+document.addEventListener("click", e => {
+  const url = e.target.dataset?.copy;
+  if (!url) return;
+  navigator.clipboard?.writeText(url).then(() => { e.target.textContent = "Copied"; setTimeout(() => e.target.textContent = "Copy URL", 1500); },
+    () => prompt("Copy this URL:", url));
+});
+</script>
+</body>
+</html>
