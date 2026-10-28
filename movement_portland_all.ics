@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
+X-WR-CALNAME:Movement Portland – All
 VERSION:2.0
-PRODID:Movement Portland Calendar Sync
+PRODID:Movement Portland – All Calendar Sync
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lorenzo D.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-11
 DTEND:20261212T024500Z
@@ -2340,16 +2341,6 @@ SUMMARY:Events: Lisa & Stephen's Baby Shower
 TRANSP:TRANSPARENT
 UID:fc8fb6ad4ccd488953a851bbe9699600a491bb9ed9f71562c7ad2a7d21aa63e4@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-11-01
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-28
-DTEND:20261028T200000Z
-LOCATION:Movement Portland
-DTSTART:20261028T190000Z
-SUMMARY:Yoga: Power Vinyasa
-TRANSP:TRANSPARENT
-UID:85d21aa682b685ac4315671f2dd628f08e8905961e5d16bf4b2973499b597605@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-10-28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2027-01-13

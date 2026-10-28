@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
+X-WR-CALNAME:Movement Portland – Events
 VERSION:2.0
-PRODID:Movement Portland Events Calendar Sync
+PRODID:Movement Portland – Events Calendar Sync
 BEGIN:VEVENT
 DESCRIPTION:Category: Events\nQueer Climb Nights are events designed to unite the LGBTQIA+ community through climbing. These gatherings offer a supportive environment for climbers to connect\, share experiences and enjoy the sport together. Event is hosted by Queer Mountaineers on the last Wednesday of each month.\nhttps://portal.movementgyms.com/portland/programs/queer-climb-night-pdx?course=U2Vzc2lvbjoyMzg1MjgzMTE=&date=2026-10-28
 DTEND:20261029T040000Z
