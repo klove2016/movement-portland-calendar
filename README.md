@@ -19,7 +19,8 @@ In Google Calendar: *Settings → Add calendar → From URL*, then paste a feed 
 
 A GitHub Action runs `scrape.py` every 6 hours. It loads the Movement Portland schedule in headless Chromium,
 groups classes by category (youth programs and first-visit sessions are skipped), and commits one `.ics` per
-category plus an all-in-one feed. Run it by hand from the Actions tab for an immediate refresh.
+category plus an all-in-one feed, and a `feeds.json` list the landing page uses (so new categories
+get a subscribe button automatically). Run it by hand from the Actions tab for an immediate refresh.
 
 ## Local
 

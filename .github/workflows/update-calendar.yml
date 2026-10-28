@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name "calendar-bot"
           git config user.email "calendar-bot@example.com"
-          git add movement_portland_*.ics
+          git add movement_portland_*.ics feeds.json
           git commit -m "Update Movement calendars" || exit 0
           git push

@@ -46,7 +46,8 @@
     Google refreshes subscribed calendars on its own schedule (often every 8–24 hours).</p>
 </main>
 <script>
-const FEEDS = [
+// Fallback until feeds.json (written by scrape.py on each run) is available.
+const FALLBACK = [
   { file: "movement_portland_all.ics", name: "All classes & events" },
   { file: "movement_portland_climbing.ics", name: "Climbing" },
   { file: "movement_portland_yoga.ics", name: "Yoga" },
@@ -56,25 +57,24 @@ const FEEDS = [
 const base = new URL(".", location.href);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
-document.getElementById("feeds").innerHTML = FEEDS.map(f => {
-  const https = new URL(f.file, base).href;
-  const webcal = https.replace(/^https?:/, "webcal:");
-  const google = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(webcal);
-  return `<div class="feed"><div><div class="name">${esc(f.name)}</div>
-      <div class="meta"><span data-count="${esc(f.file)}"></span><code>${esc(f.file)}</code></div></div>
-    <div class="actions"><a class="btn primary" href="${esc(google)}" target="_blank" rel="noopener">Add to Google</a>
-      <a class="btn" href="${esc(webcal)}">Apple / Outlook</a>
-      <button class="btn" data-copy="${esc(https)}">Copy URL</button></div></div>`;
-}).join("");
-
-// Show how many upcoming events each feed holds (counted from the .ics itself).
-for (const f of FEEDS) {
-  fetch(f.file, { cache: "no-store" }).then(r => r.ok ? r.text() : Promise.reject())
-    .then(t => {
-      const n = (t.match(/^BEGIN:VEVENT/gm) || []).length;
-      document.querySelector(`[data-count="${f.file}"]`).textContent = `${n} upcoming · `;
-    }).catch(() => {});
+function render(feeds) {
+  document.getElementById("feeds").innerHTML = feeds.map(f => {
+    const https = new URL(f.file, base).href;
+    const webcal = https.replace(/^https?:/, "webcal:");
+    const google = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(webcal);
+    const count = f.events != null ? `${f.events} upcoming · ` : "";
+    return `<div class="feed"><div><div class="name">${esc(f.name)}</div>
+        <div class="meta">${esc(count)}<code>${esc(f.file)}</code></div></div>
+      <div class="actions"><a class="btn primary" href="${esc(google)}" target="_blank" rel="noopener">Add to Google</a>
+        <a class="btn" href="${esc(webcal)}">Apple / Outlook</a>
+        <button class="btn" data-copy="${esc(https)}">Copy URL</button></div></div>`;
+  }).join("");
 }
+
+fetch("feeds.json", { cache: "no-store" })
+  .then(r => r.ok ? r.json() : Promise.reject())
+  .then(feeds => render(Array.isArray(feeds) && feeds.length ? feeds : FALLBACK))
+  .catch(() => render(FALLBACK));
 
 document.addEventListener("click", e => {
   const url = e.target.dataset?.copy;

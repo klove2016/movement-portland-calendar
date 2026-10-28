@@ -1,9 +1,11 @@
 from playwright.sync_api import sync_playwright
 from ics import Calendar, Event
+from ics.grammar.parse import ContentLine
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urlparse, parse_qs
 import hashlib
+import json
 import re
 
 URL = "https://movementgyms.com/portland/calendar/#activity=yoga&location=portland"
@@ -11,6 +13,13 @@ LOCATION = "Movement Portland"
 DAYS_AHEAD = 90
 
 SKIP_CATEGORIES = {"Youth Programs", "First Visit"}
+
+def new_calendar(display_name):
+    cal = Calendar()
+    cal.creator = f"{display_name} Calendar Sync"
+    # Name shown by Google/Apple when subscribing (instead of the feed URL).
+    cal.extra.append(ContentLine(name="X-WR-CALNAME", value=display_name))
+    return cal
 
 def clean_html(text):
     if not text:
@@ -150,8 +159,8 @@ def main():
     now = datetime.now(timezone.utc)
     max_date = now + timedelta(days=DAYS_AHEAD)
 
-    calendars = {"all": Calendar()}
-    calendars["all"].creator = "Movement Portland Calendar Sync"
+    calendars = {"all": new_calendar("Movement Portland – All")}
+    names = {"all": "All classes & events"}
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -174,8 +183,8 @@ def main():
         slug = slugify(category)
 
         if slug not in calendars:
-            calendars[slug] = Calendar()
-            calendars[slug].creator = f"Movement Portland {category} Calendar Sync"
+            calendars[slug] = new_calendar(f"Movement Portland – {category}")
+            names[slug] = category
 
         for item in calendar_group.get("data", []):
             if item.get("isAvailable") is False:
@@ -215,6 +224,15 @@ def main():
             f.writelines(cal)
 
         print(f"Wrote {len(cal.events)} events to {output_file}")
+
+    # Manifest read by index.html, so new categories get a subscribe button automatically.
+    feeds = [
+        {"file": f"movement_portland_{slug}.ics", "name": names[slug], "events": len(cal.events)}
+        for slug, cal in calendars.items()
+    ]
+    with open("feeds.json", "w", encoding="utf-8") as f:
+        json.dump(feeds, f, indent=2, ensure_ascii=False)
+        f.write("\n")
 
 if __name__ == "__main__":
     main()
