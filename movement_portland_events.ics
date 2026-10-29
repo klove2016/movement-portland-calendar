@@ -123,6 +123,16 @@ UID:1e7e6dbaf14dd259f95d6059d7d751cb573d85f1348738ae8faf322d3dbb770d@movement-po
 URL:https://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2026-11-19
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nDiseñado para hispanohablantes con poca o ninguna experiencia en escalada. En este curso aprenderás las habilidades necesarias para escalar de forma segura en un gimnasio.\nhttps://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2027-01-20
+DTEND:20270121T043000Z
+LOCATION:Movement Portland
+DTSTART:20270121T023000Z
+SUMMARY:Loco por la Aventura
+TRANSP:TRANSPARENT
+UID:362e55cb77864f071610e2734828ab58df4c722d9c05f17b82aa3794ea35b921@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/loco-por-la-aventura?course=U2Vzc2lvbjoyMzc5NjIyMjQ=&date=2027-01-20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nThis group is a low-pressure talk space for climbers to share about our shared mental health journey. We chat. We climb. We connect. Led by Jonathan Morell\, LPC associate\, AMGA guide\, and Movement community member. For climbers 18+.\nhttps://portal.movementgyms.com/portland/programs/mental-health-talk-space?course=U2Vzc2lvbjoyNDI4ODg2NTI=&date=2026-12-07
 DTEND:20261208T050000Z
 LOCATION:Movement Portland
