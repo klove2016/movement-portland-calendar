@@ -2,26 +2,26 @@
   {
     "file": "movement_portland_all.ics",
     "name": "All classes & events",
-    "events": 475
+    "events": 483
   },
   {
     "file": "movement_portland_climbing.ics",
     "name": "Climbing",
-    "events": 118
+    "events": 119
   },
   {
     "file": "movement_portland_yoga.ics",
     "name": "Yoga",
-    "events": 198
+    "events": 201
   },
   {
     "file": "movement_portland_fitness.ics",
     "name": "Fitness",
-    "events": 136
+    "events": 138
   },
   {
     "file": "movement_portland_events.ics",
     "name": "Events",
-    "events": 23
+    "events": 25
   }
 ]
