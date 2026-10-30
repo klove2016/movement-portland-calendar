@@ -1263,16 +1263,6 @@ UID:2be2e9b202f5221597f5cee97ce1e3336faf71b4b2471f09d2bd64a7ab61245a@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2027-01-20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-12-30
-DTEND:20261231T030000Z
-LOCATION:Movement Portland
-DTSTART:20261231T020000Z
-SUMMARY:Fitness: Total Body Fit
-TRANSP:TRANSPARENT
-UID:14df0b3f3caee4613206a45725a79b80a514af544cf573dc098b3d91ca1ad99f@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-12-30
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-10-30
 DTEND:20261031T024500Z
 LOCATION:Movement Portland
@@ -2873,16 +2863,6 @@ UID:7f85c4bf3fdd04dd46dd16d1c1a840d3e8a63de8b6bb6960a0d392f257c295f1@movement-po
 URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-12-23
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-12-23
-DTEND:20261224T030000Z
-LOCATION:Movement Portland
-DTSTART:20261224T020000Z
-SUMMARY:Fitness: Total Body Fit
-TRANSP:TRANSPARENT
-UID:452a2691af9835181339f2ec1a3b80ce0065fc36a56bf98690acc2909ba433ba@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-12-23
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-12-08
 DTEND:20261209T031500Z
 LOCATION:Movement Portland
@@ -4183,7 +4163,7 @@ UID:9b70fe9e425c16aef1487f1f4ad0870fd6bd21fb76d8de9e5f09217df9b316ff@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-11-23
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-11-11
+DESCRIPTION:Category: Yoga\nInstructor: Anne H.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-11-11
 DTEND:20261112T043000Z
 LOCATION:Movement Portland
 DTSTART:20261112T031500Z
@@ -4521,16 +4501,6 @@ SUMMARY:Fitness: Mat Pilates
 TRANSP:TRANSPARENT
 UID:0111d659b4bb06d991f94d07ea16c74b5d3caea2711673ec1a557370c4c05f14@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2027-01-16
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-11-25
-DTEND:20261126T030000Z
-LOCATION:Movement Portland
-DTSTART:20261126T020000Z
-SUMMARY:Fitness: Total Body Fit
-TRANSP:TRANSPARENT
-UID:08b53881c3a7987c076a14b517ca70d66a33930f1bc641b25aa4957e9967f93f@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-11-25
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Danny M.\nFlow with your breath. Vinyasa classes ignite inner fire\, improve cardiovascular fitness\, make the spine more supple\, and develop total-body coordination. A wide variety of poses link breath and movement\, combined with sun salutations and standing postures.We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-12-03
