@@ -23,16 +23,6 @@ UID:1d622a351a35d74bfa1d99f289ac8a6324d762b367ebffc35cc624ef4b84e623@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-11-16
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-30
-DTEND:20261031T011500Z
-LOCATION:Movement Portland
-DTSTART:20261031T001500Z
-SUMMARY:Climbing: Introduction to Rope Climbing
-TRANSP:TRANSPARENT
-UID:582e5d37f577f8ff7d63c5ef851ba93b2a6a64954d5a55f95abad79a90266d4a@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-10-30
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nDiscover gym bouldering from the ground up—learn falling best practices\, bouldering area etiquette\, and movement basics so you can climb unroped with confidence.\nhttps://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-28
 DTEND:20261229T041500Z
 LOCATION:Movement Portland
@@ -741,16 +731,6 @@ SUMMARY:Yoga: Deep Stretch
 TRANSP:TRANSPARENT
 UID:b9c44c7f457d6794dc26e2b95f0db070287a671d110739701a304598c7fbe85e@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-12-02
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-10-30
-DTEND:20261030T200000Z
-LOCATION:Movement Portland
-DTSTART:20261030T190000Z
-SUMMARY:Yoga: Hatha Yoga
-TRANSP:TRANSPARENT
-UID:078dd70a3e8195557b5fc8e2f7f24ccebb20a41e764b956e80bd05b96a4b750e@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2026-10-30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-12-16
@@ -1701,16 +1681,6 @@ SUMMARY:Climbing: Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:4d6f375143b44534e6ab5a721d757d886593fbb79bf8506d2f2766139742031d@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-12-23
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nSeasonal legs‑and‑core conditioning so you can crush trail runs and hikes all summer without burning out.\nhttps://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-10-30
-DTEND:20261030T200000Z
-LOCATION:Movement Portland
-DTSTART:20261030T190000Z
-SUMMARY:Fitness: Trail Fit
-TRANSP:TRANSPARENT
-UID:1fe5f60e4ff97fe498cc7286692dcbf3e04216cbb9f35ab5ab8f22f5559d0081@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/trail-fit?course=U2Vzc2lvbjoxMzAyNzUzMTE=&date=2026-10-30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2027-01-17
