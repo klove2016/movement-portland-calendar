@@ -283,16 +283,6 @@ UID:f922a569a6215b8eed1adae40dd3bbd50f18501589395e71a128f098f74ef5af@movement-po
 URL:https://portal.movementgyms.com/portland/programs/bring-friend-day?course=U2Vzc2lvbjoxNjAzOTg2NzQ=&date=2026-12-04
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Natalie D.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-11-01
-DTEND:20261102T011500Z
-LOCATION:Movement Portland
-DTSTART:20261102T000000Z
-SUMMARY:Yoga: Deep Stretch
-TRANSP:TRANSPARENT
-UID:4a60b3cad0a9fd15b46d9dcbb02b01684ba83fa6aa226c5530f9ac54f2e97db5@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-11-01
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-12-03
 DTEND:20261204T031500Z
 LOCATION:Movement Portland
@@ -1171,16 +1161,6 @@ SUMMARY:Climbing: Introduction to Rope Climbing
 TRANSP:TRANSPARENT
 UID:c8b570dfad210a5612edc96fbf2f6c357e24d24a904ad61d0352d24739581abb@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-12-14
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-11-01
-DTEND:20261101T193000Z
-LOCATION:Movement Portland
-DTSTART:20261101T181500Z
-SUMMARY:Yoga: Power Vinyasa
-TRANSP:TRANSPARENT
-UID:e3bf6b1f3781f667687353986f78e05b733064d3debc4ad900adabd0d5431b41@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-11-01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-09
@@ -2381,16 +2361,6 @@ SUMMARY:Climbing: Introduction to Bouldering
 TRANSP:TRANSPARENT
 UID:ed16a1f70ac46c02d91b4af7f740ab2bd5b9ca2b2158258c03d0d6f30d0de90e@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/intro-to-bouldering?course=U2Vzc2lvbjoxMDA1MjUyNzY=&date=2026-12-21
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Events\nInstructor: Lisa S.\nPlease join us in celebrating our Yoga Program Manager\, Lisa Skaff\, and her partner\, Stephen\, who are expecting a baby later this fall! You're invited to their baby shower on Sunday\, November 1st!\nThose who know Stephen and Lisa know they're dedicated\, multi-sport athletes. Did you know Lisa is still doing handstands at 8 months pregnant?!\nIn their honor\, expect a few physical challenges (weighted bellies included)\, along with some more relaxed games. Participation in the games is totally optional\, and we just want you there! We’ll also have light refreshments\, so please RSVP so we can prepare accordingly.\nhttps://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-11-01
-DTEND:20261101T230000Z
-LOCATION:Movement Portland
-DTSTART:20261101T210000Z
-SUMMARY:Events: Lisa & Stephen's Baby Shower
-TRANSP:TRANSPARENT
-UID:fc8fb6ad4ccd488953a851bbe9699600a491bb9ed9f71562c7ad2a7d21aa63e4@movement-portland-all
-URL:https://portal.movementgyms.com/portland/programs/community-pay-what-you-want-night?course=U2Vzc2lvbjoxOTA5NDk5ODg=&date=2026-11-01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2027-01-13
