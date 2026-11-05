@@ -3,6 +3,16 @@ X-WR-CALNAME:Movement Portland – Fitness
 VERSION:2.0
 PRODID:Movement Portland – Fitness Calendar Sync
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2027-01-27
+DTEND:20270128T030000Z
+LOCATION:Movement Portland
+DTSTART:20270128T020000Z
+SUMMARY:Total Body Fit
+TRANSP:TRANSPARENT
+UID:eb0e939abe1031d4ca5d2d2697cd5d67189c5a5651fb38d967d74e784c2a9201@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2027-01-27
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-12-30
 DTEND:20261231T013000Z
 LOCATION:Movement Portland
@@ -361,6 +371,16 @@ SUMMARY:Lifting Fundamentals
 TRANSP:TRANSPARENT
 UID:bc80829a47070a5a84084e7ac6b6da7c1146ab3324bcf3bf5d1c286d3fc5c397@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2027-01-19
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2027-01-27
+DTEND:20270127T153000Z
+LOCATION:Movement Portland
+DTSTART:20270127T143000Z
+SUMMARY:Strength
+TRANSP:TRANSPARENT
+UID:2dc34f0b10907d0bb91ef77f55dcf264e7c8a27ed0ae146cc3fa57ca8ea9da3e@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2027-01-27
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2027-01-18
@@ -891,6 +911,16 @@ SUMMARY:Strength
 TRANSP:TRANSPARENT
 UID:9acd842671094bb0181822bd41961af0254df5149d0b51355099a4ae82874e7b@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-11-30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Anna M.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2027-01-27
+DTEND:20270128T013000Z
+LOCATION:Movement Portland
+DTSTART:20270128T003000Z
+SUMMARY:Mat Pilates
+TRANSP:TRANSPARENT
+UID:fa6ad52ee0ba8cca64e37a0b62e9914a4e4e5a0f38e9b3fb9ac14a3eeb045f6f@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2027-01-27
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2027-01-25

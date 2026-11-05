@@ -203,6 +203,16 @@ UID:6da0eb074afdcfc17e853c9a9eb826fb1c7ffdcc7191df473c7b2e7e4d206023@movement-po
 URL:https://portal.movementgyms.com/portland/programs/queer-climb-night-pdx?course=U2Vzc2lvbjoyMzg1MjgzMTE=&date=2026-12-30
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Events\nQueer Climb Nights are events designed to unite the LGBTQIA+ community through climbing. These gatherings offer a supportive environment for climbers to connect\, share experiences and enjoy the sport together. Event is hosted by Queer Mountaineers on the last Wednesday of each month.\nhttps://portal.movementgyms.com/portland/programs/queer-climb-night-pdx?course=U2Vzc2lvbjoyMzg1MjgzMTE=&date=2027-01-27
+DTEND:20270128T050000Z
+LOCATION:Movement Portland
+DTSTART:20270128T030000Z
+SUMMARY:Queer Climb Night
+TRANSP:TRANSPARENT
+UID:0d6973d5798ef1ec72424d1c25345e662b8388310b748e067859105a4ad090ed@movement-portland-events
+URL:https://portal.movementgyms.com/portland/programs/queer-climb-night-pdx?course=U2Vzc2lvbjoyMzg1MjgzMTE=&date=2027-01-27
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nCome join us every 3rd Thursday of the month at 7pm!\n \nOur goal is to create safe spaces for queer\, trans and nonbinary climbers of color. These climb nights are run by queer people of color for queer people of color.\nhttps://portal.movementgyms.com/portland/programs/qtbipoc-climb-night?course=U2Vzc2lvbjoyMzc5NjE1MDY=&date=2027-01-21
 DTEND:20270122T053000Z
 LOCATION:Movement Portland
