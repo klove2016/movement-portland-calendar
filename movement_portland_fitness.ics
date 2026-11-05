@@ -323,16 +323,6 @@ UID:db8892934c44ae7d9fdf5c06546fb5cf644a657887c5895030b30966c13f0439@movement-po
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2027-01-13
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-11-05
-DTEND:20261105T153000Z
-LOCATION:Movement Portland
-DTSTART:20261105T143000Z
-SUMMARY:Lifting Fundamentals
-TRANSP:TRANSPARENT
-UID:48eb98d38896544df6c2c4632ab097f67702fb971283b042655799dba8e75ad5@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-11-05
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2027-01-11
 DTEND:20270111T153000Z
 LOCATION:Movement Portland
