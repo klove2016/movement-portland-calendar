@@ -243,6 +243,16 @@ UID:313e8cc29efe0e7feb52e09e5207dbaec046eac1c118b38d8080ce21444e10b7@movement-po
 URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-11-28
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2027-02-01
+DTEND:20270201T153000Z
+LOCATION:Movement Portland
+DTSTART:20270201T143000Z
+SUMMARY:Fitness: Strength
+TRANSP:TRANSPARENT
+UID:6acf0f69e9cb62c71732870c16c45409f5599213a498d98b233c775c9c033749@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2027-02-01
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2026-12-03
 DTEND:20261204T031500Z
 LOCATION:Movement Portland
@@ -671,6 +681,16 @@ SUMMARY:Fitness: Mat Pilates
 TRANSP:TRANSPARENT
 UID:627717051bf6cf791af11cc3ac480a274e9bcac1b5fecc5b2714223af3f1e016@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-12-16
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Events\nThis group is a low-pressure talk space for climbers to share about our shared mental health journey. We chat. We climb. We connect. Led by Jonathan Morell\, LPC associate\, AMGA guide\, and Movement community member. For climbers 18+.\nhttps://portal.movementgyms.com/portland/programs/mental-health-talk-space?course=U2Vzc2lvbjoyNDI4ODg2NTI=&date=2027-02-01
+DTEND:20270202T050000Z
+LOCATION:Movement Portland
+DTSTART:20270202T033000Z
+SUMMARY:Events: Mental Health Talk Space
+TRANSP:TRANSPARENT
+UID:7c4ae98535613954e536e8506bd809f7024ad0702ef01dfe792341e124aa2c0f@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/mental-health-talk-space?course=U2Vzc2lvbjoyNDI4ODg2NTI=&date=2027-02-01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nReady to move smarter? In this fun session you’ll learn toe-driven movement\, efficient body positions\, and breath work to climb with less effort and more fun.\nhttps://portal.movementgyms.com/portland/programs/intro-to-technique?course=U2Vzc2lvbjoxMDA1MjUzOTU=&date=2027-01-12
@@ -1663,6 +1683,16 @@ UID:71ccab1fef7c1a3d1a0d7c1c505ded8592cf7a3929c5bec36bd0393215e038fb@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-02
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-02-01
+DTEND:20270201T210000Z
+LOCATION:Movement Portland
+DTSTART:20270201T200000Z
+SUMMARY:Yoga: Power Vinyasa
+TRANSP:TRANSPARENT
+UID:ea805fe6c17d4a147b02f5c8ffa35d5ab1aa47ff9d23632214a9fe9c925b7eef@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-02-01
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Events\nInstructor: Benjamin J.\nAdaptive Climb PDX is an inclusive and supportive climbing group focused on creating space for differently abled individuals to get up the wall! All ability and experience levels are welcome. We also welcome anyone interested in engaging with the adaptive community to volunteer to belay for us!\nhttps://portal.movementgyms.com/portland/programs/adaptive-climb-night?course=U2Vzc2lvbjoyMDY0NjAwNjk=&date=2026-12-03
 DTEND:20261204T040000Z
 LOCATION:Movement Portland
@@ -2593,6 +2623,16 @@ UID:84068c2f715a5242a36bed8e698b995710d2ce3c4e07970d18d71d5f31f02f40@movement-po
 URL:https://portal.movementgyms.com/portland/programs/vinyasa-flow?course=U2Vzc2lvbjoxMzAyNzY4ODI=&date=2026-12-22
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-02-01
+DTEND:20270202T030000Z
+LOCATION:Movement Portland
+DTSTART:20270202T014500Z
+SUMMARY:Yoga: Power Vinyasa
+TRANSP:TRANSPARENT
+UID:e256e86f33ea90b7cc1dac2f57c1319ca10cf00a90f73e80546c47744208a1e3@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-02-01
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nInterval training that sharpens balance\, core\, and lower‑body power so you carve first chair to last with confidence.\nhttps://portal.movementgyms.com/portland/programs/ski-fit?course=U2Vzc2lvbjoxMzAyNzYwNTE=&date=2027-01-15
 DTEND:20270115T210000Z
 LOCATION:Movement Portland
@@ -2781,6 +2821,16 @@ SUMMARY:Fitness: Total Body Fit
 TRANSP:TRANSPARENT
 UID:b59ffd7694bc964bd82cbb2fcab1c3def42914e1727152f081c5c1d1106b56b6@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-11-30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Traci M.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2027-02-01
+DTEND:20270202T030000Z
+LOCATION:Movement Portland
+DTSTART:20270202T020000Z
+SUMMARY:Fitness: Total Body Fit
+TRANSP:TRANSPARENT
+UID:f9ba46595d2de55e44649846d476052bdb545a1adaca5d9691ce5fc64f3e213a@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2027-02-01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Britt R.\nForm and technique are emphasized. Focused classes will help you discover deeper layers of alignment\, anatomy\, and awareness with a focus on balance. Expect strong work\, sophisticated instructions\, demonstrations\, use of props\, and partner work.\nhttps://portal.movementgyms.com/portland/programs/hatha-yoga?course=U2Vzc2lvbjoxOTA5NDM0NjE=&date=2027-01-19
@@ -4463,6 +4513,16 @@ UID:2101d6ae2df0e5de380027f8256e6846147ebdea5b108bd0d4a46dd5cbcca5a4@movement-po
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-12-02
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2027-02-01
+DTEND:20270202T043000Z
+LOCATION:Movement Portland
+DTSTART:20270202T031500Z
+SUMMARY:Yoga: Deep Stretch
+TRANSP:TRANSPARENT
+UID:a17d64699571bf697036c0ce93e75a92201ef6fba4bbbebdccc2820070e1be68@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2027-02-01
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2027-01-14
 DTEND:20270114T153000Z
 LOCATION:Movement Portland
@@ -4471,6 +4531,16 @@ SUMMARY:Fitness: Lifting Fundamentals
 TRANSP:TRANSPARENT
 UID:2eb6d05df572465b099cb58ea50728575b17948ef145c011677d88f2970b8bd8@movement-portland-all
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2027-01-14
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Climbing\nLearn essential knots\, belay technique\, and rope-safety checks so you can scale our tall walls with confidence—perfect for first-time climbers.\nhttps://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2027-02-01
+DTEND:20270202T020000Z
+LOCATION:Movement Portland
+DTSTART:20270202T010000Z
+SUMMARY:Climbing: Introduction to Rope Climbing
+TRANSP:TRANSPARENT
+UID:792162b46a7ccb257de6f1ef1de610a49a9f770d03c02b9ac017079aec708a2a@movement-portland-all
+URL:https://portal.movementgyms.com/portland/programs/intro-to-rope-climbing?course=U2Vzc2lvbjo3MTA4NDc5MQ==&date=2027-02-01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Climbing\nStep beyond top-rope—learn clipping\, lead belaying\, and fall technique so you can lead climb safely in the gym.\nhttps://portal.movementgyms.com/portland/programs/learn-to-lead-climb?course=U2Vzc2lvbjoxMDA1MjU3OTU=&date=2026-11-16

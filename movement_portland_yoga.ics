@@ -53,6 +53,16 @@ UID:b43646618f0eb21d97e8c23bb31a5bf966cf40095ba69e4692694ac71f698042@movement-po
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-01-21
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2027-02-01
+DTEND:20270202T043000Z
+LOCATION:Movement Portland
+DTSTART:20270202T031500Z
+SUMMARY:Deep Stretch
+TRANSP:TRANSPARENT
+UID:930ec23a8f664ef47c4933f5dbe9b191a9fc83d948e7ebc54459887ad2b8d791@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2027-02-01
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-12-28
 DTEND:20261228T210000Z
 LOCATION:Movement Portland
@@ -553,6 +563,16 @@ UID:823b1e3502ea719d96bf6f73d224cd54914e3b80813cd1f14aaac906b654130e@movement-po
 URL:https://portal.movementgyms.com/portland/programs/foundation-yoga?course=U2Vzc2lvbjoxMzAyNzYzNjc=&date=2026-12-13
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Lisa S.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-02-01
+DTEND:20270201T210000Z
+LOCATION:Movement Portland
+DTSTART:20270201T200000Z
+SUMMARY:Power Vinyasa
+TRANSP:TRANSPARENT
+UID:263b0d2ff65ee09b051d6cd7fc3b5fe5a7b29dc2693861c8e26b13e9b2d37295@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-02-01
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Alix N.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-11-16
 DTEND:20261117T043000Z
 LOCATION:Movement Portland
@@ -671,6 +691,16 @@ SUMMARY:Power Vinyasa
 TRANSP:TRANSPARENT
 UID:b44aebb26a9f56b596230b9ec7c1498b7522213783e0e2feda569428b83fb1a8@movement-portland-yoga
 URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2026-11-23
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nA strong vinyasa class focused on strength\, endurance\, and stability. Arm balances\, inversions\, and innovative transitions make these classes both fun and challenging!We look to provide all of our students with a quality experience. To help us meet that goal and secure your spot\, you are strongly encouraged to register before the start of class.\nhttps://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-02-01
+DTEND:20270202T030000Z
+LOCATION:Movement Portland
+DTSTART:20270202T014500Z
+SUMMARY:Power Vinyasa
+TRANSP:TRANSPARENT
+UID:cccb1ea824a451019edf8f01d5b21b782634b978ecb4fade45d721720335b70f@movement-portland-yoga
+URL:https://portal.movementgyms.com/portland/programs/power-vinyasa?course=U2Vzc2lvbjoxNDUyOTcyOTA=&date=2027-02-01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Yoga\nInstructor: Karli E.\nStretch deeply. Postures are held for longer periods of time.\nhttps://portal.movementgyms.com/portland/programs/yin?course=U2Vzc2lvbjoxMzAyNzM2NDM=&date=2026-12-21
