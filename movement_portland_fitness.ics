@@ -413,6 +413,16 @@ UID:45199402267bb77581500c4ed3063266072b40bff40915d606b4c78eab46f86f@movement-po
 URL:https://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-12-07
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2027-02-02
+DTEND:20270202T153000Z
+LOCATION:Movement Portland
+DTSTART:20270202T143000Z
+SUMMARY:Lifting Fundamentals
+TRANSP:TRANSPARENT
+UID:c2eb24776d3ecba9c486a864e5b6b3cd1b7b94aad4a46dae81db9099d59a929e@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2027-02-02
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Squid C.\nA high‑energy circuit that blends strength\, mobility\, and cardio so you leave sweating\, stronger\, and ready for life’s daily adventures.\nhttps://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-11-18
 DTEND:20261119T030000Z
 LOCATION:Movement Portland
@@ -653,14 +663,14 @@ UID:10bf6a1cc1e09c5d60ad4faa0ecda0d0104bc76767846119ab6f82237616aec2@movement-po
 URL:https://portal.movementgyms.com/portland/programs/ski-fit?course=U2Vzc2lvbjoxMzAyNzYwNTE=&date=2026-11-13
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nInterval training that sharpens balance\, core\, and lower‑body power so you carve first chair to last with confidence.\nhttps://portal.movementgyms.com/portland/programs/ski-fit?course=U2Vzc2lvbjoxMzAyNzYwNTE=&date=2027-01-15
-DTEND:20270115T210000Z
+DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2027-02-02
+DTEND:20270203T033000Z
 LOCATION:Movement Portland
-DTSTART:20270115T200000Z
-SUMMARY:Ski Fit
+DTSTART:20270203T023000Z
+SUMMARY:Functional Strength Training for Climbers
 TRANSP:TRANSPARENT
-UID:3d9526c2b4f2a30d5e59bae8b4e36a6a4a51e4fa7ffef7a8176a66a89ea07f12@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/ski-fit?course=U2Vzc2lvbjoxMzAyNzYwNTE=&date=2027-01-15
+UID:fd732d8c3345e88d6a58e2f1fab4945110aa28a958878d4821103fa36c660f4b@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2027-02-02
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Paige G.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-11-21
@@ -671,6 +681,16 @@ SUMMARY:Mat Pilates
 TRANSP:TRANSPARENT
 UID:4a15f91dbd107dddc105f4b7c0e081298aac4890d8b2135c04c055a185bdc53b@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2026-11-21
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nInterval training that sharpens balance\, core\, and lower‑body power so you carve first chair to last with confidence.\nhttps://portal.movementgyms.com/portland/programs/ski-fit?course=U2Vzc2lvbjoxMzAyNzYwNTE=&date=2027-01-15
+DTEND:20270115T210000Z
+LOCATION:Movement Portland
+DTSTART:20270115T200000Z
+SUMMARY:Ski Fit
+TRANSP:TRANSPARENT
+UID:3d9526c2b4f2a30d5e59bae8b4e36a6a4a51e4fa7ffef7a8176a66a89ea07f12@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/ski-fit?course=U2Vzc2lvbjoxMzAyNzYwNTE=&date=2027-01-15
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Shelby S.\nInterval training that sharpens balance\, core\, and lower‑body power so you carve first chair to last with confidence.\nhttps://portal.movementgyms.com/portland/programs/ski-fit?course=U2Vzc2lvbjoxMzAyNzYwNTE=&date=2026-11-20
@@ -971,6 +991,16 @@ SUMMARY:Strength/Cardio
 TRANSP:TRANSPARENT
 UID:67dae536f99ef8c30f8da96d01ff930d074746bffad510c9642ae61031e3624e@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2027-01-26
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nClass begins with a 30-minute strength training session focused on building muscle development\, core strength\, overall stability\, and metabolic conditioning. Expect to use dumbbells\, kettlebells\, and various fitness props. Class wraps with a 30-minute high-intensity circuit-style session that combines cardio\, mobility exercises\, and bodyweight strength conditioning in one session. The class may incorporate HIIT\, Tabata\, Cycling\, and Cardio drills.\nhttps://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2027-02-02
+DTEND:20270202T210000Z
+LOCATION:Movement Portland
+DTSTART:20270202T200000Z
+SUMMARY:Strength/Cardio
+TRANSP:TRANSPARENT
+UID:21a6953ede3ba06e764fe48d28e7390fcb3bab9b2e94fe58dd351ea1c2abe8c1@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/strength-bodyweight?course=U2Vzc2lvbjoxMzAyNzU0NTc=&date=2027-02-02
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-12-10
