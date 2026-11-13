@@ -713,16 +713,6 @@ UID:6b271b76ada99498213753c637435ea87038c18b09af62879f8b05c9e862ad02@movement-po
 URL:https://portal.movementgyms.com/portland/programs/ski-fit?course=U2Vzc2lvbjoxMzAyNzYwNTE=&date=2026-12-18
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-11-26
-DTEND:20261126T153000Z
-LOCATION:Movement Portland
-DTSTART:20261126T143000Z
-SUMMARY:Lifting Fundamentals
-TRANSP:TRANSPARENT
-UID:24cfee140e403536cb8b0ff827f371c77767d8c40e08960ceea6aae14c2549f1@movement-portland-fitness
-URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-11-26
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Taylor E.\nFunctional Strength Training for Climbers (FSTC) combines body weight training\, climbing specific movements and functional core work to improve strength\, balance\, and stability through the entire body\; including the legs\, back\, core and shoulders. This class also provides intentional mobility work to increase range of motion\, help you become a more agile\, and lessen the chance of injury in common areas where climbers tend to develop instability.\nhttps://portal.movementgyms.com/portland/programs/functional-strength-training-for-climbers?course=U2Vzc2lvbjoxMzAyNzUyMzg=&date=2026-12-22
 DTEND:20261223T033000Z
 LOCATION:Movement Portland
@@ -901,6 +891,16 @@ SUMMARY:Total Body Fit
 TRANSP:TRANSPARENT
 UID:ea7172a036d0897cb5ee2078237ea353a42ea7cd54c91bd54375a571bb9bef22@movement-portland-fitness
 URL:https://portal.movementgyms.com/portland/programs/total-body-fit?course=U2Vzc2lvbjoxMzAyNzQ3NTY=&date=2026-12-07
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Alex R.\nTechnique‑focused session teaching foundational barbell movements so beginners build confidence and veterans polish form.\nhttps://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2027-02-04
+DTEND:20270204T153000Z
+LOCATION:Movement Portland
+DTSTART:20270204T143000Z
+SUMMARY:Lifting Fundamentals
+TRANSP:TRANSPARENT
+UID:ecbf5802e352bbcbb683559f023d583cbb6f2fd9e6bd6bf3332440730cd08e03@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2027-02-04
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Paige G.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2027-01-02
