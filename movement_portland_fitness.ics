@@ -1153,6 +1153,16 @@ UID:19a69c87cd37c262eb46fc4645c7a98ce4c09a134b3a92450b8f2c70a633f3dd@movement-po
 URL:https://portal.movementgyms.com/portland/programs/lifting-fundamentals?course=U2Vzc2lvbjoxMzAyNzU2MDM=&date=2026-12-24
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Fitness\nInstructor: Paige G.\nStrengthen and align your body through a full-body Mat Pilates practice focused on core stability\, posture\, and intentional movement. This class blends controlled strength work with mindful stretching to enhance body awareness and support healthy mechanics. Improved alignment and core strength help reduce injury and elevate performance\, both on the wall and in everyday movement.\nhttps://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2027-02-06
+DTEND:20270206T180000Z
+LOCATION:Movement Portland
+DTSTART:20270206T170000Z
+SUMMARY:Mat Pilates
+TRANSP:TRANSPARENT
+UID:67f2802df680b63dd7aa74ea6c4125b45890c4c96cc3f36e6b37f04f2ae52dc7@movement-portland-fitness
+URL:https://portal.movementgyms.com/portland/programs/mat-pilates?course=U2Vzc2lvbjoxMzAyNzQwNTg=&date=2027-02-06
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Fitness\nInstructor: Britt R.\nA weight‑room staple that hones powerlifting and Olympic lifts to build maximal strength\, stability\, and metabolic conditioning.\nhttps://portal.movementgyms.com/portland/programs/strength?course=U2Vzc2lvbjoxMzAyNzU1MzA=&date=2026-12-09
 DTEND:20261209T153000Z
 LOCATION:Movement Portland
