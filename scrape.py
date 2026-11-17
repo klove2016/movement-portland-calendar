@@ -167,10 +167,19 @@ def main():
         page = browser.new_page()
         page.goto(URL, wait_until="networkidle", timeout=60000)
 
+        # Wait for the data to be available, with a reasonable timeout
+        try:
+            page.wait_for_load_state("networkidle", timeout=5000)
+        except Exception:
+            pass
+
         data = page.evaluate("window.elcap_calendar_data")
         config = page.evaluate("window.elcap_calendar_config")
 
         browser.close()
+
+    if not data or not config:
+        raise ValueError("Failed to fetch calendar data from the website. Data and config must not be None.")
 
     normal_starts = build_normal_event_starts(data, config)
 
